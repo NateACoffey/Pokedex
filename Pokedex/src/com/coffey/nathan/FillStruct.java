@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 public class FillStruct {
 	
-	private static final int pokeTotal = 807;
+	private static final int pokeTotal = 807;//---->if changed, need to change Hash5.java % return<----
 	public static Node[] hash = new Node[pokeTotal];
 	
 	Node curr = null;
@@ -31,37 +31,26 @@ public class FillStruct {
 		
 	}
 	
-	public void printStruct() {
+	public Struct findStruct(String pokeName) {
 		
-		for(Node p : hash) {
-			curr = p;
-			
-			while(curr != null) {//as long as current node is not empty
-				System.out.println(curr.struct);
-				
-				curr = curr.next;//changes current node to the next node
-				
+		Hash5 h5 = new Hash5();
+		int bucket = h5.hashName(pokeName);
+		
+		curr = hash[bucket].head;
+		
+		while(curr != null) {
+			if(curr.struct.name.contentEquals(pokeName)) {
+				return curr.struct;
+			} else{
+				curr = curr.next;
 			}
-			
-		}//end for
+		}
 		
+		curr = null;
+		return null;
 	}
-	
-	public int hashName(String name) { //hashes names of pokemon for array insertion
-		int numb = 0;
-        
-        for(int i = 0; i < name.length(); i++){
-            if(i > 5) //only takes up to first 5 characters
-               break; 
-            
-            int temp = name.charAt(i);
-            
-            numb += temp * (int)Math.pow(7, i);
-        }
-        
-        return numb % pokeTotal;
 		
-	}
+		
 	
 	public Struct fillStruct(String[] tempArr) {//fills the base struct with values
 		
@@ -115,7 +104,9 @@ public class FillStruct {
 				
 				struct = fillStruct(tempArr);//fills basic struct to be inserted in the full Node structure
 				
-				int buck = hashName(struct.name);
+				Hash5 h5 = new Hash5();
+				
+				int buck = h5.hashName(struct.name);
 				
 				addStruct(struct, buck);//uses the filled struct to insert it into the array
 				
@@ -128,7 +119,6 @@ public class FillStruct {
 		}
 		
 	}
-	
 	
 	
 }
