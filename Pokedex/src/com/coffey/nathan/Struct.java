@@ -28,13 +28,13 @@ public class Struct {
 	
 	
 	public String toString() {
-		return " Name: " + name
-				+ " Number: " + number
-				+ " Type: " + type1 + " / " + type2
-				+ " Abilities: " + ability1 + " / " + ability2
-				+ " Hidden Ability: " + hiddenAbility
-				+ " Catch rate: " + catchRate
-				+ " Egg groups: " + eggGroup1 + " / " + eggGroup2
-				+ " Base stats: " + baseHP + ", " + baseAttack + ", "+ baseDefense + ", "+ baseSpecialAttack + ", "+ baseSpecialDefense + ", " + baseSpeed;
+		return "Name: " + name
+				+ "\nNumber: " + number
+				+ "\nType: " + type1 + "\t" + type2
+				+ "\nAbilities: " + ability1 + "\t" + ability2
+				+ "\nHidden Ability: " + hiddenAbility
+				+ "\nCatch rate: " + catchRate
+				+ " \nEgg groups: " + eggGroup1 + " / " + eggGroup2
+				+ " \nBase stats:\n" + baseHP + "\t" + baseAttack + "\t"+ baseDefense + "\t"+ baseSpecialAttack + "\t"+ baseSpecialDefense + "\t" + baseSpeed;
 	}
 }
