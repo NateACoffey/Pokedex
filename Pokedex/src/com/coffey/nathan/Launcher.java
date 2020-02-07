@@ -11,42 +11,49 @@ import javafx.stage.Stage;
 
 
 
-public class Launcher extends Application implements EventHandler<ActionEvent>{
+public class Launcher extends Application {
 	
 	private static FillStruct data;
 	
-	Button button;
-	Button button2;
+	Stage window;
+	Button button, button2, exitProgram;
 	
 	@Override
     public void start(Stage primaryStage) throws Exception {
-        primaryStage.setTitle("Nathan's Pokedex");//title name
+		window = primaryStage;
+		
+		window.setTitle("Nathan's Pokedex");//title name
         
-        button = new Button("Makuhita"); //new button that sets the text
-        button.setOnAction(this);//set button to handle in "this" class
+        button = new Button("Dreepy"); //new button that sets the text
+        button.setOnAction(e -> System.out.println(data.findStruct(button.getText())));//set button to handle in "this" class
         
-        button2 = new Button("Blacephalon"); 
-        button2.setOnAction(this);
+        //button2 = new Button("Blacephalon"); 
+        //button2.setOnAction(e -> System.out.println(data.findStruct(button2.getText())));
+        
+        
+        exitProgram = new Button("Exit"); //closing the program
+        exitProgram.setOnAction(e -> closeProgram());
+        window.setOnCloseRequest(e -> { //override auto exit
+        	e.consume();
+        	closeProgram();
+        });
+        
         
         StackPane layout = new StackPane();
-        layout.getChildren().add(button);
-        layout.getChildren().add(button2);
+        layout.getChildren().addAll(button);
+        //layout.getChildren().add(button2);
         
         
         
         Scene scene = new Scene(layout, 1024, 768);//size of window; width, length
-        primaryStage.setScene(scene);
-        primaryStage.show();
+        window.setScene(scene);
+        window.show();
     }
 	
-	@Override
-	public void handle(ActionEvent event) {
-		if(event.getSource() == button) {
-			System.out.println(data.findStruct(button.getText()));
-		}
-		if(event.getSource() == button2) {
-			System.out.println(data.findStruct(button2.getText()));
-		}
+	private void closeProgram() {
+		//Boolean exit = ConfirmBox.display("Title", "Are you sure you want to exit?");
+		//if(exit)
+			window.close();
 	}
 	
 	public static void main(String[] args) {

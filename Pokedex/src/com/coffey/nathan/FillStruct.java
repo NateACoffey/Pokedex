@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 public class FillStruct {
 	
-	private static final int pokeTotal = 807;//---->if changed, need to change Hash5.java % return<----
+	private static final int pokeTotal = 890;//---->if changed, need to change Hash5.java % return<----
 	public static Node[] hash = new Node[pokeTotal];
 	
 	Node curr = null;
@@ -87,7 +87,7 @@ public class FillStruct {
 	public void struct(){
 		
 		
-		
+		int p = 0;
 		
 		File file = new File("PokemonData.txt");
 	
@@ -109,6 +109,7 @@ public class FillStruct {
 				int buck = h5.hashName(struct.name);
 				
 				addStruct(struct, buck);//uses the filled struct to insert it into the array
+				
 				
 			}
 			

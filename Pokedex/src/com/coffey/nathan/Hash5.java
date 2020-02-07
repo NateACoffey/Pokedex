@@ -14,7 +14,7 @@ public class Hash5 {
             numb += temp * (int)Math.pow(7, i);
         }
         
-        return numb % 807;
+        return numb % 890;
 		
 	}
 }

@@ -806,3 +806,86 @@ Naganadel;		804;	;				posion;	dragon;	beast boost;;			;				45;			undiscovered;;	
 Stakataka;		805;	;				rock;	steel;	beast boost;;			;				30;			undiscovered;;			61;131;211;53;101;13
 Blacephalon;	806;	;				fire;	ghost;	beast boost;;			;				30;			undiscovered;;			53;127;53;151;79;107
 Zeraora;		807;	;				electric;;		volt absorb;;			;				3;			undiscovered;;			88;112;75;102;80;143
+Meltan;			808;	;				steel;	;		magnet pull;;			;				3;			undiscovered;;			46;65;65;55;35;34
+Melmetal;		809;	;				steel;	;		iron fist;	;			;				3;			undiscovered;;			135;143;143;80;65;34
+Grookey;		810;	;				grass;	;		overgrow;	;			grassy surge;	45;			field;		grass;		50;65;50;40;40;65
+Thwackey;		811;	;				grass;	;		overgrow;	;			grassy surge;	45;			field;		grass;		70;85;70;55;60;80
+Rillaboom;		812;	;				grass;	;		overgrow;	;			grassy surge;	45;			field;		grass;		100;125;90;60;70;85
+Scorbunny;		813;	;				fire;	;		blaze;		;			libero;			45;			field;		human-like;	50;71;40;40;40;69
+Raboot;			814;	;				fire;	;		blaze;		;			libero;			45;			field;		human-like;	65;86;60;55;60;94
+Cinderace;		815;	;				fire;	;		blaze;		;			libero;			45;			field;		human-like;	80;116;75;65;75;119
+Sobble;			816;	;				water;	;		torrent;	;			sniper;			45;			water 1;	field;		50;40;40;70;40;70
+Drizzile;		817;	;				water;	;		torrent;	;			sniper;			45;			water 1;	field;		65;60;55;95;55;90
+Inteleon;		818;	;				water;	;		torrent;	;			sniper;			45;			water 1;	field;		70;85;65;125;65;120
+Skwovet;		819;	;				normal;	;		cheek pouch;;			gluttony;		255;		field;		;			70;55;55;35;35;25
+Greedent;		820;	;				normal;	;		cheek pouch;;			gluttony;		90;			field;		;			120;95;95;55;75;20
+Rookidee;		821;	;				flying;	;		keen eye;	unnerve;	big pecks;		255;		flying;		;			38;47;35;33;35;57
+Corvisquire;	822;	;				flying;	;		keen eye;	unnerve;	big pecks;		120;		flying;		;			68;67;55;43;55;77
+Corviknight;	823;	;				flying;	steel;	keen eye;	unnerve;	big pecks;		45;			flying;		;			98;87;105;53;85;67
+Blipbug;		824;	;				bug;	;		Swarm;		compound eyes;telepathy;	255;		bug;		;			25;20;20;25;45;45
+Dottler;		825;	;				bug;	psychic;Swarm;		compound eyes;telepathy;	120;		bug;		;			50;35;80;50;90;30
+Orbeetle;		826;	;				bug;	psychic;Swarm;		frisk;		telepathy;		45;			bug;		;			60;45;110;80;120;90
+Nickit;			827;	;				dark;	;		run away;	unburden;	stakeout;		255;		field;		;			40;28;28;47;52;50
+Thievul;		828;	;				dark;	;		run away;	unburden;	stakeout;		127;		field;		;			70;58;58;87;92;90
+Gossifleur;		829;	;				grass;	;		cotton down;regenerator;effect spore;	190;		grass;		;			40;40;60;40;60;10
+Eldegoss;		830;	;				grass;	;		cotton down;regenerator;effect spore;	75;			grass;		;			60;50;90;80;120;60
+Wooloo;			831;	;				normal;	;		fluffy;		run away;	bulletproof;	255;		field;		;			42;40;55;40;45;48
+Dubwool;		832;	;				normal;	;		fluffy;		steadfast;	bulletproof;	127;		field;		;			72;80;100;60;90;88
+Chewtle;		833;	;				water;	;		strong jaw;	shell armor;swift swim;		255;		monster;	water 1;	50;64;50;38;38;44
+Drednaw;		834;	;				water;	rock;	strong jaw;	shell armor;swift swim;		75;			monster;	water 1;	90;115;90;48;68;74
+Yamper;			835;	;				electric;;		ball fetch;	;			rattled;		255;		field;		;			59;45;50;40;50;26
+Boltund;		836;	;				electric;;		strong jaw;	;			competitive;	45;			field;		;			69;90;60;90;60;121
+Rolycoly;		837;	;				rock;	;		steam engine;heatproof;	flash fire;		255;		mineral;	;			30;40;50;40;50;30
+Carkol;			838;	;				rock;	fire;	steam engine;flame body;flash fire;		120;		mineral;	;			80;60;90;60;70;50
+Coalossal;		839;	;				rock;	fire;	steam engine;flame body;flash fire;		45;			mineral;	;			110;80;120;80;90;30
+Applin;			840;	;				grass;	dragon;	ripen;		gluttony;	bulletproof;	255;		grass;		dragon;		40;40;80;40;40;20
+Flapple;		841;	;				grass;	dragon;	ripen;		gluttony;	hustle;			45;			grass;		dragon;		70;110;80;95;60;70
+Appletun;		842;	;				grass;	dragon;	ripen;		gluttony;	thick fat;		45;			grass;		dragon;		110;85;80;100;80;30
+Silicobra;		843;	;				ground;	;		sand spit;	shed skin;	sand veil;		255;		field;		dragon;		52;57;75;35;50;46
+Sandaconda;		844;	;				ground;	;		sand spit;	shed skin;	sand veil;		120;		field;		dragon;		72;107;125;65;70;71
+Cramorant;		845;	;				flying;	water;	gulp missile;;			;				45;			water 1;	flying;		70;85;55;85;95;85
+Arrokuda;		846;	;				water;	;		swift swim;	;			propeller tail;	255;		water 2;	;			41;63;40;40;30;66
+Barraskewda;	847;	;				water;	;		swift swim;	;			propeller tail;	60;			water 2;	;			61;123;60;60;50;136
+Toxel;			848;	;				electric;poison;rattled;	static;		klutz;			75;			undiscovered;;			40;38;35;54;35;40
+Toxtricity;		849;	;				electric;poison;punk rock;	plus / minus;technician;	45;			human-like;	;			75;98;70;114;70;75
+Sizzlipede;		850;	;				fire;	bug;	flash fire;	white smoke;flame body;		190;		bug;		;			50;65;45;50;50;45
+Centiskorch;	851;	;				fire;	bug;	flash fire;	white smoke;flame body;		75;			bug;		;			100;115;65;90;90;65
+Clobbopus;		852;	;				fighting;;		limber;		;			technician;		180;		water 1;	human-like;	50;68;60;50;50;32
+Grapploct;		853;	;				fighting;;		limber;		;			technician;		45;			water 1;	human-like;	80;118;90;70;80;42
+Sinistea;		854;	;				ghost;	;		weak armor;	;			cursed body;	120;		mineral;	amorphous;	40;45;45;74;54;50
+Polteageist;	855;	;				ghost;	;		weak armor;	;			cursed body;	60;			mineral;	amorphous;	60;65;65;134;114;70
+Hatenna;		856;	;				psychic;;		healer;		anticipation;magic bounce;	235;		fairy;		;			42;30;45;56;53;39
+Hattrem;		857;	;				psychic;;		healer;		anticipation;magic bounce;	120;		fairy;		;			57;40;65;86;73;49
+Hatterene;		858;	;				psychic;fairy;	healer;		anticipation;magic bounce;	45;			fairy;		;			57;90;95;136;103;29
+Impidimp;		859;	;				dark;	fairy;	prankster;	frisk;		pickpocket;		255;		fairy;		human-like;	45;45;30;55;40;50
+Morgrem;		860;	;				dark;	fairy;	prankster;	frisk;		pickpocket;		120;		fairy;		human-like;	65;60;45;75;55;70
+Grimmsnarl;		861;	;				dark;	fairy;	prankster;	frisk;		pickpocket;		45;			fairy;		human-like;	95;120;65;95;75;60
+Obstagoon;		862;	;				dark;	normal;	reckless;	guts;		defiant;		45;			field;		;			93;90;101;60;81;95
+Perrserker;		863;	;				steel;	;		battle armor;tough claws;steely spirit;	90;			field;		;			70;110;100;50;60;50
+Cursola;		864;	;				ghost;	;		weak armor;	;			perish body;	30;			water 1;	water 3;	60;95;50;145;130;30
+Sirfetch'd;		865;	;				fighting;;		steadfast;	;			scrappy;		45;			flying;		field;		62;135;95;68;82;65
+Mr.Rime;		866;	;				ice;	psychic;tangled feet;screen cleaner;ice body;	45;			human-like;	;			80;85;75;110;100;70
+Runerigus;		867;	;				ground;	ghost;	wandering spirit;;		;				90;			mineral;	amorphous;	58;95;145;50;105;30
+Milcery;		868;	;				fairy;	;		sweet veil;	;			aroma veil;		200;		fairy;		amorphous;	45;40;40;50;61;34
+Alcremie;		869;	;				fairy;	;		sweet veil;	;			aroma veil;		100;		fairy;		amorphous;	65;60;75;110;121;64
+Falinks;		870;	;				fighting;;		battle armor;;			defiant;		45;			fairy;		mineral;	65;100;100;70;60;75
+Pincurchin;		871;	;				electric;;		lightning rod;;			electric surge;	75;			water 1;	amorphous;	48;101;95;91;85;15
+Snom;			872;	;				ice;	bug;	shield dust;;			ice scales;		190;		bug;		;			30;25;35;45;30;20
+Frosmoth;		873;	;				ice;	bug;	shield dust;;			ice scales;		75;			bug;		;			70;65;60;125;90;65
+Stonjourner;	874;	;				rock;	;		power spot;	;			;				60;			mineral;	;			100;125;135;20;20;70
+Eiscue;			875;	;				ice;	;		ice face;	;			;				60;			water 1;	field;		75;80;110;65;90;50
+Indeedee;		876;	;				psychic;normal;	inner focus / own tempo;synchronize;psychic surge;30;fairy;		;			60;65;55;105;95;95
+Morpeko;		877;	;				electric;dark;	hunger switch;;			;				180;		field;		fairy;		58;95;58;70;58;97
+Cufant;			878;	;				steel;	;		sheer force;;			heavy metal;	190;		field;		mineral;	72;80;49;40;49;40
+Copperajah;		879;	;				steel;	;		sheer force;;			heavy metal;	90;			field;		mineral;	122;130;69;80;69;30
+Dracozolt;		880;	;				electric;dragon;volt absorb;hustle;		sand rush;		45;			undiscovered;;			90;100;90;80;70;75
+Arctozolt;		881;	;				electric;ice;	volt absorb;static;		slush rush;		45;			undiscovered;;			90;100;90;90;80;55
+Dracovish;		882;	;				water;	dragon;	water absorb;strong jaw;sand rush;		45;			undiscovered;;			90;90;100;70;80;75
+Arctovish;		883;	;				water;	ice;	water absorb;ice body;	slush rush;		45;			undiscovered;;			90;90;100;80;90;55
+Duraludon;		884;	;				steel;	dragon;	light metal;heavy metal;stalwart;		45;			mineral;	dragon;		70;95;115;120;50;85
+Dreepy;			885;	;				dragon;	ghost;	clear body;	infiltrator;cursed body;	45;			amorphous;	dragon;		28;60;30;40;30;82
+Drakloak;		886;	;				dragon;	ghost;	clear body;	infiltrator;cursed body;	45;			amorphous;	dragon;		68;80;50;60;50;102
+Dragapult;		887;	;				dragon;	ghost;	clear body;	infiltrator;cursed body;	45;			amorphous;	dragon;		88;120;75;10;75;142
+Zacian;			888;	;				fairy;	;		intrepid sword;;		;				10;			undiscovered;;			92;130;115;80;115;138
+Zamacenta;		889;	;				fighting;;		dauntless shield;;		;				10;			undiscovered;;			92;130;115;80;115;138
+Eternatus;		890;	;				poison;	dragon;	pressure;	;			;				255;		undiscovered;;			140;85;95;145;95;130
