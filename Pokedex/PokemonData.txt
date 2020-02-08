@@ -1,891 +1,891 @@
-name;			number;	photo.link;		type 1;	type 2;	ability 1;	ability 2;	hidden ability;	catch rate;	egg group1;	egg group2;	hp;	atk;	def;	spatk;	spdef;	speed
-Bulbasaur;		1; 		bulbasaur.png;	grass;	poison;	overgrow;	;			chlorophyll;	45;			monster;	grass;		45;49;49;65;65;45
-Ivysaur;		2;		;				grass;	poison;	overgrow;	;			chlorophyll;	45;			monster;	grass;		60;62;63;80;80;60
-Venusaur;		3;		;				grass;	poison;	overgrow;	;			chlorophyll;	45;			monster;	grass;		80;82;83;100;100;80
-Charmander;		4;		;				fire;	;		blaze;		;			solar power;	45;			monster;	dragon;		39;52;43;60;50;65
-Charmeleon;		5;		;				fire;	;		blaze;		;			solar power;	45;			monster;	dragon;		58;64;58;80;65;80
-Charizard;		6;		;				fire;	flying;	blaze;		;			solar power;	45;			monster;	dragon;		78;84;78;109;85;100
-Squirtle;		7;		;				water;	;		torrent;	;			rain dish;		45;			monster;	water 1;	44;48;65;50;64;43
-Wartortle;		8;		;				water;	;		torrent;	;			rain dish;		45;			monster;	water 1;	59;63;80;65;80;58
-Blastoise;		9;		;				water;	;		torrent;	;			rain dish;		45;			monster;	water 1;	79;83;100;85;105;78
-Caterpie;		10;		;				bug;	;		shield dust;;			run	away;		255;		bug;		;			45;30;35;20;20;45
-Metapod;		11;		;				bug;	;		shed skin;	;			;				120;		bug;		;			50;20;55;25;25;30
-Butterfree;		12;		;				bug;	flying;	compound eyes;;			tinted lens;	45;			bug;		;			60;45;50;90;80;70
-Weedle;			13;		;				bug;	poison;	shield dust;;			run	away;		255;		bug;		;			40;35;30;20;20;50
-Kakuna;			14;		;				bug;	poison;	shed skin;	;			;				120;		bug;		;			45;25;50;25;25;35
-Beedrill;		15;		;				bug; 	poison;	swarm;		;			sniper;			45;			bug;		;			65;90;40;45;80;75
-Pidgey;			16;		;				normal;	flying;	keen eye;	tangled feet;big pecks;		255;		flying;		;			40;45;40;35;35;56
-Pidgeotto;		17;		;				normal;	flying;	keen eye;	tangled feet;big pecks;		120;		flying;		;			63;60;55;50;50;71
-Pidgeot;		18;		;				normal;	flying;	keen eye;	tangled feet;big pecks;		45;			flying;		;			83;80;75;70;70;101
-Rattata;		19;		;				normal;	;		run away;	guts;		hustle;			255;		field;		;			30;56;35;25;35;72
-Raticate;		20;		;				normal;	;		run away;	guts;		hustle;			127;		field;		;			55;81;60;50;70;97
-Spearow;		21;		;				normal;	flying;	keen eye;	;			sniper;			255;		flying;		;			40;60;30;31;31;70
-Fearow;			22;		;				normal;	flying;	keen eye;	;			sniper;			90;			flying;		;			65;90;65;61;61;100
-Ekans;			23;		;				poison;	;		intimidate;	shed skin;	unnerve;		255;		field;		dragon;		35;60;44;40;54;55
-Arbok;			24;		;				poison;	;		intimidate;	shed skin;	unnerve;		90;			field;		dragon;		60;95;69;65;79;80
-Pikachu;		25;		;				electric;;		static;		;			lightning rod;	190;		field;		fairy;		35;55;40;50;50;90
-Raichu;			26;		;				electric;;		static;		;			lightning rod;	75;			field;		fairy;		60;90;55;90;80;110
-Sandshrew;		27;		;				ground;	;		sand veil;	;			sand rush;		255;		field;		;			50;75;85;20;30;40
-Sandslash;		28;		;				ground;	;		sand veil;	;			sand rush;		90;			field;		;			75;100;110;45;55;65
-Nidoran♀;		29;		;				poison;	;		poison point;rivalry;	hustle;			235;		monster;	field;		55;47;52;40;40;41
-Nidorina;		30;		;				poison;	;		poison point;rivalry;	hustle;			120;		undiscovered;;			70;62;67;55;55;56
-Nidoqueen;		31;		;				poison;	ground;	poison point;rivalry;	sheer force;	45;			undiscovered;;			90;92;87;75;85;76
-Nidoran♂;		32;		;				poison;	;		poison point;rivalry;	hustle;			235;		monster;	field;		46;57;40;40;40;50
-Nidorino;		33;		;				poison;	;		poison point;rivalry;	hustle;			120;		monster;	field;		61;72;57;55;55;65
-Nidoking;		34;		;				poison;	ground;	poison point;rivalry;	sheer force;	45;			monster;	field;		81;102;77;85;75;85
-Clefairy;		35;		;				fairy;	;		cute charm;	magic guard;friend guard;	150;		fairy;		;			70;45;48;60;65;35
-Clefable;		36;		;				fairy;	;		cute charm;	magic guard;unaware;		25;			fairy;		;			95;70;73;95;90;60
-Vulpix;			37;		;				fire;	;		flash fire;	;			drought;		190;		field;		;			38;41;40;50;65;65
-Ninetales;		38;		;				fire;	;		flash fire;	;			drought;		75;			field;		;			73;76;75;81;100;100
-Jigglypuff;		39;		;				normal;	fairy;	cute charm;	competitive;friend guard;	170;		fairy;		;			115;45;20;45;25;20
-Wigglytuff;		40;		;				normal;	fairy;	cute charm;	competitive;frisk;			50;			fairy;		;			140;70;45;85;50;45
-Zubat;			41;		;				poison;	flying;	inner focus;;			infiltrator;	255;		flying;		;			40;45;35;30;40;55
-Golbat;			42;		;				poison;	flying;	inner focus;;			infiltrator;	90;			flying;		;			75;80;70;65;75;90
-Oddish;			43;		;				grass;	poison;	chlorophyll;;			run away;		255;		grass;		;			45;50;55;75;65;30
-Gloom;			44;		;				grass;	poison;	chlorophyll;;			stench;			120;		grass;		;			60;65;70;85;75;40
-Vileplume;		45;		;				grass;	poison;	chlorophyll;;			effect spore;	45;			grass;		;			75;80;85;110;90;50
-Paras;			46;		;				bug;	grass;	effect spore;dry skin;	damp;			190;		bug;		grass;		35;70;55;45;55;25
-Parasect;		47;		;				bug;	grass;	effect spore;dry skin;	damp;			75;			bug;		grass;		60;95;80;60;80;30
-Venonat;		48;		;				bug;	poison;	compound eyes;tinted lens;run away;		190;		bug;		;			60;55;50;40;55;45
-Venomoth;		49;		;				bug;	poison;	shield dust;tinted lens;wonder skin;	75;			bug;		;			70;65;60;90;75;90
-Diglett;		50;		;				ground;	;		sand veil;	arena trap;	sand force;		255;		field;		;			10;55;25;35;45;95
-Dugtrio;		51;		;				ground;	;		sand veil;	arena trap;	sand force;		50;			field;		;			35;100;50;50;70;120
-Meowth;			52;		;				normal;	;		pickup;		technician;	unnerve;		255;		field;		;			40;45;35;40;40;90
-Persian;		53;		;				normal;	;		limber;		technician;	unnerve;		90;			field;		;			65;70;60;65;65;115
-Psyduck;		54;		;				water;	;		damp;		cloud nine;	swift swim;		190;		water 1;	field;		50;52;48;65;50;55
-Golduck;		55;		;				water;	;		damp;		cloud nine;	swift swim;		75;			water 1;	field;		80;82;78;95;80;85
-Mankey;			56;		;				fighting;;		vital spirit;anger point;defiant;		190;		field;		;			40;80;35;35;45;70
-Primeape;		57;		;				fighting;;		vital spirit;anger point;defiant;		75;			field;		;			65;105;60;60;70;95
-Growlithe;		58;		;				fire;	;		intimidate;	flash fire;	justified;		190;		field;		;			55;70;45;70;50;60
-Arcanine;		59;		;				fire;	;		intimidate;	flash fire;	justified;		75;			field;		;			90;110;80;100;80;95
-Poliwag;		60;		;				water;	;		water absorb;damp;		swift swim;		255;		water 1;	;			40;50;40;40;40;90
-Poliwhirl;		61;		;				water;	;		water absorb;damp;		swift swim;		120;		water 1;	;			65;65;65;50;50;90
-Poliwrath;		62;		;				water;	fighting;water absorb;damp;		swift swim;		45;			water 1;	;			90;95;95;70;90;70
-Abra;			63;		;				psychic;;		synchronize;inner focus;magic guard;	200;		human-like;	;			25;20;15;105;55;90
-Kadabra;		64;		;				psychic;;		synchronize;inner focus;magic guard;	100;		human-like;	;			40;35;30;120;70;105
-Alakazam;		65;		;				psychic;;		synchronize;inner focus;magic guard;	50;			human-like;	;			55;50;45;135;95;120
-Machop;			66;		;				fighting;;		guts;		no guard;	steadfast;		180;		human-like;	;			70;80;50;35;35;35
-Machoke;		67;		;				fighting;;		guts;		no guard;	steadfast;		90;			human-like;	;			80;100;70;50;60;45
-Machamp;		68;		;				fighting;;		guts;		no guard;	steadfast;		45;			human-like;	;			90;130;80;65;85;55
-Bellsprout;		69;		;				grass;	poison;	chlorophyll;;			gluttony;		255;		grass;		;			50;75;35;70;30;40
-Weepinbell;		70;		;				grass;	poison;	chlorophyll;;			gluttony;		120;		grass;		;			65;90;50;85;45;55
-Victreebel;		71;		;				grass;	poison;	chlorophyll;;			gluttony;		45;			grass;		;			80;105;65;100;70;70
-Tentacool;		72;		;				water;	poison;	clear body;	liquid ooze;rain dish;		190;		water 3;	;			40;40;35;50;100;70
-Tentacruel;		73;		;				water;	poison;	clear body;	liquid ooze;rain dish;		60;			water 3;	;			80;70;65;80;120;100
-Geodude;		74;		;				rock;	ground;	rock head;	sturdy;		sand veil;		255;		mineral;	;			40;80;100;30;30;20
-Graveler;		75;		;				rock;	ground;	rock head;	sturdy;		sand veil;		120;		mineral;	;			55;95;115;45;45;35
-Golem;			76;		;				rock;	ground;	rock head;	sturdy;		sand veil;		45;			mineral;	;			80;120;130;55;65;45
-Ponyta;			77;		;				fire;	;		run away;	flash fire;	flame body;		190;		field;		;			50;85;55;65;65;90
-Rapidash;		78;		;				fire;	;		run away;	flash fire;	flame body;		60;			field;		;			65;100;70;80;80;105
-Slowpoke;		79;		;				water;	psychic;oblivious;	own tempo;	regenerator;	190;		monster;	water 1;	90;65;65;40;40;15
-Slowbro;		80;		;				water;	psychic;oblivious;	own tempo;	regenerator;	75;			monster;	water 1;	95;75;110;100;80;30
-Magnemite;		81;		;				electric;steel;	magnet pull;sturdy;		analytic;		190;		mineral;	;			25;35;70;95;55;45
-Magneton;		82;		;				electric;steel;	magnet pull;sturdy;		analytic;		60;			mineral;	;			50;60;95;120;70;70
-Farfetch'd;		83;		;				normal;	flying;	keen eye;	inner focus;defiant;		45;			flying;		field;		52;90;55;58;62;60
-Doduo;			84;		;				normal;	flying;	run away;	early bird;	tangled feet;	190;		flying;		;			35;85;45;35;35;75
-Dodrio;			85;		;				normal;	flying;	run away;	early bird;	tangled feet;	45;			flying;		;			60;110;70;60;60;110
-Seel;			86;		;				water;	;		thick fat;	hydration;	ice body;		190;		water 1;	field;		65;45;55;45;70;45
-Dewgong;		87;		;				water;	ice;	thick fat;	hydration;	ice body;		75;			water 1;	field;		90;70;80;70;95;70
-Grimer;			88;		;				poison;	;		stench;		sticky hold;poison touch;	190;		amorphous;	;			80;80;50;40;50;25
-Muk;			89;		;				poison;	;		stench;		sticky hold;poison touch;	75;			amorphous;	;			105;105;75;65;100;50
-Shellder;		90;		;				water;	;		shell armor;skill link;	overcoat;		190;		water 3;	;			30;65;100;45;25;40
-Cloyster;		91;		;				water;	ice;	shell armor;skill link;	overcoat;		60;			water 3;	;			50;95;180;85;45;70
-Gastly;			92;		;				ghost;	poison;	levitate;	;			;				190;		amorphous;	;			30;35;30;100;35;80
-Haunter;		93;		;				ghost;	poison;	levitate;	;			;				90;			amorphous;	;			45;50;45;115;55;95
-Gengar;			94;		;				ghost;	poison;	cursed body;;			;				45;			amorphous;	;			60;65;60;130;75;110
-Onix;			95;		;				rock;	ground;	rock head;	sturdy;		weak armor;		45;			mineral;	;			35;45;160;30;45;70
-Drowzee;		96;		;				psychic;;		insomnia;	forewarn;	inner focus;	190;		human-like;	;			60;48;45;43;90;42
-Hypno;			97;		;				psychic;;		insomnia;	forewarn;	inner focus;	75;			human-like;	;			85;73;70;73;115;67
-Krabby;			98;		;				water;	;		hyper cutter;shell armor;sheer force;	225;		water 3;	;			30;105;90;25;25;50
-Kingler;		99;		;				water;	;		hyper cutter;shell armor;sheer force;	60;			water 3;	;			55;130;115;50;50;75
-Voltorb;		100;	;				electric;;		soundproof;	static;		aftermath;		190;		mineral;	;			40;30;50;55;55;100
-Electrode;		101;	;				electric;;		soundproof;	static;		aftermath;		60;			mineral;	;			60;50;70;80;80;150
-Exeggcute;		102;	;				grass;	poison;	chlorophyll;;			harvest;		90;			grass;		;			60;40;80;60;45;40
-Exeggutor;		103;	;				grass;	poison;	chlorophyll;;			harvest;		45;			grass;		;			95;95;85;125;75;55
-Cubone;			104;	;				ground;	;		rock head;	lightning rod;battle armor;	190;		monster;	;			50;50;95;40;50;35
-Marowak;		105;	;				ground;	;		rock head;	lightning rod;battle armor;	75;			monster;	;			60;80;110;50;80;45
-Hitmonlee;		106;	;				fighting;;		limber;		reckless;	unburden;		45;			human-like;	;			50;120;53;35;110;87
-Hitmonchan;		107;	;				fighting;;		keen eye;	iron fist;	inner focus;	45;			human-like;	;			50;105;79;35;110;76
-Lickitung;		108;	;				normal;	;		own tempo;	oblivious;	cloud nine;		45;			monster;	;			90;55;75;60;75;30
-Koffing;		109;	;				poison;	;		levitate;	;			;				190;		amorphous;	;			40;65;95;60;45;35
-Weezing;		110;	;				poison;	;		levitate;	;			;				60;			amorphous;	;			65;90;120;85;70;60
-Rhyhorn;		111;	;				ground;	rock;	lightning rod;rock head;reckless;		120;		monster;	field;		80;85;95;30;30;25
-Rhydon;			112;	;				ground;	rock;	lightning rod;rock head;reckless;		60;			monster;	field;		105;130;120;45;45;40
-Chansey;		113;	;				normal;	;		natural cure;serene grace;healer;		30;			fairy;		;			250;5;5;35;105;50
-Tangela;		114;	;				grass;	;		chlorophyll;leaf guard;	regenerator;	45;			grass;		;			65;55;115;100;40;60
-Kangaskhan;		115;	;				normal;	;		early bird;	scrappy;	inner focus;	45;			monster;	;			105;95;80;40;80;90
-Horsea;			116;	;				water;	;		swift swim;	sniper;		damp;			225;		water 1;	dragon;		30;40;70;70;25;60
-Seadra;			117;	;				water;	;		poison point;sniper;	damp;			75;			water 1;	dragon;		55;65;95;95;45;85
-Goldeen;		118;	;				water;	;		swift swim;	water veil;	lightning rod;	225;		water 2;	;			45;67;60;35;50;63
-Seaking;		119;	;				water;	;		swift swim;	water veil;	lightning rod;	60;			water 2;	;			80;92;65;65;80;68
-Staryu;			120;	;				water;	;		illuminate;	natural cure;analytic;		225;		water 3;	;			30;45;55;70;55;85
-Starmie;		121;	;				water;	psychic;illuminate;	natural cure;analytic;		60;			water 3;	;			60;75;85;100;85;115
-Mr. Mime;		122;	;				psychic;fairy;	soundproof;	filter;		technician;		45;			human-like;	;			40;45;65;100;120;90
-Scyther;		123;	;				bug;	flying;	swarm;		technician;	steadfast;		45;			bug;		;			70;110;80;55;80;105
-Jynx;			124;	;				ice;	psychic;oblivious;	forewarn;	dry skin;		45;			human-like;	;			65;50;35;115;95;95
-Electabuzz;		125;	;				electric;;		static;		;			vital spirit;	45;			human-like;	;			65;83;57;95;85;105
-Magmar;			126;	;				fire;	;		flame body;	;			vital spirit;	45;			human-like;	;			65;95;57;100;85;93
-Pinsir;			127;	;				bug;	;		hyper cutter;mold breaker;moxie;		45;			bug;		;			65;125;100;55;70;85
-Tauros;			128;	;				normal;	;		intimidate;	anger point;sheer force;	45;			field;		;			75;100;95;40;70;110
-Magikarp;		129;	;				water;	;		swift swim;	;			rattled;		255;		water 2;	dragon;		20;10;55;15;20;80
-Gyarados;		130;	;				water;	flying;	intimidate;	;			moxie;			45;			water 2;	dragon;		95;125;79;60;100;81
-Lapras;			131;	;				water;	ice;	water absorb;shell armor;hydration;		45;			mosnter;	water 1;	130;85;80;85;95;60
-Ditto;			132;	;				normal;	;		limber;		;			imposter;		35;			ditto;		;			48;48;48;48;48;48
-Eevee;			133;	;				normal;	;		run away;	adaptability;anticipation;	45;			field;		;			55;55;50;45;65;55
-Vaporeon;		134;	;				water;	;		water absorb;;			hydration;		45;			field;		;			130;65;60;110;95;65
-Jolteon;		135;	;				electric;;		volt absorb;;			quick feet;		45;			field;		;			65;65;60;110;95;130
-Flareon;		136;	;				fire;	;		flash fire;	;			guts;			45;			field;		;			65;130;60;95;110;65
-Porygon;		137;	;				normal;	;		trace;		download;	analytic;		45;			mineral;	;			65;60;70;85;75;40
-Omanyte;		138;	;				rock;	water;	swift swim;	shell armor;weak armor;		45;			water 1;	water 3;	35;40;100;90;55;35
-Omastar;		139;	;				rock;	water;	swift swim;	shell armor;weak armor;		45;			water 1;	water 3;	70;60;125;115;70;55
-Kabuto;			140;	;				rock;	water;	swift swim;	battle armor;weak armor;	45;			water 1;	water 3;	30;80;90;55;45;55
-Kabutops;		141;	;				rock;	water;	swift swim;	battle armor;weak armor;	45;			water 1;	water 3;	60;115;105;65;70;80
-Aerodactyl;		142;	;				rock;	flying;	rock head;	pressure;	unnerve;		45;			flying;		;			80;105;65;60;75;130
-Snorlax;		143;	;				normal;	;		immunity;	thick fat;	gluttony;		25;			monster;	;			160;110;65;65;110;30
-Articuno;		144;	;				ice;	flying;	pressure;	;			snow cloak;		3;			undiscovered;;			90;85;100;95;125;85
-Zapdos;			145;	;				electric;flying;pressure;	;			static;			3;			undiscovered;;			90;90;85;125;90;100
-Moltres;		146;	;				fire;	flying;	pressure;	;			flame body;		3;			undiscovered;;			90;100;90;125;85;90
-Dratini;		147;	;				dragon;;		shed skin;	;			marvel scale;	45;			water 1;	dragon;		41;64;45;50;50;50
-Dragonair;		148;	;				dragon;;		shed skin;	;			marvel scale;	45;			water 1;	dragon;		61;84;65;70;70;70
-Dragonite;		149;	;				dragon;	flying;	shed skin;	;			multiscale;		45;			water 1;	dragon;		91;134;95;100;100;80
-Mewtwo;			150;	;				psychic;;		pressure;	;			unnerve;		3;			undiscovered;;			106;110;90;154;90;130
-Mew;			151;	;				psychic;;		synchronize;;			;				45;			undiscovered;;			100;100;100;100;100;100
-Chikorita;		152;	;				grass;;			overgrow;	;			leaf guard;		45;			monster;	grass;		45;49;65;49;65;45
-Bayleef;		153;	;				grass;;			overgrow;	;			leaf guard;		45;			monster;	grass;		60;62;80;63;80;60
-Meganium;		154;	;				grass;;			overgrow;	;			leaf guard;		45;			monster;	grass;		80;82;100;83;100;80
-Cyndaquil;		155;	;				fire;	;		blaze;		;			flash fire;		45;			field;		;			39;52;43;60;50;65
-Quilava;		156;	;				fire;	;		blaze;		;			flash fire;		45;			field;		;			58;64;58;80;65;80
-Typhlosion;		157;	;				fire;	;		blaze;		;			flash fire;		45;			field;		;			78;84;78;109;85;100
-Totodile;		158;	;				water;	;		torrent;	;			sheer force;	45;			monster;	water 1;	50;65;64;44;48;43
-Croconaw;		159;	;				water;	;		torrent;	;			sheer force;	45;			monster;	water 1;	65;80;80;59;63;58
-Feraligatr;		160;	;				water;	;		torrent;	;			sheer force;	45;			monster;	water 1;	85;105;100;79;83;78
-Sentret;		161;	;				normal;	;		run away;	keen eye;	frisk;			255;		field;		;			35;46;34;35;45;20
-Furret;			162;	;				normal;	;		run away;	keen eye;	frisk;			90;			field;		;			85;76;64;45;55;90
-Hoothoot;		163;	;				normal;	flying;	insomnia;	keen eye;	tinted lens;	255;		flying;		;			60;30;30;36;56;50
-Noctowl;		164;	;				normal;	flying;	insomnia;	keen eye;	tinted lens;	90;			flying;		;			100;50;50;86;96;70
-Ledyba;			165;	;				bug;	flying;	swarm;		early bird;	rattled;		255;		bug;		;			40;20;30;40;80;55
-Ledian;			166;	;				bug;	flying;	swarm;		early bird;	iron fist;		90;			bug;		;			55;35;50;55;110;85
-Spinarak;		167;	;				bug;	poison;	swarm;		insomnia;	sniper;			255;		bug;		;			40;60;40;40;40;30
-Ariados;		168;	;				bug;	poison;	swarm;		insomnia;	sniper;			90;			bug;		;			70;90;70;60;70;40
-Crobat;			169;	;				poison;	flying;	inner focus;;			infiltrator;	90;			flying;		;			85;90;80;70;80;130
-Chinchou;		170;	;				water;	electric;volt absorb;illuminate;water absorb;	190;		water 2;	;			75;38;38;56;56;67
-Lanturn;		171;	;				water;	electric;volt absorb;illuminate;water absorb;	75;			water 2;	;			125;58;58;76;76;67
-Pichu;			172;	;				electric;;		static;		;			lightning rod;	190;		undiscovered;;			20;40;15;35;35;60
-Cleffa;			173;	;				fairy;	;		cute charm;	magic charm;friend guard;	150;		undiscovered;;			50;25;28;45;55;15
-Igglybuff;		174;	;				normal;	fairy;	cute charm;	competitive;friend guard;	170;		undiscovered;;			90;30;15;40;20;15
-Togepi;			175;	;				fairy;	;		hustle;		serene grace;super luck;	190;		undiscovered;;			35;20;65;40;65;20
-Togetic;		176;	;				fairy;	flying;	hustle;		serene grace;super luck;	75;			flying;		fairy;		55;40;85;80;105;40
-Natu;			177;	;				psychic;flying;	synchronize;early bird;	magic bounce;	190;		flying;		;			40;50;45;70;45;70
-Xatu;			178;	;				psychic;flying;	synchronize;early bird;	magic bounce;	75;			flying;		;			65;75;70;95;70;95
-Mareep;			179;	;				electric;;		static;		;			plus;			235;		monster;	field;		55;40;40;65;45;35
-Flaaffy;		180;	;				electric;;		static;		;			plus;			120;		monster;	field;		70;55;55;80;60;45
-Ampharos;		181;	;				electric;;		static;		;			plus;			45;			monster;	field;		90;75;85;115;90;55
-Bellossom;		182;	;				grass;;			chlorophyll;;			healer;			45;			grass;		;			75;80;95;90;100;50
-Marill;			183;	;				water;	fairy;	thick fat;	huge power;	sap sipper;		190;		water 1;	fairy;		70;20;50;20;50;40
-Azumarill;		184;	;				water;	fairy;	thick fat;	huge power;	sap sipper;		75;			water 1;	fairy;		100;50;80;60;80;50
-Sudowoodo;		185;	;				rock;	;		sturdy;		rock head;	rattled;		65;			mineral;	;			70;100;115;30;65;30
-Politoed;		186;	;				water;	;		water absorb;damp;		drizzle;		45;			water 1;	;			90;75;75;90;100;70
-Hoppip;			187;	;				grass;	flying;	chlorophyll;leaf guard;	infiltrator;	255;		fairy;		grass;		35;35;40;35;55;50
-Skiploom;		188;	;				grass;	flying;	chlorophyll;leaf guard;	infiltrator;	120;		fairy;		grass;		55;45;50;45;65;80
-Jumpluff;		189;	;				grass;	flying;	chlorophyll;leaf guard;	infiltrator;	45;			fairy;		grass;		75;55;70;55;95;110
-Aipom;			190;	;				normal;	;		run away;	pickup;		skill link;		45;			field;		;			55;70;55;40;55;85
-Sunkern;		191;	;				grass;;			chlorophyll;solar power;early bird;		235;		grass;		;			30;30;30;30;30;30
-Sunflora;		192;	;				grass;;			chlorophyll;solar power;early bird;		120;		grass;		;			75;75;55;105;85;30
-Yanma;			193;	;				bug;	flying;	speed boost;	compound eyes;frisk;	75;			bug;		;			65;65;45;75;45;95
-Wooper;			194;	;				grass;	ground;	damp;		water absorb;unaware;		255;		water 1;	field;		55;45;45;25;25;15
-Quagsire;		195;	;				grass;	ground;	damp;		water absorb;unaware;		90;			water 1;	field;		95;85;85;65;65;35
-Espeon;			196;	;				psychic;;		synchronize;;			magic bounce;	45;			field;		;			65;65;60;130;95;110
-Umbreon;		197;	;				dark;	;		synchronize;;			inner focus;	45;			field;		;			95;65;110;60;130;65
-Murkrow;		198;	;				dark;	flying;	insomnia;	super luck;	prankster;		30;			flying;		;			60;85;42;85;42;91
-Slowking;		199;	;				water;	psychic;oblivious;	own tempo;	regenerator;	70;			monster;	water 1;	95;75;80;100;110;30
-Misdreavus;		200;	;				ghost;	;		levitate;	;			;				45;			amorphous;	;			60;60;60;85;85;85
-Unown;			201;	;				psychic;;		levitate;	;			;				225;		undiscovered;;			48;72;48;72;48;48
-Wobbuffet;		202;	;				psychic;;		shadow tag;	;			telepathy;		45;			amorphous;	;			190;33;58;33;58;33
-Girafarig;		203;	;				normal;	psychic;inner focus;early bird;	sap sipper;		60;			field;		;			70;80;65;90;65;85
-Pineco;			204;	;				bug;	;		sturdy;		;			overcoat;		190;		bug;		;			50;65;90;35;35;15
-Forretress;		205;	;				bug;	steel;	sturdy;		;			overcoat;		75;			bug;		;			75;90;140;60;60;40
-Dunsparce;		206;	;				normal;	;		serene grace;run away;	rattled;		190;		field;		;			100;70;70;65;65;45
-Gligar;			207;	;				ground;	flying;	hyper cutter;sand veil;	immunity;		60;			bug;		;			65;75;105;35;65;85
-Steelix;		208;	;				steel;	ground;	rock head;	sturdy;		sheer force;	25;			mineral;	;			75;85;200;55;65;30
-Snubbull;		209;	;				fairy;	;		intimidate;	run away;	rattled;		190;		field;		fairy;		60;80;50;40;40;30
-Granbull;		210;	;				fairy;	;		intimidate;	quick feet;	rattled;		75;			field;		fairy;		90;120;75;60;60;45
-Qwilfish;		211;	;				water;	poison;poison point;swift swim;	intimidate;		45;			water 2;	;			65;95;85;55;55;85
-Scizor;			212;	;				bug;	steel;	swarm;		technician;	light metal;	25;			bug;		;			70;130;100;55;80;65
-Shuckle;		213;	;				bug;	rock;	sturdy;		gluttony;	contrary;		190;		bug;		;			20;10;230;10;230;5
-Heracross;		214;	;				bug;	fighting;swarm;		guts;		moxie;			45;			bug;		;			80;125;75;40;95;85
-Sneasel;		215;	;				dark;	ice;	inner focus;keen eye;	pickpocket;		60;			field;		;			55;95;55;35;75;115
-Teddiursa;		216;	;				normal;	;		pickup;		quick feet;	honey gather;	120;		field;		;			60;80;50;50;50;40
-Ursaring;		217;	;				normal;	;		guts;		quick feet;	unnerve;		60;			field;		;			90;130;75;75;75;55
-Slugma;			218;	;				fire;	;		magma armor;flame body;	weak armor;		190;		amorphous;	;			40;40;40;70;40;20
-Magcargo;		219;	;				fire;	rock;	magma armor;flame body;	weak armor;		75;			amorphous;	;			60;50;120;90;80;30
-Swinub;			220;	;				ice;	ground;	oblivious;	snow cloak;	thick fat;		225;		field;		;			50;50;40;30;30;50
-Piloswine;		221;	;				ice;	ground;	oblivious;	snow cloak;	thick fat;		75;			field;		;			100;100;80;60;60;50
-Corsola;		222;	;				water;	rock;	hustle;		natural cure;regenerator;	60;			water 1;	water 3;	65;55;95;65;95;35
-Remoraid;		223;	;				water;	;		hustle;		sniper;		moody;			190;		water 1;	water 2;	35;65;35;65;35;65
-Octillery;		224;	;				water;	;		suction cups;sniper;	moody;			75;			water 1;	water 2;	75;105;75;105;75;45
-Delibird;		225;	;				ice;	flying;	vital spirit;hustle;	insomnia;		45;			water 1;	field;		45;55;45;65;45;75
-Mantine;		226;	;				water;	flying;	swift swim;	water absorb;water veil;	25;			water 1;	;			85;40;70;80;140;70
-Skarmory;		227;	;				steel;	flying;	keen eye;	sturdy;		weak armor;		25;			flying;		;			65;80;140;40;70;70
-Houndour;		228;	;				dark;	fire;	early bird;	flash fire;	unnerve;		120;		field;		;			45;60;30;80;50;65
-Houndoom;		229;	;				dark;	fire;	early bird;	flash fire;	unnerve;		45;			field;		;			75;90;50;110;80;95
-Kingdra;		230;	;				water;	dragon;	swift swim;	sniper;		damp;			45;			water 1;	dragon;		75;95;95;95;95;85
-Phanpy;			231;	;				ground;	;		pickup;		;			sand veil;		120;		field;		;			90;60;60;40;40;40
-Donphan;		232;	;				ground;	;		sturdy;		;			sand veil;		60;			field;		;			90;120;120;60;60;50
-Porygon2;		233;	;				normal;	;		trace;		download;	analytic;		45;			mineral;	;			85;80;90;105;95;60
-Stantler;		234;	;				normal;	;		intimidate;	frisk;		sap sipper;		45;			field;		;			73;95;62;85;65;85
-Smeargle;		235;	;				normal;	;		own tempo;	technician;	moody;			45;			field;		;			55;20;35;20;45;75
-Tyrogue;		236;	;				fighting;;		guts;		steadfast;	vital spirit;	75;			undiscovered;;			35;35;35;35;35;35
-Hitmontop;		237;	;				fighting;;		intimidate;	technician;	steadfast;		45;			human-like;	;			50;95;95;35;110;70
-Smoochum;		238;	;				ice;	psychic;oblivious;	forewarn;	hydration;		45;			undiscovered;;			45;30;15;85;65;65
-Elekid;			239;	;				electric;;		static;		;			vital spirit;	45;			undiscovered;;			45;63;37;65;55;95
-Magby;			240;	;				fire;;			flame body;	;			vital spirit;	45;			undiscovered;;			45;75;37;70;55;83
-Miltank;		241;	;				normal;	;		thick fat;	scrappy;	sap sipper;		45;			field;		;			95;80;105;40;70;100
-Blissey;		242;	;				normal;	;		natural cure;serene grace;healer;		30;			fairy;		;			255;10;10;75;135;55
-Raikou;			243;	;				electric;;		pressure;	;			inner focus;	3;			undiscovered;;			90;85;75;115;100;115
-Entei;			244;	;				fire;	;		pressure;	;			inner focus;	3;			undiscovered;;			115;115;85;90;75;100
-Suicune;		245;	;				water;	;		pressure;	;			inner focus;	3;			undiscovered;;			100;75;115;90;115;85
-Larvitar;		246;	;				rock;	ground;	guts;		;			sand veil;		45;			monster;	;			50;64;50;45;50;41
-Pupitar;		247;	;				rock;	ground;	shed skin;	;			;				45;			monster;	;			70;84;70;65;70;51
-Tyranitar;		248;	;				rock;	dark;	sand stream;;			unnerve;		45;			monster;	;			100;134;110;95;100;61
-Lugia;			249;	;				psychic;flying;	pressure;	;			multiscale;		3;			undiscovered;;			106;90;130;90;154;110
-Ho-Oh;			250;	;				fire;	flying;	pressure;	;			regenerator;	3;			undiscovered;;			106;130;90;110;154;90
-Celebi;			251;	;				psychic;grass;	natural cure;;			;				45;			undiscovered;;			100;100;100;100;100;100
-Treecko;		252;	;				grass;	;		overgrow;	;			unburden;		45;			monster;	dragon;		40;45;35;65;55;70
-Grovyle;		253;	;				grass;	;		overgrow;	;			unburden;		45;			monster;	dragon;		50;65;45;85;65;95
-Sceptile;		254;	;				grass;	;		overgrow;	;			unburden;		45;			monster;	dragon;		70;85;65;105;85;120
-Torchic;		255;	;				fire;	;		blaze;		;			speed boost;	45;			field;		;			45;60;40;70;50;45
-Combusken;		256;	;				fire;	fighting;blaze;		;			speed boost;	45;			field;		;			60;85;60;85;60;55
-Blaziken;		257;	;				fire;	fighting;blaze;		;			speed boost;	45;			field;		;			80;120;70;110;70;80
-Mudkip;			258;	;				water;	;		torrent;	;			damp;			45;			monster;	water 1;	50;70;50;50;50;40
-Marshtomp;		259;	;				water;	ground;	torrent;	;			damp;			45;			monster;	water 1;	70;85;70;60;70;50
-Swampert;		260;	;				water;	ground;	torrent;	;			damp;			45;			monster;	water 1;	100;110;90;85;90;60
-Poochyena;		261;	;				dark;	;		run away;	quick feet;	rattled;		255;		field;		;			35;55;35;30;30;35
-Mightyena;		262;	;				dark;	;		intimidate;	quick feet;	moxie;			127;		field;		;			70;90;70;60;60;70
-Zigzagoon;		263;	;				normal;	;		pickup;		gluttony;	quick feet;		255;		field;		;			38;30;41;30;41;60
-Linoone;		264;	;				normal;	;		pickup;		gluttony;	quick feet;		90;			field;		;			78;70;61;50;61;100
-Wurmple;		265;	;				bug;	;		shield dust;;			run away;		255;		bug;		;			45;45;35;20;30;20
-Silcoon;		266;	;				bug;	;		shed skin;	;			;				120;		bug;		;			50;35;55;25;25;15
-Beautifly;		267;	;				bug;	flying;	swarm;		;			rivalry;		45;			bug;		;			60;70;50;100;50;65
-Cascoon;		268;	;				bug;	;		shed skin;	;			;				120;		bug;		;			50;35;55;25;25;15
-Dustox;			269;	;				bug;	poison;	shield dust;;			compound eyes;	45;			bug;		;			60;50;70;50;90;65
-Lotad;			270;	;				water;	grass;	swift swim;	rain dish;	own tempo;		255;		water 1;	grass;		40;30;30;40;50;30
-Lombre;			271;	;				water;	grass;	swift swim;	rain dish;	own tempo;		120;		water 1;	grass;		60;50;50;60;70;50
-Ludicolo;		272;	;				water;	grass;	swift swim;	rain dish;	own tempo;		45;			water 1;	grass;		80;70;70;90;100;70
-Seedot;			273;	;				grass;	;		chlorophyll;early bird;	pickpocket;		255;		field;		grass;		40;40;50;30;30;30
-Nuzleaf;		274;	;				grass;	dark;	chlorophyll;early bird;	pickpocket;		120;		field;		grass;		70;70;40;60;40;60
-Shiftry;		275;	;				grass;	dark;	chlorophyll;early bird;	pickpocket;		45;			field;		grass;		90;100;60;90;60;80
-Taillow;		276;	;				normal;	flying;	guts;		;			scrappy;		200;		flying;		;			40;55;30;30;30;85
-Swellow;		277;	;				normal;	flying;	guts;		;			scrappy;		45;			flying;		;			60;85;60;75;50;125
-Wingull;		278;	;				water;	flying;	keen eye;	hydration;	rain dish;		190;		water 1;	flying;		40;30;30;55;30;85
-Pelipper;		279;	;				water;	flying;	keen eye;	drizzle;	rain dish;		45;			water 1;	flying;		60;50;100;95;70;65
-Ralts;			280;	;				psychic;fairy;	synchronize;trace;		telepathy;		235;		amorphous;	;			28;25;25;45;35;40
-Kirlia;			281;	;				psychic;fairy;	synchronize;trace;		telepathy;		120;		amorphous;	;			38;35;35;65;55;50
-Gardevoir;		282;	;				psychic;fairy;	synchronize;trace;		telepathy;		45;			amorphous;	;			68;65;65;125;115;80;
-Surskit;		283;	;				bug;	water;	swift swim;	;			rain dish;		200;		water 1;	bug;		40;30;32;50;52;65
-Masquerain;		284;	;				bug;	flying;	intimidate;	;			unnerve;		75;			water 1;	bug;		70;60;62;100;82;80
-Shroomish;		285;	;				grass;	;		effect spore;poison heal;quick feet;	255;		fairy;		grass;		60;40;60;40;60;35
-Breloom;		286;	;				grass;	fighting;effect spore;poison heal;technician;	90;			fairy;		grass;		60;130;80;60;60;70
-Slakoth;		287;	;				normal;	;		traunt;		;			;				255;		field;		;			60;60;60;35;35;30
-Vigoroth;		288;	;				normal;	;		vital spirit;;			;				120;		field;		;			80;80;80;55;55;90
-Slaking;		289;	;				normal;	;		traunt;		;			;				45;			field;		;			150;160;100;95;65;100
-Nincada;		290;	;				bug;	ground;	compound eyes;;			run away;		255;		bug;		;			31;45;90;30;30;40
-Ninjask;		291;	;				bug;	flying;	speed boost;;			infiltrator;	120;		bug;		;			61;90;45;50;50;160
-Shedinja;		292;	;				bug;	ghost;	wonder guard;;			;				45;			mineral;	;			1;90;45;30;30;40
-Whismur;		293;	;				normal;	;		soundproof;	;			rattled;		190;		monster;	field;		64;51;23;51;23;28
-Loudred;		294;	;				normal;	;		soundproof;	;			scrappy;		120;		monster;	field;		84;71;43;71;43;48
-Exploud;		295;	;				normal;	;		soundproof;	;			scrappy;		45;			monster;	field;		104;91;63;91;73;68
-Makuhita;		296;	;				fighting;;		thick fat;	guts;		sheer force;	180;		human-like;	;			72;60;30;20;30;25
-Hariyama;		297;	;				fighting;;		thick fat;	guts;		sheer force;	200;		human-like;	;			144;120;60;40;60;50
-Azurill;		298;	;				normal;	fairy;	thick fat;	huge power;	sap sipper;		150;		undiscovered;;			50;20;40;20;40;20
-Nosepass;		299;	;				rock;	;		sturdy;		magnet pull;sand force;		255;		mineral;	;			30;45;135;45;90;30
-Skitty;			300;	;				normal;	;		cute charm;	normalize;	wonder skin;	255;		field;		fairy;		50;45;45;35;35;50
-Delcatty;		301;	;				normal;	;		cute charm;	normalize;	wonder skin;	60;			field;		fairy;		70;65;65;55;55;90
-Sableye;		302;	;				dark;	ghost;	keen eye;	stall;		prankster;		45;			human-like;	;			50;75;75;65;65;50
-Mawile;			303;	;				steel;	fairy;	hyper cutter;intimidate;sheer force;	45;			field;		fairy;		50;85;85;55;55;50
-Aron;			304;	;				steel;	rock;	sturdy;		rock head;	heavy metal;	180;		monster;	;			50;70;100;40;40;30
-Lairon;			305;	;				steel;	rock;	sturdy;		rock head;	heavy metal;	90;			monster;	;			60;90;140;50;50;40
-Aggron;			306;	;				steel;	rock;	sturdy;		rock head;	heavy metal;	45;			monster;	;			70;110;180;60;60;50
-Meditite;		307;	;				fighting;psychic;pure power;;			telepathy;		180;		human-like;	;			30;40;55;40;55;60
-Medicham;		308;	;				fighting;psychic;pure power;;			telepathy;		90;			human-like;	;			60;60;75;60;75;80
-Electrike;		309;	;				electric;;		static;		lightning rod;minus;		120;		field;		;			40;45;40;65;40;65
-Manectric;		310;	;				electric;;		static;		lightning rod;minus;		45;			field;		;			70;75;60;105;60;105
-Plusle;			311;	;				electric;;		plus;		;			lightning rod;	200;		fairy;		;			60;50;40;85;75;95
-Minun;			312;	;				electric;;		minus;		;			volt absorb;	200;		fairy;		;			60;40;50;75;85;95
-Volbeat;		313;	;				bug;	;		illuminate;	swarm;		prankster;		150;		bug;		human-like;	65;73;75;47;85;85
-Illumise;		314;	;				bug;	;		oblivious;	tinted lens;prankster;		150;		bug;		human-like;	65;47;75;73;85;85
-Roselia;		315;	;				grass;	poison;	natural cure;poison point;leaf guard;	150;		fairy;		grass;		50;60;45;100;80;65
-Gulpin;			316;	;				posion;	;		liquid ooze;sticky hold;gluttony;		225;		amorphous;	;			70;43;53;43;53;40
-Swalot;			317;	;				posion;	;		liquid ooze;sticky hold;gluttony;		75;			amorphous;	;			100;73;83;73;83;55
-Carvanha;		318;	;				water;	dark;	rough skin;	;			speed boost;	225;		water 2;	;			45;90;20;65;20;65
-Sharpedo;		319;	;				water;	dark;	rough skin;	;			speed boost;	60;			water 2;	;			70;120;40;95;40;95
-Wailmer;		320;	;				water;	;		water veil;	oblivious;	pressure;		125;		field;		water 2;	130;70;35;70;35;60
-Wailord;		321;	;				water;	;		water veil;	oblivious;	pressure;		60;			field;		water 2;	170;90;45;90;45;60
-Numel;			322;	;				fire;	ground;	oblivious;	simple;		own tempo;		255;		field;		;			60;60;40;65;45;35
-Camerupt;		323;	;				fire;	ground;	magma armor;solid rock;	anger point;	150;		field;		;			70;100;70;105;75;40
-Torkoal;		324;	;				fire;	;		white smoke;drought;	shell armor;	90;			field;		;			70;85;140;85;70;20
-Spoink;			325;	;				psychic;;		thick fat;	own tempo;	gluttony;		255;		field;		;			60;25;35;70;80;60
-Grumpig;		326;	;				psychic;;		thick fat;	own tempo;	gluttony;		60;			field;		;			80;45;65;90;110;80
-Spinda;			327;	;				normal;	;		own tempo;	tangled feet;contrary;		255;		field;		human-like;	60;60;60;60;60;60
-Trapinch;		328;	;				ground;	;		hyper cutter;arena trap;sheer force;	255;		bug;		;			45;100;45;45;45;10
-Vibrava;		329;	;				ground;	dragon;	levitate;	;			;				120;		bug;		;			50;70;50;50;50;70
-Flygon;			330;	;				ground;	dragon;	levitate;	;			;				45;			bug;		;			80;100;80;80;80;100
-Cacnea;			331;	;				grass;	;		sand veil;	;			water absorb;	190;		grass;		human-like;	50;85;40;85;40;35
-Cacturne;		332;	;				grass;	dark;	sand veil;	;			water absorb;	60;			grass;		human-like;	70;115;60;115;60;55
-Swablu;			333;	;				normal;	flying;	natural cure;;			cloud nine;		255;		flying;		dragon;		45;40;60;40;75;50
-Altaria;		334;	;				dragon;	flying;	natural cure;;			cloud nine;		45;			flying;		dragon;		75;70;90;70;105;80
-Zangoose;		335;	;				normal;	;		immunity;	;			toxic boost;	90;			field;		;			73;115;60;60;60;90
-Seviper;		336;	;				posion;	;		shed skin;	;			infiltrator;	90;			field;		dragon;		73;100;60;100;60;65
-Lunatone;		337;	;				rock;	psychic;levitate;	;			;				45;			mineral;	;			90;55;65;95;85;70
-Solrock;		338;	;				rock;	psychic;levitate;	;			;				45;			mineral;	;			90;95;85;55;65;70
-Barboach;		339;	;				water;	ground;	oblivious;	anticipation;hydration;		190;		water 2;	;			50;48;43;46;41;60
-Whiscash;		340;	;				water;	ground;	oblivious;	anticipation;hydration;		75;			water 2;	;			110;78;73;76;71;60
-Corphish;		341;	;				water;	;		hyper cutter;shell armor;adaptability;	205;		water 1;	water 3;	43;80;65;50;35;35
-Crawdaunt;		342;	;				water;	dark;	hyper cutter;shell armor;adaptability;	155;		water 1;	water 3;	63;120;85;90;55;55
-Baltoy;			343;	;				ground;	psychic;levitate;	;			;				255;		mineral;	;			40;40;55;40;70;55
-Claydol;		344;	;				ground;	psychic;levitate;	;			;				90;			mineral;	;			60;70;105;70;120;75
-Lileep;			345;	;				rock;	grass;	suction cups;;			storm drain;	45;			water 3;	;			66;41;77;61;87;23
-Cradily;		346;	;				rock;	grass;	suction cups;;			storm drain;	45;			water 3;	;			86;81;97;81;107;43
-Anorith;		347;	;				rock;	bug;	battle armor;;			swift swim;		45;			water 3;	;			45;95;50;40;50;75
-Armaldo;		348;	;				rock;	bug;	battle armor;;			swift swim;		45;			water 3;	;			75;125;100;70;80;45
-Feebas;			349;	;				water;	;		swift swim;	oblivious;	adaptability;	255;		water 1;	dragon;		20;15;20;10;55;80
-Milotic;		350;	;				water;	;		marvel scale;competitive;cute charm;	60;			water 1;	dragon;		95;60;79;100;125;81
-Castform;		351;	;				normal;	;		forecast;	;			;				45;			fairy;		amorphous;	70;70;70;70;70;70
-Kecleon;		352;	;				normal;	;		color change;;			protean;		200;		field;		;			60;90;70;60;120;40
-Shuppet;		353;	;				ghost;	;		insomnia;	frisk;		cursed body;	225;		amorphous;	;			44;75;35;63;33;45
-Banette;		354;	;				ghost;	;		insomnia;	frisk;		cursed body;	45;			amorphous;	;			64;115;65;83;63;65
-Duskull;		355;	;				ghost;	;		levitate;	;			frisk;			190;		amorphous;	;			20;40;90;30;90;25
-Dusclops;		356;	;				ghost;	;		pressure;	;			frisk;			90;			amorphous;	;			40;70;130;60;130;25
-Tropius;		357;	;				grass;	flying;	chlorophyll;solar power;harvest;		200;		mosnter;	grass;		99;68;83;72;87;51
-Chimecho;		358;	;				psychic;;		levitate;	;			;				45;			amorphous;	;			75;50;80;95;90;65
-Absol;			359;	;				dark;	;		pressure;	super luck;	justified;		30;			field;		;			65;130;60;75;60;75
-Wynaut;			360;	;				psychic;;		shadow tag;	;			telepathy;		125;		undiscovered;;			95;23;48;23;48;23
-Snorunt;		361;	;				ice;	;		inner focus;ice body;	moody;			190;		fairy;		mineral;	50;50;50;50;50;50
-Glalie;			362;	;				ice;	;		inner focus;ice body;	moody;			75;			fairy;		mineral;	80;80;80;80;80;80
-Spheal;			363;	;				ice;	water;	thick fat;	ice body;	oblivious;		255;		water 1;	field;		70;40;50;55;50;25
-Sealeo;			364;	;				ice;	water;	thick fat;	ice body;	oblivious;		120;		water 1;	field;		90;60;70;75;70;45
-Walrein;		365;	;				ice;	water;	thick fat;	ice body;	oblivious;		45;			water 1;	field;		110;80;90;95;90;65
-Clamperl;		366;	;				water;	;		shell armor;;			rattled;		255;		water 1;	;			35;64;85;74;55;32
-Huntail;		367;	;				water;	;		swift swim;	;			water veil;		60;			water 1;	;			55;104;105;94;75;52
-Gorebyss;		368;	;				water;	;		swift swim;	;			hydration;		60;			water 1;	;			55;84;105;114;75;52
-Relicanth;		369;	;				water;	rock;	swift swim;	rock head;	sturdy;			25;			water 1;	water 2;	100;90;130;45;65;55
-Luvdisc;		370;	;				water;	;		swift swim;	;			hydration;		225;		water 2;	;			43;30;55;40;65;97
-Bagon;			371;	;				dragon;	;		rock head;	;			sheer force;	45;			dragon;		;			45;75;60;40;30;50
-Shelgon;		372;	;				dragon;	;		rock head;	;			overcoat;		45;			dragon;		;			65;95;100;60;50;50
-Salamence;		373;	;				dragon;	flying;	intimidate;	;			moxie;			45;			dragon;		;			95;135;80;110;80;100
-Beldum;			374;	;				steel;	psychic;clear body;	;			light metal;	3;			mineral;	;			40;55;80;35;60;30
-Metang;			375;	;				steel;	psychic;clear body;	;			light metal;	3;			mineral;	;			60;75;100;55;80;50
-Metagross;		376;	;				steel;	psychic;clear body;	;			light metal;	3;			mineral;	;			80;135;130;95;90;70
-Regirock;		377;	;				rock;	;		clear body;	;			sturdy;			3;			undiscovered;;			80;100;200;50;100;50
-Regice;			378;	;				ice;	;		clear body;	;			ice body;		3;			undiscovered;;			80;50;100;100;200;50
-Registeel;		379;	;				steel;	;		clear body;	;			light metal;	3;			undiscovered;;			80;75;150;75;150;50
-Latias;			380;	;				dragon;	psychic;levitate;	;			;				3;			undiscovered;;			80;80;90;110;130;110
-Latios;			381;	;				dragon;	psychic;levitate;	;			;				3;			undiscovered;;			80;90;80;130;110;110
-Kyogre;			382;	;				water;	;		drizzle;	;			;				3;			undiscovered;;			100;100;90;150;140;90
-Groudon;		383;	;				ground;	;		drought;	;			;				3;			undiscovered;;			100;150;140;100;90;90
-Rayquaza;		384;	;				dragon;	flying;	air lock;	;			;				45;			undiscovered;;			105;150;90;150;90;95
-Jirachi;		385;	;				steel;	psychic;serene grace;;			;				3;			undiscovered;;			100;100;100;100;100;100
-Deoxys;			386;	;				psychic;;		pressure;	;			;				3;			undiscovered;;			50;150;50;150;50;150
-Turtwig;		387;	;				grass;	;		overgrow;	;			shell armor;	45;			monster;	grass;		55;68;64;45;55;31
-Grotle;			388;	;				grass;	;		overgrow;	;			shell armor;	45;			monster;	grass;		75;89;85;55;65;36
-Torterra;		389;	;				grass;	ground;	overgrow;	;			shell armor;	45;			monster;	grass;		95;109;105;75;85;56
-Chimchar;		390;	;				fire;	;		blaze;		;			iron fist;		45;			field;		human-like;	44;58;44;58;44;61
-Monferno;		391;	;				fire;	fighting;blaze;		;			iron fist;		45;			field;		human-like;	64;78;52;78;52;81
-Infernape;		392;	;				fire;	fighting;blaze;		;			iron fist;		45;			field;		human-like;	76;104;71;104;71;108
-Piplup;			393;	;				water;	;		torrent;	;			defiant;		45;			water 1;	field;		53;51;53;61;56;40
-Prinplup;		394;	;				water;	;		torrent;	;			defiant;		45;			water 1;	field;		64;66;68;81;76;50
-Empoleon;		395;	;				water;	steel;	torrent;	;			defiant;		45;			water 1;	field;		84;86;88;111;101;60
-Starly;			396;	;				normal;	flying;	keen eye;	;			reckless;		255;		flying;		;			40;55;30;30;30;60
-Staravia;		397;	;				normal;	flying;	intimidate;	;			reckless;		120;		flying;		;			55;75;50;40;40;80
-Staraptor;		398;	;				normal;	flying;	intimidate;	;			reckless;		45;			flying;		;			85;120;70;50;60;100
-Bidoof;			399;	;				normal;	;		simple;		unaware;	moody;			255;		water 1;	field;		59;45;40;35;40;31
-Bibarel;		400;	;				normal;	water;	simple;		unaware;	moody;			127;		water 1;	field;		79;85;60;55;60;71
-Kricketot;		401;	;				bug;	;		shed skin;	;			run away;		255;		bug;		;			37;25;41;25;41;25
-Kricketune;		402;	;				bug;	;		swarm;		;			technician;		45;			bug;		;			77;85;51;55;51;65
-Shinx;			403;	;				electric;;		rivalry;	intimidate;	guts;			235;		field;		;			45;65;34;40;34;45
-Luxio;			404;	;				electric;;		rivalry;	intimidate;	guts;			120;		field;		;			60;85;49;60;49;60
-Luxray;			405;	;				electric;;		rivalry;	intimidate;	guts;			45;			field;		;			80;120;79;95;79;70
-Budew;			406;	;				grass;	poison;	natural cure;poison point;leaf guard;	255;		undiscovered;;			40;30;35;50;70;55
-Roserade;		407;	;				grass;	poison;	natural cure;poison point;technician;	75;			fairy;		grass;		60;70;65;125;105;90
-Cranidos;		408;	;				rock;	;		mold breaker;;			sheer force;	45;			monster;	;			67;125;40;30;30;58
-Rampardos;		409;	;				rock;	;		mold breaker;;			sheer force;	45;			monster;	;			97;165;60;65;50;58
-Shieldon;		410;	;				rock;	steel;	sturdy;		;			soundproof;		45;			monster;	;			30;42;118;42;88;30
-Bastiodon;		411;	;				rock;	steel;	sturdy;		;			soundproof;		45;			monster;	;			60;52;168;47;138;30
-Burmy;			412;	;				bug;	;		shed skin;	;			overcoat;		120;		bug;		;			40;29;45;29;45;36
-Wormadam;		413;	;				bug;	ground;	anticipation;;			overcoat;		45;			bug;		;			60;59;85;79;105;36
-Mothim;			414;	;				bug;	flying;	swarm;		;			tinted lens;	45;			bug;		;			70;94;50;94;50;66
-Combee;			415;	;				bug;	flying;	honey gather;;			hustle;			120;		bug;		;			30;30;42;30;42;70
-Vespiquen;		416;	;				bug;	flying;	pressure;	;			unnerve;		45;			bug;		;			70;80;102;80;102;40
-Pachirisu;		417;	;				electric;;		run away;	pickup;		volt absorb;	200;		field;		fairy;		60;45;70;45;90;95
-Buizel;			418;	;				water;	;		swift swim;	;			water veil;		190;		water 1;	field;		55;65;35;60;30;85
-Floatzel;		419;	;				water;	;		swift swim;	;			water veil;		75;			water 1;	field;		85;105;55;85;50;115
-Cherubi;		420;	;				grass;;			chlorophyll;;			;				190;		fairy;		grass;		45;35;45;62;53;35
-Cherrim;		421;	;				grass;;			flower gift;;			;				75;			fairy;		grass;		70;60;70;87;78;85
-Shellos;		422;	;				water;	;		sticky hold;storm drain;sand force;		190;		water 1;	amorphous;	76;48;48;57;62;34
-Gastrodon;		423;	;				water;	ground;	sticky hold;storm drain;sand force;		75;			water 1;	amorphous;	111;83;68;92;82;39
-Ambipom;		424;	;				normal;	;		technician;	pickup;		skill link;		45;			field;		;			75;100;66;60;66;115
-Drifloon;		425;	;				ghost;	flying;	aftermatth;	unburden;	flare boost;	125;		amorphous;	;			90;50;34;60;44;70
-Drifblim;		426;	;				ghost;	flying;	aftermatth;	unburden;	flare boost;	60;			amorphous;	;			150;80;44;90;54;80
-Buneary;		427;	;				normal;	;		run away;	klutz;		limber;			190;		field;		human-like;	55;66;44;44;56;85
-Lopunny;		428;	;				normal;	;		cute charm;	klutz;		limber;			60;			field;		human-like;	65;76;84;54;96;105
-Mismagius;		429;	;				ghost;	;		levitate;	;			;				45;			amorphous;	;			60;60;60;105;105;105
-Honchkrow;		430;	;				dark;	flying;	insomnia;	super luck;	moxie;			30;			flying;		;			100;125;52;105;52;71
-Glameow;		431;	;				normal;	;		limber;		own tempo;	keen eye;		190;		field;		;			49;55;42;42;37;85
-Purugly;		432;	;				normal;	;		thick fat;	own tempo;	defiant;		75;			field;		;			71;82;64;64;59;112
-Chingling;		433;	;				psychic;;		levitate;	;			;				120;		undiscovered;;			45;30;50;65;50;45
-Stunky;			434;	;				poison;	dark;	stench;		aftermath;	keen eye;		225;		field;		;			63;63;47;41;41;74
-Skuntank;		435;	;				poison;	dark;	stench;		aftermath;	keen eye;		60;			field;		;			103;93;67;71;61;84
-Bronzor;		436;	;				steel;	psychic;levitate;	heatproof;	heavy metal;	255;		mineral;	;			57;24;86;24;86;23
-Bronzong;		437;	;				steel;	psychic;levitate;	heatproof;	heavy metal;	90;			mineral;	;			67;89;116;79;116;33
-Bonsly;			438;	;				rock;	;		sturdy;		rock head;	rattled;		255;		undiscovered;;			50;80;95;10;45;10
-Mime Jr.;		439;	;				psychic;fairy;	soundproof;	filter;		technician;		145;		undiscovered;;			20;25;45;70;90;60
-Happiny;		440;	;				normal;	;		natural cure;serene grace;friend guard;	130;		undiscovered;;			100;5;5;15;65;30
-Chatot;			441;	;				normal;	flying;	keen eye;	tangled feet;big pecks;		30;			flying;		;			76;65;45;92;42;91
-Spiritomb;		442;	;				ghost;	dark;	pressure;	;			infiltrator;	100;		amorphous;	;			50;92;108;92;108;35
-Gible;			443;	;				dragon;	ground;	sand veil;	;			rough skin;		45;			monster;	dragon;		58;70;45;40;45;42
-Gabite;			444;	;				dragon;	ground;	sand veil;	;			rough skin;		45;			monster;	dragon;		68;90;65;50;55;82
-Garchomp;		445;	;				dragon;	ground;	sand veil;	;			rough skin;		45;			monster;	dragon;		108;130;95;80;85;102
-Munchlax;		446;	;				normal;	;		pickup;		thick fat;	gluttony;		50;			undiscovered;;			135;85;40;40;85;5
-Riolu;			447;	;				fighting;;		steadfast;	inner focus;prankster;		75;			undiscovered;;			40;70;40;35;40;60
-Lucario;		448;	;				fighting;steel;	steadfast;	inner focus;justified;		45;			field;		human-like;	70;110;70;115;70;90
-Hippopotas;		449;	;				ground;	;		sand stream;;			sand force;		140;		field;		;			68;72;78;38;42;32
-Hippowdon;		450;	;				ground;	;		sand stream;;			sand force;		60;			field;		;			108;112;118;68;72;47
-Skorupi;		451;	;				poison;	bug;	battle armor;sniper;	keen eye;		120;		bug;		water 3;	40;50;90;30;55;65
-Drapion;		452;	;				poison;	dark;	battle armor;sniper;	keen eye;		45;			bug;		water 3;	70;90;110;60;75;95
-Croagunk;		453;	;				poison;	fighting;anticipation;dry skin;	poison touch;	140;		human-like;	;			48;61;40;61;40;50
-Toxicroak;		454;	;				poison;	fighting;anticipation;dry skin;	poison touch;	75;			human-like;	;			83;106;65;86;65;85
-Carnivine;		455;	;				grass;	;		levitate;	;			;				200;		grass;		;			74;100;72;90;72;46
-Finneon;		456;	;				water;	;		swift swim;	storm drain;water veil;		190;		water 2;	;			49;49;56;49;61;66
-Lumineon;		457;	;				water;	;		swift swim;	storm drain;water veil;		75;			water 2;	;			69;69;76;69;86;91
-Mantyke;		458;	;				water;	flying;	swift swim;	water absorb;water veil;	25;			undiscovered;;			45;20;50;60;120;50
-Snover;			459;	;				grass;	ice;	snow warning;;			soundproof;		120;		monster;	grass;		60;62;50;62;60;40
-Abomasnow;		460;	;				grass;	ice;	snow warning;;			soundproof;		60;			monster;	grass;		90;92;75;92;85;60
-Weavile;		461;	;				dark;	ice;	pressure;	;			pickpocket;		45;			field;		;			70;120;65;45;85;125
-Magnezone;		462;	;				electric;steel;	magnet pull;sturdy;		analytic;		30;			mineral;	;			70;70;115;130;90;60
-Lickilicky;		463;	;				normal;	;		own tempo;	oblivious;	cloud nine;		30;			monster;	;			110;85;95;80;95;50
-Rhyperior;		464;	;				ground;	rock;	lightning rod;solid rock;reckless;		30;			monster;	field;		115;140;130;55;55;40
-Tangrowth;		465;	;				grass;	;		chlorophyll;leaf guard;	regenerator;	30;			grass;		;			100;100;125;110;50;50
-Electivire;		466;	;				electric;;		motor drive;;			vital spirit;	30;			human-like;	;			75;123;67;95;85;95
-Magmortar;		467;	;				fire;	;		flame body;	;			vital spirit;	30;			human-like;	;			75;95;67;125;95;83
-Togekiss;		468;	;				fairy;	flying;	hustle;		serene grace;super luck;	30;			flying;		fairy;		85;50;95;120;115;80
-Yanmega;		469;	;				bug;	flying;	speed boost;tinted lens;frisk;			30;			bug;		;			86;76;86;116;56;95
-Leafeon;		470;	;				grass;	;		leaf guard;	;			chlorophyll;	45;			field;		;			65;110;130;60;65;95
-Glaceon;		471;	;				ice;	;		snow cloak;	;			ice body;		45;			field;		;			65;60;110;130;95;65
-Gliscor;		472;	;				ground;	flying;	hyper cutter;sand veil;	poison heal;	30;			bug;		;			75;95;125;45;75;95
-Mamoswine;		473;	;				ice;	ground;	oblivious;	snow cloak;	thick fat;		50;			field;		;			110;130;80;70;60;80
-Porygon-Z;		474;	;				normal;	;		adaptability;download;	analytic;		30;			mineral;	;			85;80;70;135;75;90
-Gallade;		475;	;				psychic;fighting;steadfast;	;			justified;		45;			amorphous;	;			68;125;65;65;115;80
-Probopass;		476;	;				rock;	steel;	sturdy;		magnet pull;sand force;		60;			mineral;	;			60;55;145;75;150;40
-Dusknoir;		477;	;				ghost;	;		pressure;	;			frisk;			45;			amorphous;	;			45;100;135;65;135;45
-Froslass;		478;	;				ice;	ghost;	snow cloak;	;			cursed body;	75;			fairy;		mineral;	70;80;70;80;70;110
-Rotom;			479;	;				electric;ghost;	levitate;	;			;				45;			amorphous;	;			50;50;77;95;77;91
-Uxie;			480;	;				psychic;;		levitate;	;			;				3;			undiscovered;;			75;75;130;75;130;95
-Mesprit;		481;	;				psychic;;		levitate;	;			;				3;			undiscovered;;			80;105;105;105;105;80
-Azelf;			482;	;				psychic;;		levitate;	;			;				3;			undiscovered;;			75;125;70;125;70;115
-Dialga;			483;	;				steel;	dragon;	pressure;	;			telepathy;		3;			undiscovered;;			100;120;120;150;100;90
-Palkia;			484;	;				water;	dragon;	pressure;	;			telepathy;		3;			undiscovered;;			90;120;100;150;120;100
-Heatran;		485;	;				fire;	steel;	flash fire;	;			flame body;		3;			undiscovered;;			91;90;106;130;106;77
-Regigigas;		486;	;				normal;	;		slow start;	;			;				3;			undiscovered;;			110;160;110;80;110;100
-Giratina;		487;	;				ground;	dragon;	pressure;	;			telepathy;		3;			undiscovered;;			150;100;120;100;120;90
-Cresselia;		488;	;				psychic;;		levitate;	;			;				3;			undiscovered;;			120;70;120;75;130;85
-Phione;			489;	;				water;	;		hydration;	;			;				30;			water 1;	fairy;		80;80;80;80;80;80
-Manaphy;		490;	;				water;	;		hydration;	;			;				3;			water 1;	fairy;		100;100;100;100;100;100
-Darkrai;		491;	;				dark;	;		bad dreams;	;			;				3;			undiscovered;;			70;90;90;135;90;125
-Shaymin;		492;	;				grass;	;		natural cure;;			;				45;			undiscovered;;			100;100;100;100;100;100
-Arceus;			493;	;				normal;	;		multitype;	;			;				3;			undiscovered;;			120;120;120;120;120;120
-Victini;		494;	;				psychic;fire;	victory star;;			;				3;			undiscovered;;			100;100;100;100;100;100
-Snivy;			495;	;				grass;	;		overgrow;	;			contrary;		45;			field;		grass;		45;45;55;45;55;63
-Servine;		496;	;				grass;	;		overgrow;	;			contrary;		45;			field;		grass;		60;60;75;60;75;83
-Serperior;		497;	;				grass;	;		overgrow;	;			contrary;		45;			field;		grass;		75;75;95;75;95;113
-Tepig;			498;	;				fire;	;		blaze;		;			thick fat;		45;			field;		;			65;63;45;45;45;45
-Pignite;		499;	;				fire;	fighting;blaze;		;			thick fat;		45;			field;		;			90;93;55;70;55;55
-Emboar;			500;	;				fire;	fighting;blaze;		;			thick fat;		45;			field;		;			110;123;65;100;65;65
-Oshawott;		501;	;				water;	;		torrent;	;			shell armor;	45;			field;		;			55;55;45;63;45;45
-Dewott;			502;	;				water;	;		torrent;	;			shell armor;	45;			field;		;			75;75;60;83;60;60
-Samurott;		503;	;				water;	;		torrent;	;			shell armor;	45;			field;		;			95;100;85;108;70;70
-Patrat;			504;	;				normal;	;		run away;	keen eye;	analytic;		255;		field;		;			45;55;39;35;39;42
-Watchog;		505;	;				normal;	;		illuminate;	keen eye;	analytic;		255;		field;		;			60;85;69;60;69;77
-Lillipup;		506;	;				normal;	;		vital spirit;keen eye;	run away;		255;		field;		;			45;60;45;25;45;55
-Herdier;		507;	;				normal;	;		intimidate;	sand rush;	scrappy;		120;		field;		;			65;80;65;35;65;60
-Stoutland;		508;	;				normal;	;		intimidate;	sand rush;	scrappy;		45;			field;		;			85;110;90;45;90;80
-Purrloin;		509;	;				dark;	;		limber;		unburden;	prankster;		255;		field;		;			41;50;37;50;37;66
-Liepard;		510;	;				dark;	;		limber;		unburden;	prankster;		90;			field;		;			64;88;50;88;50;106
-Pansage;		511;	;				grass;	;		gluttony;	;			overgrow;		190;		field;		;			50;53;48;53;48;64
-Simisage;		512;	;				grass;	;		gluttony;	;			overgrow;		75;			field;		;			75;98;63;98;63;101
-Pansear;		513;	;				fire;	;		gluttony;	;			blaze;			190;		field;		;			50;53;48;53;48;64
-Simisear;		514;	;				fire;	;		gluttony;	;			blaze;			75;			field;		;			75;98;63;98;63;101
-Panpour;		515;	;				water;	;		gluttony;	;			torrent;		190;		field;		;			50;53;48;53;48;64
-Simipour;		516;	;				water;	;		gluttony;	;			torrent;		75;			field;		;			75;98;63;98;63;101
-Munna;			517;	;				psychic;;		forewarn;	synchronize;telepathy;		190;		field;		;			76;25;45;67;55;24
-Musharna;		518;	;				psychic;;		forewarn;	synchronize;telepathy;		75;			field;		;			116;55;85;107;95;29
-Pidove;			519;	;				normal;	flying;	big pecks;	super luck;	rivalry;		255;		flying;		;			50;55;50;36;30;43
-Tranquill;		520;	;				normal;	flying;	big pecks;	super luck;	rivalry;		120;		flying;		;			62;77;62;50;42;65
-Unfezant;		521;	;				normal;	flying;	big pecks;	super luck;	rivalry;		45;			flying;		;			80;115;80;65;55;93
-Blitzle;		522;	;				electric;;		lightning rod;motor drive;sap sipper;	190;		field;		;			45;60;32;50;32;76
-Zebstrika;		523;	;				electric;;		lightning rod;motor drive;sap sipper;	75;			field;		;			75;100;63;80;63;116
-Roggenrola;		524;	;				rock;	;		sturdy;		weak armor;	sand force;		255;		mineral;	;			55;75;85;25;25;15
-Boldore;		525;	;				rock;	;		sturdy;		weak armor;	sand force;		120;		mineral;	;			70;105;105;50;40;20
-Gigalith;		526;	;				rock;	;		sturdy;		sand stream;sand force;		45;			mineral;	;			85;135;130;60;80;25
-Woobat;			527;	;				psychic;flying;	unaware;	klutz;		simple;			190;		field;		flying;		65;45;43;55;43;72
-Swoobat;		528;	;				psychic;flying;	unaware;	klutz;		simple;			45;			field;		flying;		67;57;55;77;55;114
-Drilbur;		529;	;				ground;	;		sand rush;	sand force;	mold breaker;	120;		field;		;			60;85;40;30;45;68
-Excadrill;		530;	;				ground;	steel;	sand rush;	sand force;	mold breaker;	60;			field;		;			110;135;60;50;65;88
-Audino;			531;	;				normal;	;		healer;		regenerator;klutz;			255;		fairy;		;			103;60;86;60;86;50
-Timburr;		532;	;				fighting;;		guts;		sheer force;iron fist;		180;		human-like;	;			75;80;55;25;35;35
-Gurdurr;		533;	;				fighting;;		guts;		sheer force;iron fist;		90;			human-like;	;			85;105;85;40;50;40
-Conkeldurr;		534;	;				fighting;;		guts;		sheer force;iron fist;		45;			human-like;	;			105;140;95;55;65;45
-Tympole;		535;	;				water;	;		swift swim;	hydration;	water absorb;	255;		water 1;	;			50;50;40;50;40;64
-Palpitoad;		536;	;				water;	ground;	swift swim;	hydration;	water absorb;	120;		water 1;	;			75;65;55;65;55;69
-Seismitoad;		537;	;				water;	ground;	swift swim;	poison touch;water absorb;	45;			water 1;	;			105;95;75;85;75;74
-Throh;			538;	;				fighting;;		guts;		inner focus;mold breaker;	45;			human-like;	;			120;100;85;30;85;45
-Sawk;			539;	;				fighting;;		sturdy;		inner focus;mold breaker;	45;			human-like;	;			75;125;75;30;75;85
-Sewaddle;		540;	;				bug;	grass;	swarm;		chlorophyll;overcoat;		255;		bug;		;			45;53;70;40;60;42
-Swadloon;		541;	;				bug;	grass;	leaf guard;	chlorophyll;overcoat;		120;		bug;		;			55;63;90;50;80;42
-Leavanny;		542;	;				bug;	grass;	swarm;		chlorophyll;overcoat;		45;			bug;		;			75;103;80;70;80;92
-Venipede;		543;	;				bug;	poison;	poison point;swarm;		speed boost;	255;		bug;		;			30;45;59;30;39;57
-Whirlipede;		544;	;				bug;	poison;	poison point;swarm;		speed boost;	120;		bug;		;			40;55;99;40;79;47
-Scolipede;		545;	;				bug;	poison;	poison point;swarm;		speed boost;	45;			bug;		;			60;100;89;55;69;112
-Cottonee;		546;	;				grass;	fairy;	prankster;	infiltrator;chlorophyll;	190;		grass;		fairy;		40;27;60;37;50;66
-Whimsicott;		547;	;				grass;	fairy;	prankster;	infiltrator;chlorophyll;	75;			grass;		fairy;		60;67;85;77;75;116
-Petilil;		548;	;				grass;	;		chlorophyll;own tempo;	leaf guard;		190;		grass;		;			45;35;50;70;50;30
-Lilligant;		549;	;				grass;	;		chlorophyll;own tempo;	leaf guard;		75;			grass;		;			70;60;75;110;75;90
-Basculin;		550;	;				water;	;		reckless;	adaptability;mold breaker;	25;			water 2;	;			70;92;65;80;55;98
-Sandile;		551;	;				ground;	dark;	intimidate;	moxie;		anger point;	180;		field;		;			50;72;35;35;35;65
-Krokorok;		552;	;				ground;	dark;	intimidate;	moxie;		anger point;	90;			field;		;			60;82;45;45;45;74
-Krookodile;		553;	;				ground;	dark;	intimidate;	moxie;		anger point;	45;			field;		;			95;117;80;65;70;92
-Darumaka;		554;	;				fire;	;		hustle;		;			inner force;	120;		field;		;			70;90;45;15;45;50
-Darmanitan;		555;	;				fire;	;		sheer force;;			zen mode;		60;			field;		;			105;140;55;30;55;95
-Maractus;		556;	;				grass;	;		water absorb;chlorophyll;storm drain;	255;		grass;		;			75;86;67;106;67;60
-Dwebble;		557;	;				bug;	rock;	sturdy;		shell armor;weak armor;		190;		bug;		mineral;	50;65;85;35;35;55
-Crustle;		558;	;				bug;	rock;	sturdy;		shell armor;weak armor;		75;			bug;		mineral;	70;105;125;65;75;45
-Scraggy;		559;	;				dark;	fighting;shed skin;	moxie;		intimidate;		180;		field;		dragon;		50;75;70;35;70;48
-Scrafty;		560;	;				dark;	fighting;shed skin;	moxie;		intimidate;		90;			field;		dragon;		65;90;115;45;115;58
-Sigilyph;		561;	;				psychic;flying;	wonder skin;magic guard;tinted lens;	45;			flying;		;			72;58;80;103;80;97
-Yamask;			562;	;				ghost;	;		mummy;		;			;				190;		mineral;	amorphous;	38;30;85;55;65;30
-Cofagrigus;		563;	;				ghost;	;		mummy;		;			;				90;			mineral;	amorphous;	58;50;145;95;105;30
-Tirtouga;		564;	;				water;	rock;	solid rock;	sturdy;		swift swim;		45;			water 1;	water 3;	54;78;103;53;45;22
-Carracosta;		565;	;				water;	rock;	solid rock;	sturdy;		swift swim;		45;			water 1;	water 3;	74;108;133;83;65;32
-Archen;			566;	;				rock;	flying;	defeatist;	;			;				45;			flying;		water 3;	55;112;45;74;45;70
-Archeops;		567;	;				rock;	flying;	defeatist;	;			;				45;			flying;		water 3;	75;140;65;112;65;110
-Trubbish;		568;	;				poison;	;		stench;		sticky hold;aftermath;		190;		mineral;	;			50;50;62;40;62;65
-Garbodor;		569;	;				poison;	;		stench;		weak armor;	aftermath;		60;			mineral;	;			80;95;82;60;82;75
-Zorua;			570;	;				dark;	;		illusion;	;			;				75;			field;		;			40;65;40;80;40;65
-Zoroark;		571;	;				dark;	;		illusion;	;			;				45;			field;		;			60;105;60;120;60;105
-Minccino;		572;	;				normal;	;		cute charm;	technician;	skill link;		255;		field;		;			55;50;40;40;40;75
-Cinccino;		573;	;				normal;	;		cute charm;	technician;	skill link;		60;			field;		;			75;95;60;65;60;115
-Gothita;		574;	;				psychic;;		frisk;		competitive;shadow tag;		200;		human-like;	;			45;30;50;55;65;45
-Gothorita;		575;	;				psychic;;		frisk;		competitive;shadow tag;		100;		human-like;	;			60;45;70;75;85;55
-Gothitelle;		576;	;				psychic;;		frisk;		competitive;shadow tag;		50;			human-like;	;			70;55;95;95;110;65
-Solosis;		577;	;				psychic;;		overcoat;	magic guard;regenerator;	200;		amorphous;	;			45;30;40;105;50;20
-Duosion;		578;	;				psychic;;		overcoat;	magic guard;regenerator;	100;		amorphous;	;			65;40;50;125;60;30
-Reuniclus;		579;	;				psychic;;		overcoat;	magic guard;regenerator;	50;			amorphous;	;			110;65;75;125;85;30
-Ducklett;		580;	;				water;	flying;	keen eye;	big pecks;	hydration;		190;		water 1;	flying;		62;44;50;44;50;55
-Swanna;			581;	;				water;	flying;	keen eye;	big pecks;	hydration;		45;			water 1;	flying;		75;87;63;87;63;98
-Vanillite;		582;	;				ice;	;		ice body;	snow cloak;	weak armor;		255;		mineral;	;			36;50;50;65;60;44
-Vanillish;		583;	;				ice;	;		ice body;	snow cloak;	weak armor;		120;		mineral;	;			51;65;65;80;75;59
-Vanilluxe;		584;	;				ice;	;		ice body;	snow warning;weak armor;	45;			mineral;	;			71;95;85;110;95;79
-Deerling;		585;	;				normal;	grass;	chlorophyll;sap sipper;	serene grace;	190;		field;		;			60;60;50;40;50;75
-Sawsbuck;		586;	;				normal;	grass;	chlorophyll;sap sipper;	serene grace;	75;			field;		;			80;100;70;60;70;95
-Emolga;			587;	;				electric;flying;static;		;			motor drive;	200;		field;		;			55;75;60;75;60;103
-Karrablast;		588;	;				bug;	;		swarm;		shed skin;	no guard;		200;		bug;		;			50;75;45;40;45;60
-Escavalier;		589;	;				bug;	steel;	swarm;		shell armor;overcoat;		75;			bug;		;			70;135;105;60;105;20
-Foongus;		590;	;				grass;	poison;	effect spore;;			regenerator;	190;		grass;		;			69;55;45;55;55;15
-Amoonguss;		591;	;				grass;	poison;	effect spore;;			regenerator;	75;			grass;		;			114;85;70;85;80;30
-Frillish;		592;	;				water;	ghost;	water absorb;cursed body;damp;			190;		amorphous;	;			55;40;50;65;85;40
-Jellicent;		593;	;				water;	ghost;	water absorb;cursed body;damp;			60;			amorphous;	;			100;60;70;85;105;60
-Alomomola;		594;	;				water;	;		healer;		hydration;	regenerator;	75;			water 1;	water 2;	165;75;80;40;45;65
-Joltik;			595;	;				bug;	electric;compound eyes;unnerve;	swarm;			190;		bug;		;			50;47;50;57;50;65
-Galvantula;		596;	;				bug;	electric;compound eyes;unnerve;	swarm;			75;			bug;		;			70;77;60;97;60;108
-Ferroseed;		597;	;				grass;	steel;	iron barbs;	;			;				255;		grass;		mineral;	44;50;91;24;86;10
-Ferrothorn;		598;	;				grass;	steel;	iron barbs;	;			;				90;			grass;		mineral;	74;94;131;54;116;20
-Klink;			599;	;				steel;	;		plus;		minus;		clear body;		130;		mineral;	;			40;55;70;45;60;30
-Klang;			600;	;				steel;	;		plus;		minus;		clear body;		60;			mineral;	;			60;80;95;70;85;50
-Klinklang;		601;	;				steel;	;		plus;		minus;		clear body;		30;			mineral;	;			60;100;115;70;85;90
-Tynamo;			602;	;				electric;;		levitate;	;			;				190;		amorphous;	;			35;55;40;45;40;60
-Eelektrik;		603;	;				electric;;		levitate;	;			;				60;			amorphous;	;			65;85;70;75;70;40
-Eelektross;		604;	;				electric;;		levitate;	;			;				30;			amorphous;	;			85;115;80;105;80;50
-Elgyem;			605;	;				psychic;;		telepathy;	synchronize;analytic;		255;		human-like;	;			55;55;55;85;55;30
-Beheeyem;		606;	;				psychic;;		telepathy;	synchronize;analytic;		90;			human-like;	;			75;75;75;125;95;40
-Litwick;		607;	;				ghost;	fire;	flash fire;	flame body;	infiltrator;	190;		amorphous;	;			50;30;55;65;55;20
-Lampent;		608;	;				ghost;	fire;	flash fire;	flame body;	infiltrator;	90;			amorphous;	;			60;40;60;95;60;55
-Chandelure;		609;	;				ghost;	fire;	flash fire;	flame body;	infiltrator;	45;			amorphous;	;			60;55;90;145;90;80
-Axew;			610;	;				dragon;	;		rivalry;	mold breaker;unnerve;		75;			monster;	dragon;		46;87;60;30;40;57
-Fraxure;		611;	;				dragon;	;		rivalry;	mold breaker;unnerve;		60;			monster;	dragon;		66;117;70;40;50;67
-Haxorus;		612;	;				dragon;	;		rivalry;	mold breaker;unnerve;		45;			monster;	dragon;		76;147;90;60;70;97
-Cubchoo;		613;	;				ice;	;		snow cloak;	slush rush;	rattled;		120;		field;		;			55;70;40;60;40;40
-Beartic;		614;	;				ice;	;		snow cloak;	slush rush;	swift swim;		60;			field;		;			95;130;80;70;80;50
-Cryogonal;		615;	;				ice;	;		levitate;	;			;				25;			mineral;	;			80;50;50;95;135;105
-Shelmet;		616;	;				bug;	;		hydration;	shell armor;overcoat;		200;		bug;		;			50;40;85;40;65;25
-Accelgor;		617;	;				bug;	;		hydration;	sticky hold;unburden;		75;			bug;		;			80;70;40;100;60;145
-Stunfisk;		618;	;				ground;	electric;static;	limber;		sand veil;		75;			water 1;	amorphous;	109;66;84;81;99;32
-Mienfoo;		619;	;				fighting;;		inner focus;regenerator;reckless;		180;		field;		human-like;	45;85;50;55;50;65
-Mienshao;		620;	;				fighting;;		inner focus;regenerator;reckless;		45;			field;		human-like;	65;125;60;95;60;105
-Druddigon;		621;	;				dragon;	;		rough skin;	sheer force;mold breaker;	45;			dragon;		monster;	77;120;90;60;90;48
-Golett;			622;	;				ground;	ghost;	iron fist;	klutz;		no guard;		190;		mineral;	;			59;74;50;35;50;35
-Golurk;			623;	;				ground;	ghost;	iron fist;	klutz;		no guard;		90;			mineral;	;			89;124;80;55;80;55
-Pawniard;		624;	;				dark;	steel;	defiant;	inner focus;pressure;		120;		human-like;	;			45;85;70;40;40;60
-Bisharp;		625;	;				dark;	steel;	defiant;	inner focus;pressure;		45;			human-like;	;			65;125;100;60;70;70
-Bouffalant;		626;	;				normal;	;		reckless;	sap sipper;	soundproof;		45;			field;		;			95;110;95;40;95;55
-Rufflet;		627;	;				normal;	flying;	keen eye;	sheer force;hustle;			190;		flying;		;			70;83;50;37;50;60
-Braviary;		628;	;				normal;	flying;	keen eye;	sheer force;defiant;		60;			flying;		;			100;123;75;57;75;80
-Vullaby;		629;	;				dark;	flying;	big pecks;	overcoat;	weak armor;		190;		flying;		;			70;55;75;45;65;60
-Mandibuzz;		630;	;				dark;	flying;	big pecks;	overcoat;	weak armor;		60;			flying;		;			110;65;105;55;95;80
-Heatmor;		631;	;				fire;	;		gluttony;	flash fire;	white smoke;	90;			field;		;			85;97;66;105;66;65
-Durant;			632;	;				bug;	steel;	swarm;		hustle;		truant;			90;			bug;		;			58;109;112;48;48;109
-Deino;			633;	;				dark;	dragon;	hustle;		;			;				45;			dragon;		;			52;65;50;45;50;38
-Zweilous;		634;	;				dark;	dragon;	hustle;		;			;				45;			dragon;		;			72;85;70;65;70;58
-Hydreigon;		635;	;				dark;	dragon;	levitate;	;			;				45;			dragon;		;			92;105;90;125;90;98
-Larvesta;		636;	;				bug;	fire;	flame body;	;			swarm;			45;			bug;		;			55;85;55;50;55;60
-Volcarona;		637;	;				bug;	fire;	flame body;	;			swarm;			15;			bug;		;			85;60;65;135;105;100
-Cobalion;		638;	;				steel;	fighting;justified;	;			;				3;			undiscovered;;			91;90;129;90;72;108
-Terrakion;		639;	;				rock;	fighting;justified;	;			;				3;			undiscovered;;			91;129;90;72;90;108
-Virizion;		640;	;				grass;	fighting;justified;	;			;				3;			undiscovered;;			91;90;72;90;129;108
-Tornadus;		641;	;				flying;	;		prankster;	;			defiant;		3;			undiscovered;;			79;115;70;125;80;111
-Thundurus;		642;	;				electric;flying;prankster;	;			defiant;		3;			undiscovered;;			79;115;70;125;80;111
-Reshiram;		643;	;				dragon;	fire;	turboblaze;	;			;				3;			undiscovered;;			100;120;100;150;120;90
-Zekrom;			644;	;				dragon;	electric;teravolt;	;			;				3;			undiscovered;;			100;150;120;120;100;90
-Landorus;		645;	;				ground;	flying;	sand force;	;			sheer force;	3;			undiscovered;;			89;125;90;115;80;101
-Kyurem;			646;	;				dragon;	ice;	pressure;	;			;				3;			undiscovered;;			125;130;90;130;90;95
-Keldeo;			647;	;				water;	fighting;justified;	;			;				3;			undiscovered;;			91;72;90;129;90;108
-Meloetta;		648;	;				normal;	psychic;serene grace;;			;				3;			undiscovered;;			100;77;77;128;128;90
-Genesect;		649;	;				bug;	steel;	download;	;			;				3;			undiscovered;;			71;120;95;120;95;99
-Chespin;		650;	;				grass;	;		overgrow;	;			bulletproof;	45;			field;		;			56;61;65;48;45;38
-Quilladin;		651;	;				grass;	;		overgrow;	;			bulletproof;	45;			field;		;			61;78;95;56;58;57
-Chesnaught;		652;	;				grass;	fighting;overgrow;	;			bulletproof;	45;			field;		;			88;107;122;74;75;64
-Fennekin;		653;	;				fire;	;		blaze;		;			magician;		45;			field;		;			40;45;40;62;60;60
-Braixen;		654;	;				fire;	;		blaze;		;			magician;		45;			field;		;			59;59;58;90;70;73
-Delphox;		655;	;				fire;	psychic;blaze;		;			magician;		45;			field;		;			75;69;72;114;100;104
-Froakie;		656;	;				water;	;		torrent;	;			protean;		45;			water 1;	;			41;56;40;62;44;71
-Frogadier;		657;	;				water;	;		torrent;	;			protean;		45;			water 1;	;			54;63;52;83;56;97
-Greninja;		658;	;				water;	dark;	torrent;	;			protean;		45;			water 1;	;			72;95;67;103;71;122
-Bunnelby;		659;	;				normal;	;		pickup;		cheek pouch;huge power;		255;		field;		;			38;36;38;32;36;57
-Diggersby;		660;	;				normal;	ground;	pickup;		cheek pouch;huge power;		127;		field;		;			85;56;77;50;77;78
-Fletchling;		661;	;				normal;	flying;	big pecks;	;			gale wings;		255;		flying;		;			45;50;43;40;38;62
-Fletchinder;	662;	;				fire;	flying;	flame body;	;			gale wings;		120;		flying;		;			62;73;55;56;52;84
-Talonflame;		663;	;				fire;	flying;	flame body;	;			gale wings;		45;			flying;		;			78;81;71;74;69;126
-Scatterbug;		664;	;				bug;	;		shield dust;compound eyes;friend guard;	255;		bug;		;			38;35;40;27;25;35
-Spewpa;			665;	;				bug;	;		shed skin;	;			friend guard;	120;		bug;		;			45;22;60;27;30;29
-Vivillon;		666;	;				bug;	flying;	shield dust;compound eyes;friend guard;	45;			bug;		;			80;52;50;90;50;89
-Litleo;			667;	;				fire;	normal;	rovalry;	unnerve;	moxie;			220;		field;		;			62;50;58;73;54;72
-Pyroar;			668;	;				fire;	normal;	rovalry;	unnerve;	moxie;			65;			field;		;			86;68;72;109;66;106
-Flabébé;		669;	;				fairy;	;		flower veil;;			symbiosis;		225;		fairy;		;			44;38;39;61;79;42
-Floette;		670;	;				fairy;	;		flower veil;;			symbiosis;		120;		fairy;		;			54;45;47;75;98;52
-Florges;		671;	;				fairy;	;		flower veil;;			symbiosis;		45;			fairy;		;			78;65;68;112;154;75
-Skiddo;			672;	;				grass;	;		sap sipper;	;			grass pelt;		200;		field;		;			66;65;48;62;57;52
-Gogoat;			673;	;				grass;	;		sap sipper;	;			grass pelt;		45;			field;		;			123;100;62;97;81;68
-Pancham;		674;	;				fighting;;		iron fist;	mold breaker;scrappy;		220;		field;		human-like;	67;82;62;46;48;43
-Pangoro;		675;	;				fighting;dark;	iron fist;	mold breaker;scrappy;		65;			field;		human-like;	95;124;78;69;71;58
-Furfrou;		676;	;				normal;	;		fur coat;	;			;				160;		field;		;			75;80;60;65;90;102
-Espurr;			677;	;				psychic;;		keen eye;	infiltrator;own tempo;		190;		field;		;			62;48;54;63;60;68
-Meowstic;		678;	;				psychic;;		keen eye;	infiltrator;prankster;		75;			field;		;			74;48;76;83;81;104
-Honedge;		679;	;				steel;	ghost;	no guard;	;			;				180;		mineral;	;			45;80;100;35;37;28
-Doublade;		680;	;				steel;	ghost;	no guard;	;			;				90;			mineral;	;			59;110;150;45;49;35
-Aegislash;		681;	;				steel;	ghost;	stance change;;			;				45;			mineral;	;			60;50;150;50;150;60
-Spritzee;		682;	;				fairy;	;		healer;		;			aroma veil;		200;		fairy;		;			78;52;60;63;65;23
-Aromatisse;		683;	;				fairy;	;		healer;		;			aroma veil;		140;		fairy;		;			101;72;72;99;89;29
-Swirlix;		684;	;				fairy;	;		sweet veil;	;			unburden;		200;		fairy;		;			62;48;66;59;57;49
-Slurpuff;		685;	;				fairy;	;		sweet veil;	;			unburden;		140;		fairy;		;			82;80;86;85;75;72
-Inkay;			686;	;				dark;	psychic;contrary;	suction cups;infiltrator;	190;		water 1;	water 2;	53;54;53;37;46;45
-Malamar;		687;	;				dark;	psychic;contrary;	suction cups;infiltrator;	80;			water 1;	water 2;	86;92;88;68;75;73
-Binacle;		688;	;				rock;	water;	sniper;		tough claws;pickpocket;		120;		water 3;	;			42;52;67;39;56;50
-Barbaracle;		689;	;				rock;	water;	sniper;		tough claws;pickpocket;		45;			water 3;	;			72;105;115;54;86;68
-Skrelp;			690;	;				poison;	water;	poison point;poison touch;adaptability;	225;		water 1;	dragon;		50;60;60;60;60;30
-Dragalge;		691;	;				poison;	dragon;	poison point;poison touch;adaptability;	55;			water 1;	dragon;		65;75;90;97;123;44
-Clauncher;		692;	;				water;	;		mega launcher;;			;				225;		water 1;	water 3;	50;53;62;58;63;44
-Clawitzer;		693;	;				water;	;		mega launcher;;			;				55;			water 1;	water 3;	71;73;88;120;89;59
-Helioptile;		694;	;				electric;normal;dry skin;	sand veil;	solar power;	190;		monster;	dragon;		44;38;33;61;43;70
-Heliolisk;		695;	;				electric;normal;dry skin;	sand veil;	solar power;	75;			monster;	dragon;		62;55;52;109;94;109
-Tyrunt;			696;	;				rock;	dragon;	strong jaw;	;			sturdy;			45;			monster;	dragon;		58;89;77;45;45;48
-Tyrantrum;		697;	;				rock;	dragon;	strong jaw;	;			rock head;		45;			monster;	dragon;		82;121;119;69;59;71
-Amaura;			698;	;				rock;	ice;	refrigerate;;			snow warning;	45;			monster;	;			77;59;50;67;63;46
-Aurorus;		699;	;				rock;	ice;	refrigerate;;			snow warning;	45;			monster;	;			123;77;72;99;92;58
-Sylveon;		700;	;				fairy;	;		cute charm;	;			pixilate;		45;			field;		;			95;65;65;110;130;60
-Hawlucha;		701;	;				fighting;flying;limber;		unburden;	mold breaker;	100;		human-like;	;			78;92;75;74;63;118
-Dedenne;		702;	;				electric;fairy;	cheek pouch;pickup;		plus;			180;		field;		fairy;		67;58;57;81;67;101
-Carbink;		703;	;				rock;	fairy;	clear body;	;			sturdy;			60;			fairy;		mineral;	50;50;150;50;150;50
-Goomy;			704;	;				dragon;	;		sap sipper;	hydration;	gooey;			45;			dragon;		;			45;50;35;55;75;40
-Sliggoo;		705;	;				dragon;	;		sap sipper;	hydration;	gooey;			45;			dragon;		;			68;75;53;83;113;60
-Goodra;			706;	;				dragon;	;		sap sipper;	hydration;	gooey;			45;			dragon;		;			90;100;70;110;150;80
-Klefki;			707;	;				steel;	fairy;	prankster;	;			magician;		75;			mineral;	;			57;80;91;80;87;75
-Phantump;		708;	;				ghost;	grass;	natural cure;frisk;		harvest;		120;		grass;		amorphous;	43;70;48;50;60;38
-Trevenant;		709;	;				ghost;	grass;	natural cure;frisk;		harvest;		60;			grass;		amorphous;	85;110;76;65;82;56
-Pumpkaboo;		710;	;				ghost;	grass;	pickup;		frisk;		insomnia;		120;		amorphous;	;			44;66;70;44;55;56
-Gourgeist;		711;	;				ghost;	grass;	pickup;		frisk;		insomnia;		60;			amorphous;	;			55;85;122;58;75;99
-Bergmite;		712;	;				ice;	;		own tempo;	ice body;	sturdy;			190;		monster;	;			55;69;85;32;35;28
-Avalugg;		713;	;				ice;	;		own tempo;	ice body;	sturdy;			55;			monster;	;			95;117;184;44;46;28
-Noibat;			714;	;				flying;	dragon;	frisk;		infiltrator;telepathy;		190;		flying;		;			40;30;35;45;40;55
-Noivern;		715;	;				flying;	dragon;	frisk;		infiltrator;telepathy;		45;			flying;		;			85;70;80;97;80;123
-Xerneas;		716;	;				fairy;	;		fairy aura;	;			;				45;			undiscovered;;			126;131;95;131;98;99
-Yveltal;		717;	;				dark;	flying;	dark aura;	;			;				45;			undiscovered;;			126;131;95;131;98;99
-Zygarde;		718;	;				dragon;	ground;	aura break;	power construct;;			3;			undiscovered;;			108;100;121;81;95;95
-Diancie;		719;	;				rock;	fairy;	clear body;	;			;				3;			undiscovered;;			50;100;150;100;150;50
-Hoopa;			720;	;				psychic;ghost;	magician;	;			;				3;			undiscovered;;			80;110;60;150;130;70
-Volcanion;		721;	;				fire;	water;	water absorb;;			;				3;			undiscovered;;			80;110;120;130;90;70
-Rowlet;			722;	;				grass;	flying;	overgrow;	;			long reach;		45;			flying;		;			68;55;55;50;50;42
-Dartrix;		723;	;				grass;	flying;	overgrow;	;			long reach;		45;			flying;		;			78;75;75;70;70;52
-Decidueye;		724;	;				grass;	ghost;	overgrow;	;			long reach;		45;			flying;		;			78;107;75;100;100;70
-Litten;			725;	;				fire;	;		blaze;		;			intimidate;		45;			field;		;			45;65;40;60;40;70
-Torracat;		726;	;				fire;	;		blaze;		;			intimidate;		45;			field;		;			65;85;50;80;50;90
-Incineroar;		727;	;				fire;	dark;	blaze;		;			intimidate;		45;			field;		;			95;115;90;80;90;60
-Popplio;		728;	;				water;	;		torrent;	;			liquid voice;	45;			water 1;	field;		50;54;54;66;56;40
-Brionne;		729;	;				water;	;		torrent;	;			liquid voice;	45;			water 1;	field;		60;69;69;91;81;50
-Primarina;		730;	;				water;	fairy;	torrent;	;			liquid voice;	45;			water 1;	field;		80;74;74;126;116;60
-Pikipek;		731;	;				normal;	flying;	keen eye;	skill link;	pickup;			255;		flying;		;			35;75;30;30;30;65
-Trumbeak;		732;	;				normal;	flying;	keen eye;	skill link;	pickup;			120;		flying;		;			55;85;50;40;50;75
-Toucannon;		733;	;				normal;	flying;	keen eye;	skill link;	sheer force;	45;			flying;		;			80;120;75;75;75;60
-Yungoos;		734;	;				normal;	;		stakeout;	strong jaw;	adaptability;	255;		field;		;			48;70;30;30;30;45
-Gumshoos;		735;	;				normal;	;		stakeout;	strong jaw;	adaptability;	127;		field;		;			88;110;60;55;60;45
-Grubbin;		736;	;				bug;	;		swarm;		;			;				255;		bug;		;			47;62;45;55;45;46
-Charjabug;		737;	;				bug;	electric;battery;	;			;				120;		bug;		;			57;82;95;55;75;36
-Vikavolt;		738;	;				bug;	electric;levitate;	;			;				45;			bug;		;			77;70;90;145;75;43
-Crabrawler;		739;	;				fighting;;		hyper cutter;iron fist;	anger point;	225;		water 3;	;			47;82;57;42;47;63
-Crabominable;	740;	;				fighting;ice;	hyper cutter;iron fist;	anger point;	60;			water 3;	;			97;132;77;62;67;43
-Oricorio;		741;	;				grass;	flying;	dancer;		;			;				45;			flying;		;			75;70;70;98;70;93
-Cutiefly;		742;	;				bug;	fairy;	honey gather;shield dust;sweet veil;	190;		bug;		fairy;		40;45;40;55;40;84
-Ribombee;		743;	;				bug;	fairy;	honey gather;shield dust;sweet veil;	75;			bug;		fairy;		60;55;60;95;70;124
-Rockruff;		744;	;				rock;	;		keen eye;	vital spirit;steadfast;		190;		field;		;			45;65;40;30;40;60
-Lycanroc;		745;	;				rock;	;		keen eye;	vital spirit;steadfast;		90;			field;		;			75;115;65;55;65;112
-Wishiwashi;		746;	;				water;	;		schooling;	;			;				60;			water 2;	;			45;20;20;25;25;40
-Mareanie;		747;	;				poison;	water;	merciless;	limber;		regenerator;	190;		water 1;	;			50;53;62;43;52;45
-Toxapex;		748;	;				poison;	water;	merciless;	limber;		regenerator;	75;			water 1;	;			50;63;152;53;142;35
-Mudbray;		749;	;				ground;	;		own tempo;	stamina;	inner focus;	190;		field;		;			70;100;70;45;55;45
-Mudsdale;		750;	;				ground;	;		own tempo;	stamina;	inner focus;	60;			field;		;			100;125;100;55;85;35
-Dewpider;		751;	;				water;	bug;	water bubble;;			water absorb;	200;		water 1;	bug;		38;40;52;40;72;27
-Araquanid;		752;	;				water;	bug;	water bubble;;			water absorb;	100;		water 1;	bug;		68;70;92;50;132;42
-Fomantis;		753;	;				grass;	;		leaf guard;	;			contrary;		190;		grass;		;			40;55;35;50;35;35
-Lurantis;		754;	;				grass;	;		leaf guard;	;			contrary;		75;			grass;		;			70;105;90;80;90;45
-Morelull;		755;	;				grass;	fairy;	illuminate;	effect spore;rain dish;		190;		grass;		;			40;35;55;65;75;15
-Shiinotic;		756;	;				grass;	fairy;	illuminate;	effect spore;rain dish;		75;			grass;		;			60;45;80;90;100;30
-Salandit;		757;	;				poison;	fire;	corrosion;	;			oblivious;		120;		monster;	dragon;		48;44;40;71;40;77
-Salazzle;		758;	;				poison;	fire;	corrosion;	;			oblivious;		45;			monster;	dragon;		68;64;60;111;60;117
-Stufful;		759;	;				normal;	fighting;fluffy;	klutz;		cute charm;		140;		field;		;			70;75;50;45;50;50
-Bewear;			760;	;				normal;	fighting;fluffy;	klutz;		unnerve;		70;			field;		;			120;125;80;55;60;60
-Bounsweet;		761;	;				grass;	;		leaf guard;	oblivious;	sweet veil;		235;		grass;		;			42;30;38;30;38;32
-Steenee;		762;	;				grass;	;		leaf guard;	oblivious;	sweet veil;		120;		grass;		;			52;40;48;40;48;62
-Tsareena;		763;	;				grass;	;		leaf guard;	queenly majesty;sweet veil;	45;			grass;		;			72;120;98;50;98;72
-Comfey;			764;	;				fairy;	;		flower veil;triage;		natural cure;	60;			grass;		;			51;52;90;82;110;100
-Oranguru;		765;	;				normal;	psychic;inner focus;telepathy;	symbiosis;		45;			field;		;			90;60;80;90;110;60
-Passimian;		766;	;				fighting;;		receiver;	;			defiant;		45;			field;		;			100;120;90;40;60;80
-Wimpod;			767;	;				bug;	water;	wimp out;	;			;				90;			bug;		water 3;	25;35;40;20;30;80
-Golisopod;		768;	;				bug;	water;	emergency exit;;		;				45;			bug;		water 3;	75;125;140;60;90;40
-Sandygast;		769;	;				ghost;	ground;	water compaction;;		sand veil;		140;		amorphous;	;			55;55;80;70;45;15
-Palossand;		770;	;				ghost;	ground;	water compaction;;		sand veil;		60;			amorphous;	;			85;75;110;100;75;35
-Pyukumuku;		771;	;				water;	;		innards out;;			unaware;		60;			water 1;	;			55;60;130;30;130;5
-Type: Null;		772;	;				normal;	;		battle armor;;			;				3;			undiscovered;;			95;95;95;95;95;59
-Silvally;		773;	;				normal;	;		rks system;	;			;				3;			undiscovered;;			95;95;95;95;95;95
-Minior;			774;	;				rock;	flying;	shields down;;			;				30;			mineral;	;			60;60;100;60;100;60
-Komala;			775;	;				normal;	;		comatose;	;			;				45;			field;		;			65;115;65;75;95;65
-Turtonator;		776;	;				fire;	dragon;	shell armor;;			;				70;			monster;	dragon;		60;78;135;91;85;36
-Togedemaru;		777;	;				electric;steel;	iron barbs;	lightning rod;sturdy;		180;		field;		fairy;		65;98;63;40;73;96
-Mimikyu;		778;	;				ghost;	fairy;	disguise;	;			;				45;			amorphous;	;			55;90;80;50;105;96
-Bruxish;		779;	;				water;	psychic;dazzling;	strong jaw;	wonder skin;	80;			water 2;	;			68;105;70;70;70;92
-Drampa;			780;	;				normal;	dragon;	berserk;	sap sipper;	cloud nine;		70;			monster;	dragon;		78;60;85;135;91;36
-Dhelmise;		781;	;				ghost;	grass;	steelworker;;			;				25;			mineral;	;			70;131;100;86;90;40
-Jangmo-o;		782;	;				dragon;	;		bulletproof;soundproof;	overcoat;		45;			dragon;		;			45;55;65;45;45;45
-Hakamo-o;		783;	;				dragon;	fighting;bulletproof;soundproof;overcoat;		45;			dragon;		;			55;75;90;65;70;65
-Kommo-o;		784;	;				dragon;	fighting;bulletproof;soundproof;overcoat;		45;			dragon;		;			75;110;125;100;105;85
-Tapu Koko;		785;	;				electric;fairy;	electric surge;;		telepathy;		3;			undiscovered;;			70;115;85;95;75;130
-Tapu Lele;		786;	;				psychic;fairy;	psychic surge;;			telepathy;		3;			undiscovered;;			70;85;75;130;115;95
-Tapu Bulu;		787;	;				grass;	fairy;	grassy surge;;			telepathy;		3;			undiscovered;;			70;130;115;85;95;75
-Tapu Fini;		788;	;				water;	fairy;	misty surge;;			telepathy;		3;			undiscovered;;			70;75;115;95;130;85
-Cosmog;			789;	;				psychic;;		unaware;	;			;				45;			undiscovered;;			43;29;31;29;31;37
-Cosmoem;		790;	;				psychic;;		sturdy;		;			;				45;			undiscovered;;			43;29;131;29;131;37
-Solgaleo;		791;	;				psychic;steel;	full metal body;;		;				45;			undiscovered;;			137;137;107;113;89;97
-Lunala;			792;	;				psychic;ghost;	shadow shield;;			;				45;			undiscovered;;			137;113;89;137;107;97
-Nihilego;		793;	;				rock;	poison;	beast boost;;			;				45;			undiscovered;;			109;53;47;127;131;103
-Buzzwole;		794;	;				bug;	fighting;beast boost;;			;				45;			undiscovered;;			107;139;139;53;53;79
-Pheromosa;		795;	;				bug;	fighting;beast boost;;			;				45;			undiscovered;;			71;137;37;137;37;151
-Xurkitree;		796;	;				electric;;		beast boost;;			;				45;			undiscovered;;			83;89;71;173;71;83
-Celesteela;		797;	;				steel;	flying;	beast boost;;			;				45;			undiscovered;;			97;101;103;107;101;61
-Kartana;		798;	;				grass;	steel;	beast boost;;			;				45;			undiscovered;;			59;181;131;59;31;109
-Guzzlord;		799;	;				dark;	dragon;	beast boost;;			;				45;			undiscovered;;			223;101;53;97;53;43
-Necrozma;		800;	;				psychic;;		prism armor;;			;				255;		undiscovered;;			97;107;101;127;89;79
-Magearna;		801;	;				steel;	fairy;	soul-heart;	;			;				3;			undiscovered;;			80;95;115;130;115;65
-Marshadow;		802;	;				fighting;ghost;	technician;	;			;				3;			undiscovered;;			90;125;80;90;90;125
-Poipole;		803;	;				posion;	;		beast boost;;			;				45;			undiscovered;;			67;73;67;73;67;73
-Naganadel;		804;	;				posion;	dragon;	beast boost;;			;				45;			undiscovered;;			73;73;73;127;73;121
-Stakataka;		805;	;				rock;	steel;	beast boost;;			;				30;			undiscovered;;			61;131;211;53;101;13
-Blacephalon;	806;	;				fire;	ghost;	beast boost;;			;				30;			undiscovered;;			53;127;53;151;79;107
-Zeraora;		807;	;				electric;;		volt absorb;;			;				3;			undiscovered;;			88;112;75;102;80;143
-Meltan;			808;	;				steel;	;		magnet pull;;			;				3;			undiscovered;;			46;65;65;55;35;34
-Melmetal;		809;	;				steel;	;		iron fist;	;			;				3;			undiscovered;;			135;143;143;80;65;34
-Grookey;		810;	;				grass;	;		overgrow;	;			grassy surge;	45;			field;		grass;		50;65;50;40;40;65
-Thwackey;		811;	;				grass;	;		overgrow;	;			grassy surge;	45;			field;		grass;		70;85;70;55;60;80
-Rillaboom;		812;	;				grass;	;		overgrow;	;			grassy surge;	45;			field;		grass;		100;125;90;60;70;85
-Scorbunny;		813;	;				fire;	;		blaze;		;			libero;			45;			field;		human-like;	50;71;40;40;40;69
-Raboot;			814;	;				fire;	;		blaze;		;			libero;			45;			field;		human-like;	65;86;60;55;60;94
-Cinderace;		815;	;				fire;	;		blaze;		;			libero;			45;			field;		human-like;	80;116;75;65;75;119
-Sobble;			816;	;				water;	;		torrent;	;			sniper;			45;			water 1;	field;		50;40;40;70;40;70
-Drizzile;		817;	;				water;	;		torrent;	;			sniper;			45;			water 1;	field;		65;60;55;95;55;90
-Inteleon;		818;	;				water;	;		torrent;	;			sniper;			45;			water 1;	field;		70;85;65;125;65;120
-Skwovet;		819;	;				normal;	;		cheek pouch;;			gluttony;		255;		field;		;			70;55;55;35;35;25
-Greedent;		820;	;				normal;	;		cheek pouch;;			gluttony;		90;			field;		;			120;95;95;55;75;20
-Rookidee;		821;	;				flying;	;		keen eye;	unnerve;	big pecks;		255;		flying;		;			38;47;35;33;35;57
-Corvisquire;	822;	;				flying;	;		keen eye;	unnerve;	big pecks;		120;		flying;		;			68;67;55;43;55;77
-Corviknight;	823;	;				flying;	steel;	keen eye;	unnerve;	big pecks;		45;			flying;		;			98;87;105;53;85;67
-Blipbug;		824;	;				bug;	;		Swarm;		compound eyes;telepathy;	255;		bug;		;			25;20;20;25;45;45
-Dottler;		825;	;				bug;	psychic;Swarm;		compound eyes;telepathy;	120;		bug;		;			50;35;80;50;90;30
-Orbeetle;		826;	;				bug;	psychic;Swarm;		frisk;		telepathy;		45;			bug;		;			60;45;110;80;120;90
-Nickit;			827;	;				dark;	;		run away;	unburden;	stakeout;		255;		field;		;			40;28;28;47;52;50
-Thievul;		828;	;				dark;	;		run away;	unburden;	stakeout;		127;		field;		;			70;58;58;87;92;90
-Gossifleur;		829;	;				grass;	;		cotton down;regenerator;effect spore;	190;		grass;		;			40;40;60;40;60;10
-Eldegoss;		830;	;				grass;	;		cotton down;regenerator;effect spore;	75;			grass;		;			60;50;90;80;120;60
-Wooloo;			831;	;				normal;	;		fluffy;		run away;	bulletproof;	255;		field;		;			42;40;55;40;45;48
-Dubwool;		832;	;				normal;	;		fluffy;		steadfast;	bulletproof;	127;		field;		;			72;80;100;60;90;88
-Chewtle;		833;	;				water;	;		strong jaw;	shell armor;swift swim;		255;		monster;	water 1;	50;64;50;38;38;44
-Drednaw;		834;	;				water;	rock;	strong jaw;	shell armor;swift swim;		75;			monster;	water 1;	90;115;90;48;68;74
-Yamper;			835;	;				electric;;		ball fetch;	;			rattled;		255;		field;		;			59;45;50;40;50;26
-Boltund;		836;	;				electric;;		strong jaw;	;			competitive;	45;			field;		;			69;90;60;90;60;121
-Rolycoly;		837;	;				rock;	;		steam engine;heatproof;	flash fire;		255;		mineral;	;			30;40;50;40;50;30
-Carkol;			838;	;				rock;	fire;	steam engine;flame body;flash fire;		120;		mineral;	;			80;60;90;60;70;50
-Coalossal;		839;	;				rock;	fire;	steam engine;flame body;flash fire;		45;			mineral;	;			110;80;120;80;90;30
-Applin;			840;	;				grass;	dragon;	ripen;		gluttony;	bulletproof;	255;		grass;		dragon;		40;40;80;40;40;20
-Flapple;		841;	;				grass;	dragon;	ripen;		gluttony;	hustle;			45;			grass;		dragon;		70;110;80;95;60;70
-Appletun;		842;	;				grass;	dragon;	ripen;		gluttony;	thick fat;		45;			grass;		dragon;		110;85;80;100;80;30
-Silicobra;		843;	;				ground;	;		sand spit;	shed skin;	sand veil;		255;		field;		dragon;		52;57;75;35;50;46
-Sandaconda;		844;	;				ground;	;		sand spit;	shed skin;	sand veil;		120;		field;		dragon;		72;107;125;65;70;71
-Cramorant;		845;	;				flying;	water;	gulp missile;;			;				45;			water 1;	flying;		70;85;55;85;95;85
-Arrokuda;		846;	;				water;	;		swift swim;	;			propeller tail;	255;		water 2;	;			41;63;40;40;30;66
-Barraskewda;	847;	;				water;	;		swift swim;	;			propeller tail;	60;			water 2;	;			61;123;60;60;50;136
-Toxel;			848;	;				electric;poison;rattled;	static;		klutz;			75;			undiscovered;;			40;38;35;54;35;40
-Toxtricity;		849;	;				electric;poison;punk rock;	plus / minus;technician;	45;			human-like;	;			75;98;70;114;70;75
-Sizzlipede;		850;	;				fire;	bug;	flash fire;	white smoke;flame body;		190;		bug;		;			50;65;45;50;50;45
-Centiskorch;	851;	;				fire;	bug;	flash fire;	white smoke;flame body;		75;			bug;		;			100;115;65;90;90;65
-Clobbopus;		852;	;				fighting;;		limber;		;			technician;		180;		water 1;	human-like;	50;68;60;50;50;32
-Grapploct;		853;	;				fighting;;		limber;		;			technician;		45;			water 1;	human-like;	80;118;90;70;80;42
-Sinistea;		854;	;				ghost;	;		weak armor;	;			cursed body;	120;		mineral;	amorphous;	40;45;45;74;54;50
-Polteageist;	855;	;				ghost;	;		weak armor;	;			cursed body;	60;			mineral;	amorphous;	60;65;65;134;114;70
-Hatenna;		856;	;				psychic;;		healer;		anticipation;magic bounce;	235;		fairy;		;			42;30;45;56;53;39
-Hattrem;		857;	;				psychic;;		healer;		anticipation;magic bounce;	120;		fairy;		;			57;40;65;86;73;49
-Hatterene;		858;	;				psychic;fairy;	healer;		anticipation;magic bounce;	45;			fairy;		;			57;90;95;136;103;29
-Impidimp;		859;	;				dark;	fairy;	prankster;	frisk;		pickpocket;		255;		fairy;		human-like;	45;45;30;55;40;50
-Morgrem;		860;	;				dark;	fairy;	prankster;	frisk;		pickpocket;		120;		fairy;		human-like;	65;60;45;75;55;70
-Grimmsnarl;		861;	;				dark;	fairy;	prankster;	frisk;		pickpocket;		45;			fairy;		human-like;	95;120;65;95;75;60
-Obstagoon;		862;	;				dark;	normal;	reckless;	guts;		defiant;		45;			field;		;			93;90;101;60;81;95
-Perrserker;		863;	;				steel;	;		battle armor;tough claws;steely spirit;	90;			field;		;			70;110;100;50;60;50
-Cursola;		864;	;				ghost;	;		weak armor;	;			perish body;	30;			water 1;	water 3;	60;95;50;145;130;30
-Sirfetch'd;		865;	;				fighting;;		steadfast;	;			scrappy;		45;			flying;		field;		62;135;95;68;82;65
-Mr.Rime;		866;	;				ice;	psychic;tangled feet;screen cleaner;ice body;	45;			human-like;	;			80;85;75;110;100;70
-Runerigus;		867;	;				ground;	ghost;	wandering spirit;;		;				90;			mineral;	amorphous;	58;95;145;50;105;30
-Milcery;		868;	;				fairy;	;		sweet veil;	;			aroma veil;		200;		fairy;		amorphous;	45;40;40;50;61;34
-Alcremie;		869;	;				fairy;	;		sweet veil;	;			aroma veil;		100;		fairy;		amorphous;	65;60;75;110;121;64
-Falinks;		870;	;				fighting;;		battle armor;;			defiant;		45;			fairy;		mineral;	65;100;100;70;60;75
-Pincurchin;		871;	;				electric;;		lightning rod;;			electric surge;	75;			water 1;	amorphous;	48;101;95;91;85;15
-Snom;			872;	;				ice;	bug;	shield dust;;			ice scales;		190;		bug;		;			30;25;35;45;30;20
-Frosmoth;		873;	;				ice;	bug;	shield dust;;			ice scales;		75;			bug;		;			70;65;60;125;90;65
-Stonjourner;	874;	;				rock;	;		power spot;	;			;				60;			mineral;	;			100;125;135;20;20;70
-Eiscue;			875;	;				ice;	;		ice face;	;			;				60;			water 1;	field;		75;80;110;65;90;50
-Indeedee;		876;	;				psychic;normal;	inner focus / own tempo;synchronize;psychic surge;30;fairy;		;			60;65;55;105;95;95
-Morpeko;		877;	;				electric;dark;	hunger switch;;			;				180;		field;		fairy;		58;95;58;70;58;97
-Cufant;			878;	;				steel;	;		sheer force;;			heavy metal;	190;		field;		mineral;	72;80;49;40;49;40
-Copperajah;		879;	;				steel;	;		sheer force;;			heavy metal;	90;			field;		mineral;	122;130;69;80;69;30
-Dracozolt;		880;	;				electric;dragon;volt absorb;hustle;		sand rush;		45;			undiscovered;;			90;100;90;80;70;75
-Arctozolt;		881;	;				electric;ice;	volt absorb;static;		slush rush;		45;			undiscovered;;			90;100;90;90;80;55
-Dracovish;		882;	;				water;	dragon;	water absorb;strong jaw;sand rush;		45;			undiscovered;;			90;90;100;70;80;75
-Arctovish;		883;	;				water;	ice;	water absorb;ice body;	slush rush;		45;			undiscovered;;			90;90;100;80;90;55
-Duraludon;		884;	;				steel;	dragon;	light metal;heavy metal;stalwart;		45;			mineral;	dragon;		70;95;115;120;50;85
-Dreepy;			885;	;				dragon;	ghost;	clear body;	infiltrator;cursed body;	45;			amorphous;	dragon;		28;60;30;40;30;82
-Drakloak;		886;	;				dragon;	ghost;	clear body;	infiltrator;cursed body;	45;			amorphous;	dragon;		68;80;50;60;50;102
-Dragapult;		887;	;				dragon;	ghost;	clear body;	infiltrator;cursed body;	45;			amorphous;	dragon;		88;120;75;10;75;142
-Zacian;			888;	;				fairy;	;		intrepid sword;;		;				10;			undiscovered;;			92;130;115;80;115;138
-Zamacenta;		889;	;				fighting;;		dauntless shield;;		;				10;			undiscovered;;			92;130;115;80;115;138
-Eternatus;		890;	;				poison;	dragon;	pressure;	;			;				255;		undiscovered;;			140;85;95;145;95;130
+name;			Number;	Photo.link;		Type 1;	Type 2;	Ability 1;	Ability 2;	Hidden Ability;	Catch Rate;	Egg Group1;	Egg Group2;	Hp;	Atk;	Def;	Spatk;	Spdef;	Speed
+Bulbasaur;		1; 		Bulbasaur.png;	Grass;	Poison;	Overgrow;	;			Chlorophyll;	45;			Monster;	Grass;		45;49;49;65;65;45
+Ivysaur;		2;		;				Grass;	Poison;	Overgrow;	;			Chlorophyll;	45;			Monster;	Grass;		60;62;63;80;80;60
+Venusaur;		3;		;				Grass;	Poison;	Overgrow;	;			Chlorophyll;	45;			Monster;	Grass;		80;82;83;100;100;80
+Charmander;		4;		;				Fire;	;		Blaze;		;			Solar Power;	45;			Monster;	Dragon;		39;52;43;60;50;65
+Charmeleon;		5;		;				Fire;	;		Blaze;		;			Solar Power;	45;			Monster;	Dragon;		58;64;58;80;65;80
+Charizard;		6;		;				Fire;	Flying;	Blaze;		;			Solar Power;	45;			Monster;	Dragon;		78;84;78;109;85;100
+Squirtle;		7;		;				Water;	;		Torrent;	;			Rain Dish;		45;			Monster;	Water 1;	44;48;65;50;64;43
+Wartortle;		8;		;				Water;	;		Torrent;	;			Rain Dish;		45;			Monster;	Water 1;	59;63;80;65;80;58
+Blastoise;		9;		;				Water;	;		Torrent;	;			Rain Dish;		45;			Monster;	Water 1;	79;83;100;85;105;78
+Caterpie;		10;		;				Bug;	;		Shield Dust;;			Run	Away;		255;		Bug;		;			45;30;35;20;20;45
+Metapod;		11;		;				Bug;	;		Shed Skin;	;			;				120;		Bug;		;			50;20;55;25;25;30
+Butterfree;		12;		;				Bug;	Flying;	Compound Eyes;;			Tinted Lens;	45;			Bug;		;			60;45;50;90;80;70
+Weedle;			13;		;				Bug;	Poison;	Shield Dust;;			Run	Away;		255;		Bug;		;			40;35;30;20;20;50
+Kakuna;			14;		;				Bug;	Poison;	Shed Skin;	;			;				120;		Bug;		;			45;25;50;25;25;35
+Beedrill;		15;		;				Bug; 	Poison;	Swarm;		;			Sniper;			45;			Bug;		;			65;90;40;45;80;75
+Pidgey;			16;		;				Normal;	Flying;	Keen Eye;	Tangled Feet;Big Pecks;		255;		Flying;		;			40;45;40;35;35;56
+Pidgeotto;		17;		;				Normal;	Flying;	Keen Eye;	Tangled Feet;Big Pecks;		120;		Flying;		;			63;60;55;50;50;71
+Pidgeot;		18;		;				Normal;	Flying;	Keen Eye;	Tangled Feet;Big Pecks;		45;			Flying;		;			83;80;75;70;70;101
+Rattata;		19;		;				Normal;	;		Run Away;	Guts;		Hustle;			255;		Field;		;			30;56;35;25;35;72
+Raticate;		20;		;				Normal;	;		Run Away;	Guts;		Hustle;			127;		Field;		;			55;81;60;50;70;97
+Spearow;		21;		;				Normal;	Flying;	Keen Eye;	;			Sniper;			255;		Flying;		;			40;60;30;31;31;70
+Fearow;			22;		;				Normal;	Flying;	Keen Eye;	;			Sniper;			90;			Flying;		;			65;90;65;61;61;100
+Ekans;			23;		;				Poison;	;		Intimidate;	Shed Skin;	Unnerve;		255;		Field;		Dragon;		35;60;44;40;54;55
+Arbok;			24;		;				Poison;	;		Intimidate;	Shed Skin;	Unnerve;		90;			Field;		Dragon;		60;95;69;65;79;80
+Pikachu;		25;		;				Electric;;		Static;		;			Lightning Rod;	190;		Field;		Fairy;		35;55;40;50;50;90
+Raichu;			26;		;				Electric;;		Static;		;			Lightning Rod;	75;			Field;		Fairy;		60;90;55;90;80;110
+Sandshrew;		27;		;				Ground;	;		Sand Veil;	;			Sand Rush;		255;		Field;		;			50;75;85;20;30;40
+Sandslash;		28;		;				Ground;	;		Sand Veil;	;			Sand Rush;		90;			Field;		;			75;100;110;45;55;65
+Nidoran♀;		29;		;				Poison;	;		Poison Point;Rivalry;	Hustle;			235;		Monster;	Field;		55;47;52;40;40;41
+Nidorina;		30;		;				Poison;	;		Poison Point;Rivalry;	Hustle;			120;		Undiscovered;;			70;62;67;55;55;56
+Nidoqueen;		31;		;				Poison;	Ground;	Poison Point;Rivalry;	Sheer Force;	45;			Undiscovered;;			90;92;87;75;85;76
+Nidoran♂;		32;		;				Poison;	;		Poison Point;Rivalry;	Hustle;			235;		Monster;	Field;		46;57;40;40;40;50
+Nidorino;		33;		;				Poison;	;		Poison Point;Rivalry;	Hustle;			120;		Monster;	Field;		61;72;57;55;55;65
+Nidoking;		34;		;				Poison;	Ground;	Poison Point;Rivalry;	Sheer Force;	45;			Monster;	Field;		81;102;77;85;75;85
+Clefairy;		35;		;				Fairy;	;		Cute Charm;	Magic Guard;Friend Guard;	150;		Fairy;		;			70;45;48;60;65;35
+Clefable;		36;		;				Fairy;	;		Cute Charm;	Magic Guard;Unaware;		25;			Fairy;		;			95;70;73;95;90;60
+Vulpix;			37;		;				Fire;	;		Flash Fire;	;			Drought;		190;		Field;		;			38;41;40;50;65;65
+Ninetales;		38;		;				Fire;	;		Flash Fire;	;			Drought;		75;			Field;		;			73;76;75;81;100;100
+Jigglypuff;		39;		;				Normal;	Fairy;	Cute Charm;	Competitive;Friend Guard;	170;		Fairy;		;			115;45;20;45;25;20
+Wigglytuff;		40;		;				Normal;	Fairy;	Cute Charm;	Competitive;Frisk;			50;			Fairy;		;			140;70;45;85;50;45
+Zubat;			41;		;				Poison;	Flying;	Inner Focus;;			Infiltrator;	255;		Flying;		;			40;45;35;30;40;55
+Golbat;			42;		;				Poison;	Flying;	Inner Focus;;			Infiltrator;	90;			Flying;		;			75;80;70;65;75;90
+Oddish;			43;		;				Grass;	Poison;	Chlorophyll;;			Run Away;		255;		Grass;		;			45;50;55;75;65;30
+Gloom;			44;		;				Grass;	Poison;	Chlorophyll;;			Stench;			120;		Grass;		;			60;65;70;85;75;40
+Vileplume;		45;		;				Grass;	Poison;	Chlorophyll;;			Effect Spore;	45;			Grass;		;			75;80;85;110;90;50
+Paras;			46;		;				Bug;	Grass;	Effect Spore;Dry Skin;	Damp;			190;		Bug;		Grass;		35;70;55;45;55;25
+Parasect;		47;		;				Bug;	Grass;	Effect Spore;Dry Skin;	Damp;			75;			Bug;		Grass;		60;95;80;60;80;30
+Venonat;		48;		;				Bug;	Poison;	Compound Eyes;Tinted Lens;Run Away;		190;		Bug;		;			60;55;50;40;55;45
+Venomoth;		49;		;				Bug;	Poison;	Shield Dust;Tinted Lens;Wonder Skin;	75;			Bug;		;			70;65;60;90;75;90
+Diglett;		50;		;				Ground;	;		Sand Veil;	Arena Trap;	Sand Force;		255;		Field;		;			10;55;25;35;45;95
+Dugtrio;		51;		;				Ground;	;		Sand Veil;	Arena Trap;	Sand Force;		50;			Field;		;			35;100;50;50;70;120
+Meowth;			52;		;				Normal;	;		Pickup;		Technician;	Unnerve;		255;		Field;		;			40;45;35;40;40;90
+Persian;		53;		;				Normal;	;		Limber;		Technician;	Unnerve;		90;			Field;		;			65;70;60;65;65;115
+Psyduck;		54;		;				Water;	;		Damp;		Cloud Nine;	Swift Swim;		190;		Water 1;	Field;		50;52;48;65;50;55
+Golduck;		55;		;				Water;	;		Damp;		Cloud Nine;	Swift Swim;		75;			Water 1;	Field;		80;82;78;95;80;85
+Mankey;			56;		;				Fighting;;		Vital Spirit;Anger Point;Defiant;		190;		Field;		;			40;80;35;35;45;70
+Primeape;		57;		;				Fighting;;		Vital Spirit;Anger Point;Defiant;		75;			Field;		;			65;105;60;60;70;95
+Growlithe;		58;		;				Fire;	;		Intimidate;	Flash Fire;	Justified;		190;		Field;		;			55;70;45;70;50;60
+Arcanine;		59;		;				Fire;	;		Intimidate;	Flash Fire;	Justified;		75;			Field;		;			90;110;80;100;80;95
+Poliwag;		60;		;				Water;	;		Water Absorb;Damp;		Swift Swim;		255;		Water 1;	;			40;50;40;40;40;90
+Poliwhirl;		61;		;				Water;	;		Water Absorb;Damp;		Swift Swim;		120;		Water 1;	;			65;65;65;50;50;90
+Poliwrath;		62;		;				Water;	Fighting;Water Absorb;Damp;		Swift Swim;		45;			Water 1;	;			90;95;95;70;90;70
+Abra;			63;		;				Psychic;;		Synchronize;Inner Focus;Magic Guard;	200;		Human-Like;	;			25;20;15;105;55;90
+Kadabra;		64;		;				Psychic;;		Synchronize;Inner Focus;Magic Guard;	100;		Human-Like;	;			40;35;30;120;70;105
+Alakazam;		65;		;				Psychic;;		Synchronize;Inner Focus;Magic Guard;	50;			Human-Like;	;			55;50;45;135;95;120
+Machop;			66;		;				Fighting;;		Guts;		No Guard;	Steadfast;		180;		Human-Like;	;			70;80;50;35;35;35
+Machoke;		67;		;				Fighting;;		Guts;		No Guard;	Steadfast;		90;			Human-Like;	;			80;100;70;50;60;45
+Machamp;		68;		;				Fighting;;		Guts;		No Guard;	Steadfast;		45;			Human-Like;	;			90;130;80;65;85;55
+Bellsprout;		69;		;				Grass;	Poison;	Chlorophyll;;			Gluttony;		255;		Grass;		;			50;75;35;70;30;40
+Weepinbell;		70;		;				Grass;	Poison;	Chlorophyll;;			Gluttony;		120;		Grass;		;			65;90;50;85;45;55
+Victreebel;		71;		;				Grass;	Poison;	Chlorophyll;;			Gluttony;		45;			Grass;		;			80;105;65;100;70;70
+Tentacool;		72;		;				Water;	Poison;	Clear Body;	Liquid Ooze;Rain Dish;		190;		Water 3;	;			40;40;35;50;100;70
+Tentacruel;		73;		;				Water;	Poison;	Clear Body;	Liquid Ooze;Rain Dish;		60;			Water 3;	;			80;70;65;80;120;100
+Geodude;		74;		;				Rock;	Ground;	Rock Head;	Sturdy;		Sand Veil;		255;		Mineral;	;			40;80;100;30;30;20
+Graveler;		75;		;				Rock;	Ground;	Rock Head;	Sturdy;		Sand Veil;		120;		Mineral;	;			55;95;115;45;45;35
+Golem;			76;		;				Rock;	Ground;	Rock Head;	Sturdy;		Sand Veil;		45;			Mineral;	;			80;120;130;55;65;45
+Ponyta;			77;		;				Fire;	;		Run Away;	Flash Fire;	Flame Body;		190;		Field;		;			50;85;55;65;65;90
+Rapidash;		78;		;				Fire;	;		Run Away;	Flash Fire;	Flame Body;		60;			Field;		;			65;100;70;80;80;105
+Slowpoke;		79;		;				Water;	Psychic;Oblivious;	Own Tempo;	Regenerator;	190;		Monster;	Water 1;	90;65;65;40;40;15
+Slowbro;		80;		;				Water;	Psychic;Oblivious;	Own Tempo;	Regenerator;	75;			Monster;	Water 1;	95;75;110;100;80;30
+Magnemite;		81;		;				Electric;Steel;	Magnet Pull;Sturdy;		Analytic;		190;		Mineral;	;			25;35;70;95;55;45
+Magneton;		82;		;				Electric;Steel;	Magnet Pull;Sturdy;		Analytic;		60;			Mineral;	;			50;60;95;120;70;70
+Farfetch'd;		83;		;				Normal;	Flying;	Keen Eye;	Inner Focus;Defiant;		45;			Flying;		Field;		52;90;55;58;62;60
+Doduo;			84;		;				Normal;	Flying;	Run Away;	Early Bird;	Tangled Feet;	190;		Flying;		;			35;85;45;35;35;75
+Dodrio;			85;		;				Normal;	Flying;	Run Away;	Early Bird;	Tangled Feet;	45;			Flying;		;			60;110;70;60;60;110
+Seel;			86;		;				Water;	;		Thick Fat;	Hydration;	Ice Body;		190;		Water 1;	Field;		65;45;55;45;70;45
+Dewgong;		87;		;				Water;	Ice;	Thick Fat;	Hydration;	Ice Body;		75;			Water 1;	Field;		90;70;80;70;95;70
+Grimer;			88;		;				Poison;	;		Stench;		Sticky Hold;Poison Touch;	190;		Amorphous;	;			80;80;50;40;50;25
+Muk;			89;		;				Poison;	;		Stench;		Sticky Hold;Poison Touch;	75;			Amorphous;	;			105;105;75;65;100;50
+Shellder;		90;		;				Water;	;		Shell Armor;Skill Link;	Overcoat;		190;		Water 3;	;			30;65;100;45;25;40
+Cloyster;		91;		;				Water;	Ice;	Shell Armor;Skill Link;	Overcoat;		60;			Water 3;	;			50;95;180;85;45;70
+Gastly;			92;		;				Ghost;	Poison;	Levitate;	;			;				190;		Amorphous;	;			30;35;30;100;35;80
+Haunter;		93;		;				Ghost;	Poison;	Levitate;	;			;				90;			Amorphous;	;			45;50;45;115;55;95
+Gengar;			94;		;				Ghost;	Poison;	Cursed Body;;			;				45;			Amorphous;	;			60;65;60;130;75;110
+Onix;			95;		;				Rock;	Ground;	Rock Head;	Sturdy;		Weak Armor;		45;			Mineral;	;			35;45;160;30;45;70
+Drowzee;		96;		;				Psychic;;		Insomnia;	Forewarn;	Inner Focus;	190;		Human-Like;	;			60;48;45;43;90;42
+Hypno;			97;		;				Psychic;;		Insomnia;	Forewarn;	Inner Focus;	75;			Human-Like;	;			85;73;70;73;115;67
+Krabby;			98;		;				Water;	;		Hyper Cutter;Shell Armor;Sheer Force;	225;		Water 3;	;			30;105;90;25;25;50
+Kingler;		99;		;				Water;	;		Hyper Cutter;Shell Armor;Sheer Force;	60;			Water 3;	;			55;130;115;50;50;75
+Voltorb;		100;	;				Electric;;		Soundproof;	Static;		Aftermath;		190;		Mineral;	;			40;30;50;55;55;100
+Electrode;		101;	;				Electric;;		Soundproof;	Static;		Aftermath;		60;			Mineral;	;			60;50;70;80;80;150
+Exeggcute;		102;	;				Grass;	Poison;	Chlorophyll;;			Harvest;		90;			Grass;		;			60;40;80;60;45;40
+Exeggutor;		103;	;				Grass;	Poison;	Chlorophyll;;			Harvest;		45;			Grass;		;			95;95;85;125;75;55
+Cubone;			104;	;				Ground;	;		Rock Head;	Lightning Rod;Battle Armor;	190;		Monster;	;			50;50;95;40;50;35
+Marowak;		105;	;				Ground;	;		Rock Head;	Lightning Rod;Battle Armor;	75;			Monster;	;			60;80;110;50;80;45
+Hitmonlee;		106;	;				Fighting;;		Limber;		Reckless;	Unburden;		45;			Human-Like;	;			50;120;53;35;110;87
+Hitmonchan;		107;	;				Fighting;;		Keen Eye;	Iron Fist;	Inner Focus;	45;			Human-Like;	;			50;105;79;35;110;76
+Lickitung;		108;	;				Normal;	;		Own Tempo;	Oblivious;	Cloud Nine;		45;			Monster;	;			90;55;75;60;75;30
+Koffing;		109;	;				Poison;	;		Levitate;	;			;				190;		Amorphous;	;			40;65;95;60;45;35
+Weezing;		110;	;				Poison;	;		Levitate;	;			;				60;			Amorphous;	;			65;90;120;85;70;60
+Rhyhorn;		111;	;				Ground;	Rock;	Lightning Rod;Rock Head;Reckless;		120;		Monster;	Field;		80;85;95;30;30;25
+Rhydon;			112;	;				Ground;	Rock;	Lightning Rod;Rock Head;Reckless;		60;			Monster;	Field;		105;130;120;45;45;40
+Chansey;		113;	;				Normal;	;		Natural Cure;Serene Grace;Healer;		30;			Fairy;		;			250;5;5;35;105;50
+Tangela;		114;	;				Grass;	;		Chlorophyll;Leaf Guard;	Regenerator;	45;			Grass;		;			65;55;115;100;40;60
+Kangaskhan;		115;	;				Normal;	;		Early Bird;	Scrappy;	Inner Focus;	45;			Monster;	;			105;95;80;40;80;90
+Horsea;			116;	;				Water;	;		Swift Swim;	Sniper;		Damp;			225;		Water 1;	Dragon;		30;40;70;70;25;60
+Seadra;			117;	;				Water;	;		Poison Point;Sniper;	Damp;			75;			Water 1;	Dragon;		55;65;95;95;45;85
+Goldeen;		118;	;				Water;	;		Swift Swim;	Water Veil;	Lightning Rod;	225;		Water 2;	;			45;67;60;35;50;63
+Seaking;		119;	;				Water;	;		Swift Swim;	Water Veil;	Lightning Rod;	60;			Water 2;	;			80;92;65;65;80;68
+Staryu;			120;	;				Water;	;		Illuminate;	Natural Cure;Analytic;		225;		Water 3;	;			30;45;55;70;55;85
+Starmie;		121;	;				Water;	Psychic;Illuminate;	Natural Cure;Analytic;		60;			Water 3;	;			60;75;85;100;85;115
+Mr. Mime;		122;	;				Psychic;Fairy;	Soundproof;	Filter;		Technician;		45;			Human-Like;	;			40;45;65;100;120;90
+Scyther;		123;	;				Bug;	Flying;	Swarm;		Technician;	Steadfast;		45;			Bug;		;			70;110;80;55;80;105
+Jynx;			124;	;				Ice;	Psychic;Oblivious;	Forewarn;	Dry Skin;		45;			Human-Like;	;			65;50;35;115;95;95
+Electabuzz;		125;	;				Electric;;		Static;		;			Vital Spirit;	45;			Human-Like;	;			65;83;57;95;85;105
+Magmar;			126;	;				Fire;	;		Flame Body;	;			Vital Spirit;	45;			Human-Like;	;			65;95;57;100;85;93
+Pinsir;			127;	;				Bug;	;		Hyper Cutter;Mold Breaker;Moxie;		45;			Bug;		;			65;125;100;55;70;85
+Tauros;			128;	;				Normal;	;		Intimidate;	Anger Point;Sheer Force;	45;			Field;		;			75;100;95;40;70;110
+Magikarp;		129;	;				Water;	;		Swift Swim;	;			Rattled;		255;		Water 2;	Dragon;		20;10;55;15;20;80
+Gyarados;		130;	;				Water;	Flying;	Intimidate;	;			Moxie;			45;			Water 2;	Dragon;		95;125;79;60;100;81
+Lapras;			131;	;				Water;	Ice;	Water Absorb;Shell Armor;Hydration;		45;			Mosnter;	Water 1;	130;85;80;85;95;60
+Ditto;			132;	;				Normal;	;		Limber;		;			Imposter;		35;			Ditto;		;			48;48;48;48;48;48
+Eevee;			133;	;				Normal;	;		Run Away;	Adaptability;Anticipation;	45;			Field;		;			55;55;50;45;65;55
+Vaporeon;		134;	;				Water;	;		Water Absorb;;			Hydration;		45;			Field;		;			130;65;60;110;95;65
+Jolteon;		135;	;				Electric;;		Volt Absorb;;			Quick Feet;		45;			Field;		;			65;65;60;110;95;130
+Flareon;		136;	;				Fire;	;		Flash Fire;	;			Guts;			45;			Field;		;			65;130;60;95;110;65
+Porygon;		137;	;				Normal;	;		Trace;		Download;	Analytic;		45;			Mineral;	;			65;60;70;85;75;40
+Omanyte;		138;	;				Rock;	Water;	Swift Swim;	Shell Armor;Weak Armor;		45;			Water 1;	Water 3;	35;40;100;90;55;35
+Omastar;		139;	;				Rock;	Water;	Swift Swim;	Shell Armor;Weak Armor;		45;			Water 1;	Water 3;	70;60;125;115;70;55
+Kabuto;			140;	;				Rock;	Water;	Swift Swim;	Battle Armor;Weak Armor;	45;			Water 1;	Water 3;	30;80;90;55;45;55
+Kabutops;		141;	;				Rock;	Water;	Swift Swim;	Battle Armor;Weak Armor;	45;			Water 1;	Water 3;	60;115;105;65;70;80
+Aerodactyl;		142;	;				Rock;	Flying;	Rock Head;	Pressure;	Unnerve;		45;			Flying;		;			80;105;65;60;75;130
+Snorlax;		143;	;				Normal;	;		Immunity;	Thick Fat;	Gluttony;		25;			Monster;	;			160;110;65;65;110;30
+Articuno;		144;	;				Ice;	Flying;	Pressure;	;			Snow Cloak;		3;			Undiscovered;;			90;85;100;95;125;85
+Zapdos;			145;	;				Electric;Flying;Pressure;	;			Static;			3;			Undiscovered;;			90;90;85;125;90;100
+Moltres;		146;	;				Fire;	Flying;	Pressure;	;			Flame Body;		3;			Undiscovered;;			90;100;90;125;85;90
+Dratini;		147;	;				Dragon;;		Shed Skin;	;			Marvel Scale;	45;			Water 1;	Dragon;		41;64;45;50;50;50
+Dragonair;		148;	;				Dragon;;		Shed Skin;	;			Marvel Scale;	45;			Water 1;	Dragon;		61;84;65;70;70;70
+Dragonite;		149;	;				Dragon;	Flying;	Shed Skin;	;			Multiscale;		45;			Water 1;	Dragon;		91;134;95;100;100;80
+Mewtwo;			150;	;				Psychic;;		Pressure;	;			Unnerve;		3;			Undiscovered;;			106;110;90;154;90;130
+Mew;			151;	;				Psychic;;		Synchronize;;			;				45;			Undiscovered;;			100;100;100;100;100;100
+Chikorita;		152;	;				Grass;;			Overgrow;	;			Leaf Guard;		45;			Monster;	Grass;		45;49;65;49;65;45
+Bayleef;		153;	;				Grass;;			Overgrow;	;			Leaf Guard;		45;			Monster;	Grass;		60;62;80;63;80;60
+Meganium;		154;	;				Grass;;			Overgrow;	;			Leaf Guard;		45;			Monster;	Grass;		80;82;100;83;100;80
+Cyndaquil;		155;	;				Fire;	;		Blaze;		;			Flash Fire;		45;			Field;		;			39;52;43;60;50;65
+Quilava;		156;	;				Fire;	;		Blaze;		;			Flash Fire;		45;			Field;		;			58;64;58;80;65;80
+Typhlosion;		157;	;				Fire;	;		Blaze;		;			Flash Fire;		45;			Field;		;			78;84;78;109;85;100
+Totodile;		158;	;				Water;	;		Torrent;	;			Sheer Force;	45;			Monster;	Water 1;	50;65;64;44;48;43
+Croconaw;		159;	;				Water;	;		Torrent;	;			Sheer Force;	45;			Monster;	Water 1;	65;80;80;59;63;58
+Feraligatr;		160;	;				Water;	;		Torrent;	;			Sheer Force;	45;			Monster;	Water 1;	85;105;100;79;83;78
+Sentret;		161;	;				Normal;	;		Run Away;	Keen Eye;	Frisk;			255;		Field;		;			35;46;34;35;45;20
+Furret;			162;	;				Normal;	;		Run Away;	Keen Eye;	Frisk;			90;			Field;		;			85;76;64;45;55;90
+Hoothoot;		163;	;				Normal;	Flying;	Insomnia;	Keen Eye;	Tinted Lens;	255;		Flying;		;			60;30;30;36;56;50
+Noctowl;		164;	;				Normal;	Flying;	Insomnia;	Keen Eye;	Tinted Lens;	90;			Flying;		;			100;50;50;86;96;70
+Ledyba;			165;	;				Bug;	Flying;	Swarm;		Early Bird;	Rattled;		255;		Bug;		;			40;20;30;40;80;55
+Ledian;			166;	;				Bug;	Flying;	Swarm;		Early Bird;	Iron Fist;		90;			Bug;		;			55;35;50;55;110;85
+Spinarak;		167;	;				Bug;	Poison;	Swarm;		Insomnia;	Sniper;			255;		Bug;		;			40;60;40;40;40;30
+Ariados;		168;	;				Bug;	Poison;	Swarm;		Insomnia;	Sniper;			90;			Bug;		;			70;90;70;60;70;40
+Crobat;			169;	;				Poison;	Flying;	Inner Focus;;			Infiltrator;	90;			Flying;		;			85;90;80;70;80;130
+Chinchou;		170;	;				Water;	Electric;Volt Absorb;Illuminate;Water Absorb;	190;		Water 2;	;			75;38;38;56;56;67
+Lanturn;		171;	;				Water;	Electric;Volt Absorb;Illuminate;Water Absorb;	75;			Water 2;	;			125;58;58;76;76;67
+Pichu;			172;	;				Electric;;		Static;		;			Lightning Rod;	190;		Undiscovered;;			20;40;15;35;35;60
+Cleffa;			173;	;				Fairy;	;		Cute Charm;	Magic Charm;Friend Guard;	150;		Undiscovered;;			50;25;28;45;55;15
+Igglybuff;		174;	;				Normal;	Fairy;	Cute Charm;	Competitive;Friend Guard;	170;		Undiscovered;;			90;30;15;40;20;15
+Togepi;			175;	;				Fairy;	;		Hustle;		Serene Grace;Super Luck;	190;		Undiscovered;;			35;20;65;40;65;20
+Togetic;		176;	;				Fairy;	Flying;	Hustle;		Serene Grace;Super Luck;	75;			Flying;		Fairy;		55;40;85;80;105;40
+Natu;			177;	;				Psychic;Flying;	Synchronize;Early Bird;	Magic Bounce;	190;		Flying;		;			40;50;45;70;45;70
+Xatu;			178;	;				Psychic;Flying;	Synchronize;Early Bird;	Magic Bounce;	75;			Flying;		;			65;75;70;95;70;95
+Mareep;			179;	;				Electric;;		Static;		;			Plus;			235;		Monster;	Field;		55;40;40;65;45;35
+Flaaffy;		180;	;				Electric;;		Static;		;			Plus;			120;		Monster;	Field;		70;55;55;80;60;45
+Ampharos;		181;	;				Electric;;		Static;		;			Plus;			45;			Monster;	Field;		90;75;85;115;90;55
+Bellossom;		182;	;				Grass;;			Chlorophyll;;			Healer;			45;			Grass;		;			75;80;95;90;100;50
+Marill;			183;	;				Water;	Fairy;	Thick Fat;	Huge Power;	Sap Sipper;		190;		Water 1;	Fairy;		70;20;50;20;50;40
+Azumarill;		184;	;				Water;	Fairy;	Thick Fat;	Huge Power;	Sap Sipper;		75;			Water 1;	Fairy;		100;50;80;60;80;50
+Sudowoodo;		185;	;				Rock;	;		Sturdy;		Rock Head;	Rattled;		65;			Mineral;	;			70;100;115;30;65;30
+Politoed;		186;	;				Water;	;		Water Absorb;Damp;		Drizzle;		45;			Water 1;	;			90;75;75;90;100;70
+Hoppip;			187;	;				Grass;	Flying;	Chlorophyll;Leaf Guard;	Infiltrator;	255;		Fairy;		Grass;		35;35;40;35;55;50
+Skiploom;		188;	;				Grass;	Flying;	Chlorophyll;Leaf Guard;	Infiltrator;	120;		Fairy;		Grass;		55;45;50;45;65;80
+Jumpluff;		189;	;				Grass;	Flying;	Chlorophyll;Leaf Guard;	Infiltrator;	45;			Fairy;		Grass;		75;55;70;55;95;110
+Aipom;			190;	;				Normal;	;		Run Away;	Pickup;		Skill Link;		45;			Field;		;			55;70;55;40;55;85
+Sunkern;		191;	;				Grass;;			Chlorophyll;Solar Power;Early Bird;		235;		Grass;		;			30;30;30;30;30;30
+Sunflora;		192;	;				Grass;;			Chlorophyll;Solar Power;Early Bird;		120;		Grass;		;			75;75;55;105;85;30
+Yanma;			193;	;				Bug;	Flying;	Speed Boost;	Compound Eyes;Frisk;	75;			Bug;		;			65;65;45;75;45;95
+Wooper;			194;	;				Grass;	Ground;	Damp;		Water Absorb;Unaware;		255;		Water 1;	Field;		55;45;45;25;25;15
+Quagsire;		195;	;				Grass;	Ground;	Damp;		Water Absorb;Unaware;		90;			Water 1;	Field;		95;85;85;65;65;35
+Espeon;			196;	;				Psychic;;		Synchronize;;			Magic Bounce;	45;			Field;		;			65;65;60;130;95;110
+Umbreon;		197;	;				Dark;	;		Synchronize;;			Inner Focus;	45;			Field;		;			95;65;110;60;130;65
+Murkrow;		198;	;				Dark;	Flying;	Insomnia;	Super Luck;	Prankster;		30;			Flying;		;			60;85;42;85;42;91
+Slowking;		199;	;				Water;	Psychic;Oblivious;	Own Tempo;	Regenerator;	70;			Monster;	Water 1;	95;75;80;100;110;30
+Misdreavus;		200;	;				Ghost;	;		Levitate;	;			;				45;			Amorphous;	;			60;60;60;85;85;85
+Unown;			201;	;				Psychic;;		Levitate;	;			;				225;		Undiscovered;;			48;72;48;72;48;48
+Wobbuffet;		202;	;				Psychic;;		Shadow Tag;	;			Telepathy;		45;			Amorphous;	;			190;33;58;33;58;33
+Girafarig;		203;	;				Normal;	Psychic;Inner Focus;Early Bird;	Sap Sipper;		60;			Field;		;			70;80;65;90;65;85
+Pineco;			204;	;				Bug;	;		Sturdy;		;			Overcoat;		190;		Bug;		;			50;65;90;35;35;15
+Forretress;		205;	;				Bug;	Steel;	Sturdy;		;			Overcoat;		75;			Bug;		;			75;90;140;60;60;40
+Dunsparce;		206;	;				Normal;	;		Serene Grace;Run Away;	Rattled;		190;		Field;		;			100;70;70;65;65;45
+Gligar;			207;	;				Ground;	Flying;	Hyper Cutter;Sand Veil;	Immunity;		60;			Bug;		;			65;75;105;35;65;85
+Steelix;		208;	;				Steel;	Ground;	Rock Head;	Sturdy;		Sheer Force;	25;			Mineral;	;			75;85;200;55;65;30
+Snubbull;		209;	;				Fairy;	;		Intimidate;	Run Away;	Rattled;		190;		Field;		Fairy;		60;80;50;40;40;30
+Granbull;		210;	;				Fairy;	;		Intimidate;	Quick Feet;	Rattled;		75;			Field;		Fairy;		90;120;75;60;60;45
+Qwilfish;		211;	;				Water;	Poison;Poison Point;Swift Swim;	Intimidate;		45;			Water 2;	;			65;95;85;55;55;85
+Scizor;			212;	;				Bug;	Steel;	Swarm;		Technician;	Light Metal;	25;			Bug;		;			70;130;100;55;80;65
+Shuckle;		213;	;				Bug;	Rock;	Sturdy;		Gluttony;	Contrary;		190;		Bug;		;			20;10;230;10;230;5
+Heracross;		214;	;				Bug;	Fighting;Swarm;		Guts;		Moxie;			45;			Bug;		;			80;125;75;40;95;85
+Sneasel;		215;	;				Dark;	Ice;	Inner Focus;Keen Eye;	Pickpocket;		60;			Field;		;			55;95;55;35;75;115
+Teddiursa;		216;	;				Normal;	;		Pickup;		Quick Feet;	Honey Gather;	120;		Field;		;			60;80;50;50;50;40
+Ursaring;		217;	;				Normal;	;		Guts;		Quick Feet;	Unnerve;		60;			Field;		;			90;130;75;75;75;55
+Slugma;			218;	;				Fire;	;		Magma Armor;Flame Body;	Weak Armor;		190;		Amorphous;	;			40;40;40;70;40;20
+Magcargo;		219;	;				Fire;	Rock;	Magma Armor;Flame Body;	Weak Armor;		75;			Amorphous;	;			60;50;120;90;80;30
+Swinub;			220;	;				Ice;	Ground;	Oblivious;	Snow Cloak;	Thick Fat;		225;		Field;		;			50;50;40;30;30;50
+Piloswine;		221;	;				Ice;	Ground;	Oblivious;	Snow Cloak;	Thick Fat;		75;			Field;		;			100;100;80;60;60;50
+Corsola;		222;	;				Water;	Rock;	Hustle;		Natural Cure;Regenerator;	60;			Water 1;	Water 3;	65;55;95;65;95;35
+Remoraid;		223;	;				Water;	;		Hustle;		Sniper;		Moody;			190;		Water 1;	Water 2;	35;65;35;65;35;65
+Octillery;		224;	;				Water;	;		Suction Cups;Sniper;	Moody;			75;			Water 1;	Water 2;	75;105;75;105;75;45
+Delibird;		225;	;				Ice;	Flying;	Vital Spirit;Hustle;	Insomnia;		45;			Water 1;	Field;		45;55;45;65;45;75
+Mantine;		226;	;				Water;	Flying;	Swift Swim;	Water Absorb;Water Veil;	25;			Water 1;	;			85;40;70;80;140;70
+Skarmory;		227;	;				Steel;	Flying;	Keen Eye;	Sturdy;		Weak Armor;		25;			Flying;		;			65;80;140;40;70;70
+Houndour;		228;	;				Dark;	Fire;	Early Bird;	Flash Fire;	Unnerve;		120;		Field;		;			45;60;30;80;50;65
+Houndoom;		229;	;				Dark;	Fire;	Early Bird;	Flash Fire;	Unnerve;		45;			Field;		;			75;90;50;110;80;95
+Kingdra;		230;	;				Water;	Dragon;	Swift Swim;	Sniper;		Damp;			45;			Water 1;	Dragon;		75;95;95;95;95;85
+Phanpy;			231;	;				Ground;	;		Pickup;		;			Sand Veil;		120;		Field;		;			90;60;60;40;40;40
+Donphan;		232;	;				Ground;	;		Sturdy;		;			Sand Veil;		60;			Field;		;			90;120;120;60;60;50
+Porygon2;		233;	;				Normal;	;		Trace;		Download;	Analytic;		45;			Mineral;	;			85;80;90;105;95;60
+Stantler;		234;	;				Normal;	;		Intimidate;	Frisk;		Sap Sipper;		45;			Field;		;			73;95;62;85;65;85
+Smeargle;		235;	;				Normal;	;		Own Tempo;	Technician;	Moody;			45;			Field;		;			55;20;35;20;45;75
+Tyrogue;		236;	;				Fighting;;		Guts;		Steadfast;	Vital Spirit;	75;			Undiscovered;;			35;35;35;35;35;35
+Hitmontop;		237;	;				Fighting;;		Intimidate;	Technician;	Steadfast;		45;			Human-Like;	;			50;95;95;35;110;70
+Smoochum;		238;	;				Ice;	Psychic;Oblivious;	Forewarn;	Hydration;		45;			Undiscovered;;			45;30;15;85;65;65
+Elekid;			239;	;				Electric;;		Static;		;			Vital Spirit;	45;			Undiscovered;;			45;63;37;65;55;95
+Magby;			240;	;				Fire;;			Flame Body;	;			Vital Spirit;	45;			Undiscovered;;			45;75;37;70;55;83
+Miltank;		241;	;				Normal;	;		Thick Fat;	Scrappy;	Sap Sipper;		45;			Field;		;			95;80;105;40;70;100
+Blissey;		242;	;				Normal;	;		Natural Cure;Serene Grace;Healer;		30;			Fairy;		;			255;10;10;75;135;55
+Raikou;			243;	;				Electric;;		Pressure;	;			Inner Focus;	3;			Undiscovered;;			90;85;75;115;100;115
+Entei;			244;	;				Fire;	;		Pressure;	;			Inner Focus;	3;			Undiscovered;;			115;115;85;90;75;100
+Suicune;		245;	;				Water;	;		Pressure;	;			Inner Focus;	3;			Undiscovered;;			100;75;115;90;115;85
+Larvitar;		246;	;				Rock;	Ground;	Guts;		;			Sand Veil;		45;			Monster;	;			50;64;50;45;50;41
+Pupitar;		247;	;				Rock;	Ground;	Shed Skin;	;			;				45;			Monster;	;			70;84;70;65;70;51
+Tyranitar;		248;	;				Rock;	Dark;	Sand Stream;;			Unnerve;		45;			Monster;	;			100;134;110;95;100;61
+Lugia;			249;	;				Psychic;Flying;	Pressure;	;			Multiscale;		3;			Undiscovered;;			106;90;130;90;154;110
+Ho-Oh;			250;	;				Fire;	Flying;	Pressure;	;			Regenerator;	3;			Undiscovered;;			106;130;90;110;154;90
+Celebi;			251;	;				Psychic;Grass;	Natural Cure;;			;				45;			Undiscovered;;			100;100;100;100;100;100
+Treecko;		252;	;				Grass;	;		Overgrow;	;			Unburden;		45;			Monster;	Dragon;		40;45;35;65;55;70
+Grovyle;		253;	;				Grass;	;		Overgrow;	;			Unburden;		45;			Monster;	Dragon;		50;65;45;85;65;95
+Sceptile;		254;	;				Grass;	;		Overgrow;	;			Unburden;		45;			Monster;	Dragon;		70;85;65;105;85;120
+Torchic;		255;	;				Fire;	;		Blaze;		;			Speed Boost;	45;			Field;		;			45;60;40;70;50;45
+Combusken;		256;	;				Fire;	Fighting;Blaze;		;			Speed Boost;	45;			Field;		;			60;85;60;85;60;55
+Blaziken;		257;	;				Fire;	Fighting;Blaze;		;			Speed Boost;	45;			Field;		;			80;120;70;110;70;80
+Mudkip;			258;	;				Water;	;		Torrent;	;			Damp;			45;			Monster;	Water 1;	50;70;50;50;50;40
+Marshtomp;		259;	;				Water;	Ground;	Torrent;	;			Damp;			45;			Monster;	Water 1;	70;85;70;60;70;50
+Swampert;		260;	;				Water;	Ground;	Torrent;	;			Damp;			45;			Monster;	Water 1;	100;110;90;85;90;60
+Poochyena;		261;	;				Dark;	;		Run Away;	Quick Feet;	Rattled;		255;		Field;		;			35;55;35;30;30;35
+Mightyena;		262;	;				Dark;	;		Intimidate;	Quick Feet;	Moxie;			127;		Field;		;			70;90;70;60;60;70
+Zigzagoon;		263;	;				Normal;	;		Pickup;		Gluttony;	Quick Feet;		255;		Field;		;			38;30;41;30;41;60
+Linoone;		264;	;				Normal;	;		Pickup;		Gluttony;	Quick Feet;		90;			Field;		;			78;70;61;50;61;100
+Wurmple;		265;	;				Bug;	;		Shield Dust;;			Run Away;		255;		Bug;		;			45;45;35;20;30;20
+Silcoon;		266;	;				Bug;	;		Shed Skin;	;			;				120;		Bug;		;			50;35;55;25;25;15
+Beautifly;		267;	;				Bug;	Flying;	Swarm;		;			Rivalry;		45;			Bug;		;			60;70;50;100;50;65
+Cascoon;		268;	;				Bug;	;		Shed Skin;	;			;				120;		Bug;		;			50;35;55;25;25;15
+Dustox;			269;	;				Bug;	Poison;	Shield Dust;;			Compound Eyes;	45;			Bug;		;			60;50;70;50;90;65
+Lotad;			270;	;				Water;	Grass;	Swift Swim;	Rain Dish;	Own Tempo;		255;		Water 1;	Grass;		40;30;30;40;50;30
+Lombre;			271;	;				Water;	Grass;	Swift Swim;	Rain Dish;	Own Tempo;		120;		Water 1;	Grass;		60;50;50;60;70;50
+Ludicolo;		272;	;				Water;	Grass;	Swift Swim;	Rain Dish;	Own Tempo;		45;			Water 1;	Grass;		80;70;70;90;100;70
+Seedot;			273;	;				Grass;	;		Chlorophyll;Early Bird;	Pickpocket;		255;		Field;		Grass;		40;40;50;30;30;30
+Nuzleaf;		274;	;				Grass;	Dark;	Chlorophyll;Early Bird;	Pickpocket;		120;		Field;		Grass;		70;70;40;60;40;60
+Shiftry;		275;	;				Grass;	Dark;	Chlorophyll;Early Bird;	Pickpocket;		45;			Field;		Grass;		90;100;60;90;60;80
+Taillow;		276;	;				Normal;	Flying;	Guts;		;			Scrappy;		200;		Flying;		;			40;55;30;30;30;85
+Swellow;		277;	;				Normal;	Flying;	Guts;		;			Scrappy;		45;			Flying;		;			60;85;60;75;50;125
+Wingull;		278;	;				Water;	Flying;	Keen Eye;	Hydration;	Rain Dish;		190;		Water 1;	Flying;		40;30;30;55;30;85
+Pelipper;		279;	;				Water;	Flying;	Keen Eye;	Drizzle;	Rain Dish;		45;			Water 1;	Flying;		60;50;100;95;70;65
+Ralts;			280;	;				Psychic;Fairy;	Synchronize;Trace;		Telepathy;		235;		Amorphous;	;			28;25;25;45;35;40
+Kirlia;			281;	;				Psychic;Fairy;	Synchronize;Trace;		Telepathy;		120;		Amorphous;	;			38;35;35;65;55;50
+Gardevoir;		282;	;				Psychic;Fairy;	Synchronize;Trace;		Telepathy;		45;			Amorphous;	;			68;65;65;125;115;80;
+Surskit;		283;	;				Bug;	Water;	Swift Swim;	;			Rain Dish;		200;		Water 1;	Bug;		40;30;32;50;52;65
+Masquerain;		284;	;				Bug;	Flying;	Intimidate;	;			Unnerve;		75;			Water 1;	Bug;		70;60;62;100;82;80
+Shroomish;		285;	;				Grass;	;		Effect Spore;Poison Heal;Quick Feet;	255;		Fairy;		Grass;		60;40;60;40;60;35
+Breloom;		286;	;				Grass;	Fighting;Effect Spore;Poison Heal;Technician;	90;			Fairy;		Grass;		60;130;80;60;60;70
+Slakoth;		287;	;				Normal;	;		Traunt;		;			;				255;		Field;		;			60;60;60;35;35;30
+Vigoroth;		288;	;				Normal;	;		Vital Spirit;;			;				120;		Field;		;			80;80;80;55;55;90
+Slaking;		289;	;				Normal;	;		Traunt;		;			;				45;			Field;		;			150;160;100;95;65;100
+Nincada;		290;	;				Bug;	Ground;	Compound Eyes;;			Run Away;		255;		Bug;		;			31;45;90;30;30;40
+Ninjask;		291;	;				Bug;	Flying;	Speed Boost;;			Infiltrator;	120;		Bug;		;			61;90;45;50;50;160
+Shedinja;		292;	;				Bug;	Ghost;	Wonder Guard;;			;				45;			Mineral;	;			1;90;45;30;30;40
+Whismur;		293;	;				Normal;	;		Soundproof;	;			Rattled;		190;		Monster;	Field;		64;51;23;51;23;28
+Loudred;		294;	;				Normal;	;		Soundproof;	;			Scrappy;		120;		Monster;	Field;		84;71;43;71;43;48
+Exploud;		295;	;				Normal;	;		Soundproof;	;			Scrappy;		45;			Monster;	Field;		104;91;63;91;73;68
+Makuhita;		296;	;				Fighting;;		Thick Fat;	Guts;		Sheer Force;	180;		Human-Like;	;			72;60;30;20;30;25
+Hariyama;		297;	;				Fighting;;		Thick Fat;	Guts;		Sheer Force;	200;		Human-Like;	;			144;120;60;40;60;50
+Azurill;		298;	;				Normal;	Fairy;	Thick Fat;	Huge Power;	Sap Sipper;		150;		Undiscovered;;			50;20;40;20;40;20
+Nosepass;		299;	;				Rock;	;		Sturdy;		Magnet Pull;Sand Force;		255;		Mineral;	;			30;45;135;45;90;30
+Skitty;			300;	;				Normal;	;		Cute Charm;	Normalize;	Wonder Skin;	255;		Field;		Fairy;		50;45;45;35;35;50
+Delcatty;		301;	;				Normal;	;		Cute Charm;	Normalize;	Wonder Skin;	60;			Field;		Fairy;		70;65;65;55;55;90
+Sableye;		302;	;				Dark;	Ghost;	Keen Eye;	Stall;		Prankster;		45;			Human-Like;	;			50;75;75;65;65;50
+Mawile;			303;	;				Steel;	Fairy;	Hyper Cutter;Intimidate;Sheer Force;	45;			Field;		Fairy;		50;85;85;55;55;50
+Aron;			304;	;				Steel;	Rock;	Sturdy;		Rock Head;	Heavy Metal;	180;		Monster;	;			50;70;100;40;40;30
+Lairon;			305;	;				Steel;	Rock;	Sturdy;		Rock Head;	Heavy Metal;	90;			Monster;	;			60;90;140;50;50;40
+Aggron;			306;	;				Steel;	Rock;	Sturdy;		Rock Head;	Heavy Metal;	45;			Monster;	;			70;110;180;60;60;50
+Meditite;		307;	;				Fighting;Psychic;Pure Power;;			Telepathy;		180;		Human-Like;	;			30;40;55;40;55;60
+Medicham;		308;	;				Fighting;Psychic;Pure Power;;			Telepathy;		90;			Human-Like;	;			60;60;75;60;75;80
+Electrike;		309;	;				Electric;;		Static;		Lightning Rod;Minus;		120;		Field;		;			40;45;40;65;40;65
+Manectric;		310;	;				Electric;;		Static;		Lightning Rod;Minus;		45;			Field;		;			70;75;60;105;60;105
+Plusle;			311;	;				Electric;;		Plus;		;			Lightning Rod;	200;		Fairy;		;			60;50;40;85;75;95
+Minun;			312;	;				Electric;;		Minus;		;			Volt Absorb;	200;		Fairy;		;			60;40;50;75;85;95
+Volbeat;		313;	;				Bug;	;		Illuminate;	Swarm;		Prankster;		150;		Bug;		Human-Like;	65;73;75;47;85;85
+Illumise;		314;	;				Bug;	;		Oblivious;	Tinted Lens;Prankster;		150;		Bug;		Human-Like;	65;47;75;73;85;85
+Roselia;		315;	;				Grass;	Poison;	Natural Cure;Poison Point;Leaf Guard;	150;		Fairy;		Grass;		50;60;45;100;80;65
+Gulpin;			316;	;				Posion;	;		Liquid Ooze;Sticky Hold;Gluttony;		225;		Amorphous;	;			70;43;53;43;53;40
+Swalot;			317;	;				Posion;	;		Liquid Ooze;Sticky Hold;Gluttony;		75;			Amorphous;	;			100;73;83;73;83;55
+Carvanha;		318;	;				Water;	Dark;	Rough Skin;	;			Speed Boost;	225;		Water 2;	;			45;90;20;65;20;65
+Sharpedo;		319;	;				Water;	Dark;	Rough Skin;	;			Speed Boost;	60;			Water 2;	;			70;120;40;95;40;95
+Wailmer;		320;	;				Water;	;		Water Veil;	Oblivious;	Pressure;		125;		Field;		Water 2;	130;70;35;70;35;60
+Wailord;		321;	;				Water;	;		Water Veil;	Oblivious;	Pressure;		60;			Field;		Water 2;	170;90;45;90;45;60
+Numel;			322;	;				Fire;	Ground;	Oblivious;	Simple;		Own Tempo;		255;		Field;		;			60;60;40;65;45;35
+Camerupt;		323;	;				Fire;	Ground;	Magma Armor;Solid Rock;	Anger Point;	150;		Field;		;			70;100;70;105;75;40
+Torkoal;		324;	;				Fire;	;		White Smoke;Drought;	Shell Armor;	90;			Field;		;			70;85;140;85;70;20
+Spoink;			325;	;				Psychic;;		Thick Fat;	Own Tempo;	Gluttony;		255;		Field;		;			60;25;35;70;80;60
+Grumpig;		326;	;				Psychic;;		Thick Fat;	Own Tempo;	Gluttony;		60;			Field;		;			80;45;65;90;110;80
+Spinda;			327;	;				Normal;	;		Own Tempo;	Tangled Feet;Contrary;		255;		Field;		Human-Like;	60;60;60;60;60;60
+Trapinch;		328;	;				Ground;	;		Hyper Cutter;Arena Trap;Sheer Force;	255;		Bug;		;			45;100;45;45;45;10
+Vibrava;		329;	;				Ground;	Dragon;	Levitate;	;			;				120;		Bug;		;			50;70;50;50;50;70
+Flygon;			330;	;				Ground;	Dragon;	Levitate;	;			;				45;			Bug;		;			80;100;80;80;80;100
+Cacnea;			331;	;				Grass;	;		Sand Veil;	;			Water Absorb;	190;		Grass;		Human-Like;	50;85;40;85;40;35
+Cacturne;		332;	;				Grass;	Dark;	Sand Veil;	;			Water Absorb;	60;			Grass;		Human-Like;	70;115;60;115;60;55
+Swablu;			333;	;				Normal;	Flying;	Natural Cure;;			Cloud Nine;		255;		Flying;		Dragon;		45;40;60;40;75;50
+Altaria;		334;	;				Dragon;	Flying;	Natural Cure;;			Cloud Nine;		45;			Flying;		Dragon;		75;70;90;70;105;80
+Zangoose;		335;	;				Normal;	;		Immunity;	;			Toxic Boost;	90;			Field;		;			73;115;60;60;60;90
+Seviper;		336;	;				Posion;	;		Shed Skin;	;			Infiltrator;	90;			Field;		Dragon;		73;100;60;100;60;65
+Lunatone;		337;	;				Rock;	Psychic;Levitate;	;			;				45;			Mineral;	;			90;55;65;95;85;70
+Solrock;		338;	;				Rock;	Psychic;Levitate;	;			;				45;			Mineral;	;			90;95;85;55;65;70
+Barboach;		339;	;				Water;	Ground;	Oblivious;	Anticipation;Hydration;		190;		Water 2;	;			50;48;43;46;41;60
+Whiscash;		340;	;				Water;	Ground;	Oblivious;	Anticipation;Hydration;		75;			Water 2;	;			110;78;73;76;71;60
+Corphish;		341;	;				Water;	;		Hyper Cutter;Shell Armor;Adaptability;	205;		Water 1;	Water 3;	43;80;65;50;35;35
+Crawdaunt;		342;	;				Water;	Dark;	Hyper Cutter;Shell Armor;Adaptability;	155;		Water 1;	Water 3;	63;120;85;90;55;55
+Baltoy;			343;	;				Ground;	Psychic;Levitate;	;			;				255;		Mineral;	;			40;40;55;40;70;55
+Claydol;		344;	;				Ground;	Psychic;Levitate;	;			;				90;			Mineral;	;			60;70;105;70;120;75
+Lileep;			345;	;				Rock;	Grass;	Suction Cups;;			Storm Drain;	45;			Water 3;	;			66;41;77;61;87;23
+Cradily;		346;	;				Rock;	Grass;	Suction Cups;;			Storm Drain;	45;			Water 3;	;			86;81;97;81;107;43
+Anorith;		347;	;				Rock;	Bug;	Battle Armor;;			Swift Swim;		45;			Water 3;	;			45;95;50;40;50;75
+Armaldo;		348;	;				Rock;	Bug;	Battle Armor;;			Swift Swim;		45;			Water 3;	;			75;125;100;70;80;45
+Feebas;			349;	;				Water;	;		Swift Swim;	Oblivious;	Adaptability;	255;		Water 1;	Dragon;		20;15;20;10;55;80
+Milotic;		350;	;				Water;	;		Marvel Scale;Competitive;Cute Charm;	60;			Water 1;	Dragon;		95;60;79;100;125;81
+Castform;		351;	;				Normal;	;		Forecast;	;			;				45;			Fairy;		Amorphous;	70;70;70;70;70;70
+Kecleon;		352;	;				Normal;	;		Color Change;;			Protean;		200;		Field;		;			60;90;70;60;120;40
+Shuppet;		353;	;				Ghost;	;		Insomnia;	Frisk;		Cursed Body;	225;		Amorphous;	;			44;75;35;63;33;45
+Banette;		354;	;				Ghost;	;		Insomnia;	Frisk;		Cursed Body;	45;			Amorphous;	;			64;115;65;83;63;65
+Duskull;		355;	;				Ghost;	;		Levitate;	;			Frisk;			190;		Amorphous;	;			20;40;90;30;90;25
+Dusclops;		356;	;				Ghost;	;		Pressure;	;			Frisk;			90;			Amorphous;	;			40;70;130;60;130;25
+Tropius;		357;	;				Grass;	Flying;	Chlorophyll;Solar Power;Harvest;		200;		Mosnter;	Grass;		99;68;83;72;87;51
+Chimecho;		358;	;				Psychic;;		Levitate;	;			;				45;			Amorphous;	;			75;50;80;95;90;65
+Absol;			359;	;				Dark;	;		Pressure;	Super Luck;	Justified;		30;			Field;		;			65;130;60;75;60;75
+Wynaut;			360;	;				Psychic;;		Shadow Tag;	;			Telepathy;		125;		Undiscovered;;			95;23;48;23;48;23
+Snorunt;		361;	;				Ice;	;		Inner Focus;Ice Body;	Moody;			190;		Fairy;		Mineral;	50;50;50;50;50;50
+Glalie;			362;	;				Ice;	;		Inner Focus;Ice Body;	Moody;			75;			Fairy;		Mineral;	80;80;80;80;80;80
+Spheal;			363;	;				Ice;	Water;	Thick Fat;	Ice Body;	Oblivious;		255;		Water 1;	Field;		70;40;50;55;50;25
+Sealeo;			364;	;				Ice;	Water;	Thick Fat;	Ice Body;	Oblivious;		120;		Water 1;	Field;		90;60;70;75;70;45
+Walrein;		365;	;				Ice;	Water;	Thick Fat;	Ice Body;	Oblivious;		45;			Water 1;	Field;		110;80;90;95;90;65
+Clamperl;		366;	;				Water;	;		Shell Armor;;			Rattled;		255;		Water 1;	;			35;64;85;74;55;32
+Huntail;		367;	;				Water;	;		Swift Swim;	;			Water Veil;		60;			Water 1;	;			55;104;105;94;75;52
+Gorebyss;		368;	;				Water;	;		Swift Swim;	;			Hydration;		60;			Water 1;	;			55;84;105;114;75;52
+Relicanth;		369;	;				Water;	Rock;	Swift Swim;	Rock Head;	Sturdy;			25;			Water 1;	Water 2;	100;90;130;45;65;55
+Luvdisc;		370;	;				Water;	;		Swift Swim;	;			Hydration;		225;		Water 2;	;			43;30;55;40;65;97
+Bagon;			371;	;				Dragon;	;		Rock Head;	;			Sheer Force;	45;			Dragon;		;			45;75;60;40;30;50
+Shelgon;		372;	;				Dragon;	;		Rock Head;	;			Overcoat;		45;			Dragon;		;			65;95;100;60;50;50
+Salamence;		373;	;				Dragon;	Flying;	Intimidate;	;			Moxie;			45;			Dragon;		;			95;135;80;110;80;100
+Beldum;			374;	;				Steel;	Psychic;Clear Body;	;			Light Metal;	3;			Mineral;	;			40;55;80;35;60;30
+Metang;			375;	;				Steel;	Psychic;Clear Body;	;			Light Metal;	3;			Mineral;	;			60;75;100;55;80;50
+Metagross;		376;	;				Steel;	Psychic;Clear Body;	;			Light Metal;	3;			Mineral;	;			80;135;130;95;90;70
+Regirock;		377;	;				Rock;	;		Clear Body;	;			Sturdy;			3;			Undiscovered;;			80;100;200;50;100;50
+Regice;			378;	;				Ice;	;		Clear Body;	;			Ice Body;		3;			Undiscovered;;			80;50;100;100;200;50
+Registeel;		379;	;				Steel;	;		Clear Body;	;			Light Metal;	3;			Undiscovered;;			80;75;150;75;150;50
+Latias;			380;	;				Dragon;	Psychic;Levitate;	;			;				3;			Undiscovered;;			80;80;90;110;130;110
+Latios;			381;	;				Dragon;	Psychic;Levitate;	;			;				3;			Undiscovered;;			80;90;80;130;110;110
+Kyogre;			382;	;				Water;	;		Drizzle;	;			;				3;			Undiscovered;;			100;100;90;150;140;90
+Groudon;		383;	;				Ground;	;		Drought;	;			;				3;			Undiscovered;;			100;150;140;100;90;90
+Rayquaza;		384;	;				Dragon;	Flying;	Air Lock;	;			;				45;			Undiscovered;;			105;150;90;150;90;95
+Jirachi;		385;	;				Steel;	Psychic;Serene Grace;;			;				3;			Undiscovered;;			100;100;100;100;100;100
+Deoxys;			386;	;				Psychic;;		Pressure;	;			;				3;			Undiscovered;;			50;150;50;150;50;150
+Turtwig;		387;	;				Grass;	;		Overgrow;	;			Shell Armor;	45;			Monster;	Grass;		55;68;64;45;55;31
+Grotle;			388;	;				Grass;	;		Overgrow;	;			Shell Armor;	45;			Monster;	Grass;		75;89;85;55;65;36
+Torterra;		389;	;				Grass;	Ground;	Overgrow;	;			Shell Armor;	45;			Monster;	Grass;		95;109;105;75;85;56
+Chimchar;		390;	;				Fire;	;		Blaze;		;			Iron Fist;		45;			Field;		Human-Like;	44;58;44;58;44;61
+Monferno;		391;	;				Fire;	Fighting;Blaze;		;			Iron Fist;		45;			Field;		Human-Like;	64;78;52;78;52;81
+Infernape;		392;	;				Fire;	Fighting;Blaze;		;			Iron Fist;		45;			Field;		Human-Like;	76;104;71;104;71;108
+Piplup;			393;	;				Water;	;		Torrent;	;			Defiant;		45;			Water 1;	Field;		53;51;53;61;56;40
+Prinplup;		394;	;				Water;	;		Torrent;	;			Defiant;		45;			Water 1;	Field;		64;66;68;81;76;50
+Empoleon;		395;	;				Water;	Steel;	Torrent;	;			Defiant;		45;			Water 1;	Field;		84;86;88;111;101;60
+Starly;			396;	;				Normal;	Flying;	Keen Eye;	;			Reckless;		255;		Flying;		;			40;55;30;30;30;60
+Staravia;		397;	;				Normal;	Flying;	Intimidate;	;			Reckless;		120;		Flying;		;			55;75;50;40;40;80
+Staraptor;		398;	;				Normal;	Flying;	Intimidate;	;			Reckless;		45;			Flying;		;			85;120;70;50;60;100
+Bidoof;			399;	;				Normal;	;		Simple;		Unaware;	Moody;			255;		Water 1;	Field;		59;45;40;35;40;31
+Bibarel;		400;	;				Normal;	Water;	Simple;		Unaware;	Moody;			127;		Water 1;	Field;		79;85;60;55;60;71
+Kricketot;		401;	;				Bug;	;		Shed Skin;	;			Run Away;		255;		Bug;		;			37;25;41;25;41;25
+Kricketune;		402;	;				Bug;	;		Swarm;		;			Technician;		45;			Bug;		;			77;85;51;55;51;65
+Shinx;			403;	;				Electric;;		Rivalry;	Intimidate;	Guts;			235;		Field;		;			45;65;34;40;34;45
+Luxio;			404;	;				Electric;;		Rivalry;	Intimidate;	Guts;			120;		Field;		;			60;85;49;60;49;60
+Luxray;			405;	;				Electric;;		Rivalry;	Intimidate;	Guts;			45;			Field;		;			80;120;79;95;79;70
+Budew;			406;	;				Grass;	Poison;	Natural Cure;Poison Point;Leaf Guard;	255;		Undiscovered;;			40;30;35;50;70;55
+Roserade;		407;	;				Grass;	Poison;	Natural Cure;Poison Point;Technician;	75;			Fairy;		Grass;		60;70;65;125;105;90
+Cranidos;		408;	;				Rock;	;		Mold Breaker;;			Sheer Force;	45;			Monster;	;			67;125;40;30;30;58
+Rampardos;		409;	;				Rock;	;		Mold Breaker;;			Sheer Force;	45;			Monster;	;			97;165;60;65;50;58
+Shieldon;		410;	;				Rock;	Steel;	Sturdy;		;			Soundproof;		45;			Monster;	;			30;42;118;42;88;30
+Bastiodon;		411;	;				Rock;	Steel;	Sturdy;		;			Soundproof;		45;			Monster;	;			60;52;168;47;138;30
+Burmy;			412;	;				Bug;	;		Shed Skin;	;			Overcoat;		120;		Bug;		;			40;29;45;29;45;36
+Wormadam;		413;	;				Bug;	Ground;	Anticipation;;			Overcoat;		45;			Bug;		;			60;59;85;79;105;36
+Mothim;			414;	;				Bug;	Flying;	Swarm;		;			Tinted Lens;	45;			Bug;		;			70;94;50;94;50;66
+Combee;			415;	;				Bug;	Flying;	Honey Gather;;			Hustle;			120;		Bug;		;			30;30;42;30;42;70
+Vespiquen;		416;	;				Bug;	Flying;	Pressure;	;			Unnerve;		45;			Bug;		;			70;80;102;80;102;40
+Pachirisu;		417;	;				Electric;;		Run Away;	Pickup;		Volt Absorb;	200;		Field;		Fairy;		60;45;70;45;90;95
+Buizel;			418;	;				Water;	;		Swift Swim;	;			Water Veil;		190;		Water 1;	Field;		55;65;35;60;30;85
+Floatzel;		419;	;				Water;	;		Swift Swim;	;			Water Veil;		75;			Water 1;	Field;		85;105;55;85;50;115
+Cherubi;		420;	;				Grass;;			Chlorophyll;;			;				190;		Fairy;		Grass;		45;35;45;62;53;35
+Cherrim;		421;	;				Grass;;			Flower Gift;;			;				75;			Fairy;		Grass;		70;60;70;87;78;85
+Shellos;		422;	;				Water;	;		Sticky Hold;Storm Drain;Sand Force;		190;		Water 1;	Amorphous;	76;48;48;57;62;34
+Gastrodon;		423;	;				Water;	Ground;	Sticky Hold;Storm Drain;Sand Force;		75;			Water 1;	Amorphous;	111;83;68;92;82;39
+Ambipom;		424;	;				Normal;	;		Technician;	Pickup;		Skill Link;		45;			Field;		;			75;100;66;60;66;115
+Drifloon;		425;	;				Ghost;	Flying;	Aftermatth;	Unburden;	Flare Boost;	125;		Amorphous;	;			90;50;34;60;44;70
+Drifblim;		426;	;				Ghost;	Flying;	Aftermatth;	Unburden;	Flare Boost;	60;			Amorphous;	;			150;80;44;90;54;80
+Buneary;		427;	;				Normal;	;		Run Away;	Klutz;		Limber;			190;		Field;		Human-Like;	55;66;44;44;56;85
+Lopunny;		428;	;				Normal;	;		Cute Charm;	Klutz;		Limber;			60;			Field;		Human-Like;	65;76;84;54;96;105
+Mismagius;		429;	;				Ghost;	;		Levitate;	;			;				45;			Amorphous;	;			60;60;60;105;105;105
+Honchkrow;		430;	;				Dark;	Flying;	Insomnia;	Super Luck;	Moxie;			30;			Flying;		;			100;125;52;105;52;71
+Glameow;		431;	;				Normal;	;		Limber;		Own Tempo;	Keen Eye;		190;		Field;		;			49;55;42;42;37;85
+Purugly;		432;	;				Normal;	;		Thick Fat;	Own Tempo;	Defiant;		75;			Field;		;			71;82;64;64;59;112
+Chingling;		433;	;				Psychic;;		Levitate;	;			;				120;		Undiscovered;;			45;30;50;65;50;45
+Stunky;			434;	;				Poison;	Dark;	Stench;		Aftermath;	Keen Eye;		225;		Field;		;			63;63;47;41;41;74
+Skuntank;		435;	;				Poison;	Dark;	Stench;		Aftermath;	Keen Eye;		60;			Field;		;			103;93;67;71;61;84
+Bronzor;		436;	;				Steel;	Psychic;Levitate;	Heatproof;	Heavy Metal;	255;		Mineral;	;			57;24;86;24;86;23
+Bronzong;		437;	;				Steel;	Psychic;Levitate;	Heatproof;	Heavy Metal;	90;			Mineral;	;			67;89;116;79;116;33
+Bonsly;			438;	;				Rock;	;		Sturdy;		Rock Head;	Rattled;		255;		Undiscovered;;			50;80;95;10;45;10
+Mime Jr.;		439;	;				Psychic;Fairy;	Soundproof;	Filter;		Technician;		145;		Undiscovered;;			20;25;45;70;90;60
+Happiny;		440;	;				Normal;	;		Natural Cure;Serene Grace;Friend Guard;	130;		Undiscovered;;			100;5;5;15;65;30
+Chatot;			441;	;				Normal;	Flying;	Keen Eye;	Tangled Feet;Big Pecks;		30;			Flying;		;			76;65;45;92;42;91
+Spiritomb;		442;	;				Ghost;	Dark;	Pressure;	;			Infiltrator;	100;		Amorphous;	;			50;92;108;92;108;35
+Gible;			443;	;				Dragon;	Ground;	Sand Veil;	;			Rough Skin;		45;			Monster;	Dragon;		58;70;45;40;45;42
+Gabite;			444;	;				Dragon;	Ground;	Sand Veil;	;			Rough Skin;		45;			Monster;	Dragon;		68;90;65;50;55;82
+Garchomp;		445;	;				Dragon;	Ground;	Sand Veil;	;			Rough Skin;		45;			Monster;	Dragon;		108;130;95;80;85;102
+Munchlax;		446;	;				Normal;	;		Pickup;		Thick Fat;	Gluttony;		50;			Undiscovered;;			135;85;40;40;85;5
+Riolu;			447;	;				Fighting;;		Steadfast;	Inner Focus;Prankster;		75;			Undiscovered;;			40;70;40;35;40;60
+Lucario;		448;	;				Fighting;Steel;	Steadfast;	Inner Focus;Justified;		45;			Field;		Human-Like;	70;110;70;115;70;90
+Hippopotas;		449;	;				Ground;	;		Sand Stream;;			Sand Force;		140;		Field;		;			68;72;78;38;42;32
+Hippowdon;		450;	;				Ground;	;		Sand Stream;;			Sand Force;		60;			Field;		;			108;112;118;68;72;47
+Skorupi;		451;	;				Poison;	Bug;	Battle Armor;Sniper;	Keen Eye;		120;		Bug;		Water 3;	40;50;90;30;55;65
+Drapion;		452;	;				Poison;	Dark;	Battle Armor;Sniper;	Keen Eye;		45;			Bug;		Water 3;	70;90;110;60;75;95
+Croagunk;		453;	;				Poison;	Fighting;Anticipation;Dry Skin;	Poison Touch;	140;		Human-Like;	;			48;61;40;61;40;50
+Toxicroak;		454;	;				Poison;	Fighting;Anticipation;Dry Skin;	Poison Touch;	75;			Human-Like;	;			83;106;65;86;65;85
+Carnivine;		455;	;				Grass;	;		Levitate;	;			;				200;		Grass;		;			74;100;72;90;72;46
+Finneon;		456;	;				Water;	;		Swift Swim;	Storm Drain;Water Veil;		190;		Water 2;	;			49;49;56;49;61;66
+Lumineon;		457;	;				Water;	;		Swift Swim;	Storm Drain;Water Veil;		75;			Water 2;	;			69;69;76;69;86;91
+Mantyke;		458;	;				Water;	Flying;	Swift Swim;	Water Absorb;Water Veil;	25;			Undiscovered;;			45;20;50;60;120;50
+Snover;			459;	;				Grass;	Ice;	Snow Warning;;			Soundproof;		120;		Monster;	Grass;		60;62;50;62;60;40
+Abomasnow;		460;	;				Grass;	Ice;	Snow Warning;;			Soundproof;		60;			Monster;	Grass;		90;92;75;92;85;60
+Weavile;		461;	;				Dark;	Ice;	Pressure;	;			Pickpocket;		45;			Field;		;			70;120;65;45;85;125
+Magnezone;		462;	;				Electric;Steel;	Magnet Pull;Sturdy;		Analytic;		30;			Mineral;	;			70;70;115;130;90;60
+Lickilicky;		463;	;				Normal;	;		Own Tempo;	Oblivious;	Cloud Nine;		30;			Monster;	;			110;85;95;80;95;50
+Rhyperior;		464;	;				Ground;	Rock;	Lightning Rod;Solid Rock;Reckless;		30;			Monster;	Field;		115;140;130;55;55;40
+Tangrowth;		465;	;				Grass;	;		Chlorophyll;Leaf Guard;	Regenerator;	30;			Grass;		;			100;100;125;110;50;50
+Electivire;		466;	;				Electric;;		Motor Drive;;			Vital Spirit;	30;			Human-Like;	;			75;123;67;95;85;95
+Magmortar;		467;	;				Fire;	;		Flame Body;	;			Vital Spirit;	30;			Human-Like;	;			75;95;67;125;95;83
+Togekiss;		468;	;				Fairy;	Flying;	Hustle;		Serene Grace;Super Luck;	30;			Flying;		Fairy;		85;50;95;120;115;80
+Yanmega;		469;	;				Bug;	Flying;	Speed Boost;Tinted Lens;Frisk;			30;			Bug;		;			86;76;86;116;56;95
+Leafeon;		470;	;				Grass;	;		Leaf Guard;	;			Chlorophyll;	45;			Field;		;			65;110;130;60;65;95
+Glaceon;		471;	;				Ice;	;		Snow Cloak;	;			Ice Body;		45;			Field;		;			65;60;110;130;95;65
+Gliscor;		472;	;				Ground;	Flying;	Hyper Cutter;Sand Veil;	Poison Heal;	30;			Bug;		;			75;95;125;45;75;95
+Mamoswine;		473;	;				Ice;	Ground;	Oblivious;	Snow Cloak;	Thick Fat;		50;			Field;		;			110;130;80;70;60;80
+Porygon-Z;		474;	;				Normal;	;		Adaptability;Download;	Analytic;		30;			Mineral;	;			85;80;70;135;75;90
+Gallade;		475;	;				Psychic;Fighting;Steadfast;	;			Justified;		45;			Amorphous;	;			68;125;65;65;115;80
+Probopass;		476;	;				Rock;	Steel;	Sturdy;		Magnet Pull;Sand Force;		60;			Mineral;	;			60;55;145;75;150;40
+Dusknoir;		477;	;				Ghost;	;		Pressure;	;			Frisk;			45;			Amorphous;	;			45;100;135;65;135;45
+Froslass;		478;	;				Ice;	Ghost;	Snow Cloak;	;			Cursed Body;	75;			Fairy;		Mineral;	70;80;70;80;70;110
+Rotom;			479;	;				Electric;Ghost;	Levitate;	;			;				45;			Amorphous;	;			50;50;77;95;77;91
+Uxie;			480;	;				Psychic;;		Levitate;	;			;				3;			Undiscovered;;			75;75;130;75;130;95
+Mesprit;		481;	;				Psychic;;		Levitate;	;			;				3;			Undiscovered;;			80;105;105;105;105;80
+Azelf;			482;	;				Psychic;;		Levitate;	;			;				3;			Undiscovered;;			75;125;70;125;70;115
+Dialga;			483;	;				Steel;	Dragon;	Pressure;	;			Telepathy;		3;			Undiscovered;;			100;120;120;150;100;90
+Palkia;			484;	;				Water;	Dragon;	Pressure;	;			Telepathy;		3;			Undiscovered;;			90;120;100;150;120;100
+Heatran;		485;	;				Fire;	Steel;	Flash Fire;	;			Flame Body;		3;			Undiscovered;;			91;90;106;130;106;77
+Regigigas;		486;	;				Normal;	;		Slow Start;	;			;				3;			Undiscovered;;			110;160;110;80;110;100
+Giratina;		487;	;				Ground;	Dragon;	Pressure;	;			Telepathy;		3;			Undiscovered;;			150;100;120;100;120;90
+Cresselia;		488;	;				Psychic;;		Levitate;	;			;				3;			Undiscovered;;			120;70;120;75;130;85
+Phione;			489;	;				Water;	;		Hydration;	;			;				30;			Water 1;	Fairy;		80;80;80;80;80;80
+Manaphy;		490;	;				Water;	;		Hydration;	;			;				3;			Water 1;	Fairy;		100;100;100;100;100;100
+Darkrai;		491;	;				Dark;	;		Bad Dreams;	;			;				3;			Undiscovered;;			70;90;90;135;90;125
+Shaymin;		492;	;				Grass;	;		Natural Cure;;			;				45;			Undiscovered;;			100;100;100;100;100;100
+Arceus;			493;	;				Normal;	;		Multitype;	;			;				3;			Undiscovered;;			120;120;120;120;120;120
+Victini;		494;	;				Psychic;Fire;	Victory Star;;			;				3;			Undiscovered;;			100;100;100;100;100;100
+Snivy;			495;	;				Grass;	;		Overgrow;	;			Contrary;		45;			Field;		Grass;		45;45;55;45;55;63
+Servine;		496;	;				Grass;	;		Overgrow;	;			Contrary;		45;			Field;		Grass;		60;60;75;60;75;83
+Serperior;		497;	;				Grass;	;		Overgrow;	;			Contrary;		45;			Field;		Grass;		75;75;95;75;95;113
+Tepig;			498;	;				Fire;	;		Blaze;		;			Thick Fat;		45;			Field;		;			65;63;45;45;45;45
+Pignite;		499;	;				Fire;	Fighting;Blaze;		;			Thick Fat;		45;			Field;		;			90;93;55;70;55;55
+Emboar;			500;	;				Fire;	Fighting;Blaze;		;			Thick Fat;		45;			Field;		;			110;123;65;100;65;65
+Oshawott;		501;	;				Water;	;		Torrent;	;			Shell Armor;	45;			Field;		;			55;55;45;63;45;45
+Dewott;			502;	;				Water;	;		Torrent;	;			Shell Armor;	45;			Field;		;			75;75;60;83;60;60
+Samurott;		503;	;				Water;	;		Torrent;	;			Shell Armor;	45;			Field;		;			95;100;85;108;70;70
+Patrat;			504;	;				Normal;	;		Run Away;	Keen Eye;	Analytic;		255;		Field;		;			45;55;39;35;39;42
+Watchog;		505;	;				Normal;	;		Illuminate;	Keen Eye;	Analytic;		255;		Field;		;			60;85;69;60;69;77
+Lillipup;		506;	;				Normal;	;		Vital Spirit;Keen Eye;	Run Away;		255;		Field;		;			45;60;45;25;45;55
+Herdier;		507;	;				Normal;	;		Intimidate;	Sand Rush;	Scrappy;		120;		Field;		;			65;80;65;35;65;60
+Stoutland;		508;	;				Normal;	;		Intimidate;	Sand Rush;	Scrappy;		45;			Field;		;			85;110;90;45;90;80
+Purrloin;		509;	;				Dark;	;		Limber;		Unburden;	Prankster;		255;		Field;		;			41;50;37;50;37;66
+Liepard;		510;	;				Dark;	;		Limber;		Unburden;	Prankster;		90;			Field;		;			64;88;50;88;50;106
+Pansage;		511;	;				Grass;	;		Gluttony;	;			Overgrow;		190;		Field;		;			50;53;48;53;48;64
+Simisage;		512;	;				Grass;	;		Gluttony;	;			Overgrow;		75;			Field;		;			75;98;63;98;63;101
+Pansear;		513;	;				Fire;	;		Gluttony;	;			Blaze;			190;		Field;		;			50;53;48;53;48;64
+Simisear;		514;	;				Fire;	;		Gluttony;	;			Blaze;			75;			Field;		;			75;98;63;98;63;101
+Panpour;		515;	;				Water;	;		Gluttony;	;			Torrent;		190;		Field;		;			50;53;48;53;48;64
+Simipour;		516;	;				Water;	;		Gluttony;	;			Torrent;		75;			Field;		;			75;98;63;98;63;101
+Munna;			517;	;				Psychic;;		Forewarn;	Synchronize;Telepathy;		190;		Field;		;			76;25;45;67;55;24
+Musharna;		518;	;				Psychic;;		Forewarn;	Synchronize;Telepathy;		75;			Field;		;			116;55;85;107;95;29
+Pidove;			519;	;				Normal;	Flying;	Big Pecks;	Super Luck;	Rivalry;		255;		Flying;		;			50;55;50;36;30;43
+Tranquill;		520;	;				Normal;	Flying;	Big Pecks;	Super Luck;	Rivalry;		120;		Flying;		;			62;77;62;50;42;65
+Unfezant;		521;	;				Normal;	Flying;	Big Pecks;	Super Luck;	Rivalry;		45;			Flying;		;			80;115;80;65;55;93
+Blitzle;		522;	;				Electric;;		Lightning Rod;Motor Drive;Sap Sipper;	190;		Field;		;			45;60;32;50;32;76
+Zebstrika;		523;	;				Electric;;		Lightning Rod;Motor Drive;Sap Sipper;	75;			Field;		;			75;100;63;80;63;116
+Roggenrola;		524;	;				Rock;	;		Sturdy;		Weak Armor;	Sand Force;		255;		Mineral;	;			55;75;85;25;25;15
+Boldore;		525;	;				Rock;	;		Sturdy;		Weak Armor;	Sand Force;		120;		Mineral;	;			70;105;105;50;40;20
+Gigalith;		526;	;				Rock;	;		Sturdy;		Sand Stream;Sand Force;		45;			Mineral;	;			85;135;130;60;80;25
+Woobat;			527;	;				Psychic;Flying;	Unaware;	Klutz;		Simple;			190;		Field;		Flying;		65;45;43;55;43;72
+Swoobat;		528;	;				Psychic;Flying;	Unaware;	Klutz;		Simple;			45;			Field;		Flying;		67;57;55;77;55;114
+Drilbur;		529;	;				Ground;	;		Sand Rush;	Sand Force;	Mold Breaker;	120;		Field;		;			60;85;40;30;45;68
+Excadrill;		530;	;				Ground;	Steel;	Sand Rush;	Sand Force;	Mold Breaker;	60;			Field;		;			110;135;60;50;65;88
+Audino;			531;	;				Normal;	;		Healer;		Regenerator;Klutz;			255;		Fairy;		;			103;60;86;60;86;50
+Timburr;		532;	;				Fighting;;		Guts;		Sheer Force;Iron Fist;		180;		Human-Like;	;			75;80;55;25;35;35
+Gurdurr;		533;	;				Fighting;;		Guts;		Sheer Force;Iron Fist;		90;			Human-Like;	;			85;105;85;40;50;40
+Conkeldurr;		534;	;				Fighting;;		Guts;		Sheer Force;Iron Fist;		45;			Human-Like;	;			105;140;95;55;65;45
+Tympole;		535;	;				Water;	;		Swift Swim;	Hydration;	Water Absorb;	255;		Water 1;	;			50;50;40;50;40;64
+Palpitoad;		536;	;				Water;	Ground;	Swift Swim;	Hydration;	Water Absorb;	120;		Water 1;	;			75;65;55;65;55;69
+Seismitoad;		537;	;				Water;	Ground;	Swift Swim;	Poison Touch;Water Absorb;	45;			Water 1;	;			105;95;75;85;75;74
+Throh;			538;	;				Fighting;;		Guts;		Inner Focus;Mold Breaker;	45;			Human-Like;	;			120;100;85;30;85;45
+Sawk;			539;	;				Fighting;;		Sturdy;		Inner Focus;Mold Breaker;	45;			Human-Like;	;			75;125;75;30;75;85
+Sewaddle;		540;	;				Bug;	Grass;	Swarm;		Chlorophyll;Overcoat;		255;		Bug;		;			45;53;70;40;60;42
+Swadloon;		541;	;				Bug;	Grass;	Leaf Guard;	Chlorophyll;Overcoat;		120;		Bug;		;			55;63;90;50;80;42
+Leavanny;		542;	;				Bug;	Grass;	Swarm;		Chlorophyll;Overcoat;		45;			Bug;		;			75;103;80;70;80;92
+Venipede;		543;	;				Bug;	Poison;	Poison Point;Swarm;		Speed Boost;	255;		Bug;		;			30;45;59;30;39;57
+Whirlipede;		544;	;				Bug;	Poison;	Poison Point;Swarm;		Speed Boost;	120;		Bug;		;			40;55;99;40;79;47
+Scolipede;		545;	;				Bug;	Poison;	Poison Point;Swarm;		Speed Boost;	45;			Bug;		;			60;100;89;55;69;112
+Cottonee;		546;	;				Grass;	Fairy;	Prankster;	Infiltrator;Chlorophyll;	190;		Grass;		Fairy;		40;27;60;37;50;66
+Whimsicott;		547;	;				Grass;	Fairy;	Prankster;	Infiltrator;Chlorophyll;	75;			Grass;		Fairy;		60;67;85;77;75;116
+Petilil;		548;	;				Grass;	;		Chlorophyll;Own Tempo;	Leaf Guard;		190;		Grass;		;			45;35;50;70;50;30
+Lilligant;		549;	;				Grass;	;		Chlorophyll;Own Tempo;	Leaf Guard;		75;			Grass;		;			70;60;75;110;75;90
+Basculin;		550;	;				Water;	;		Reckless;	Adaptability;Mold Breaker;	25;			Water 2;	;			70;92;65;80;55;98
+Sandile;		551;	;				Ground;	Dark;	Intimidate;	Moxie;		Anger Point;	180;		Field;		;			50;72;35;35;35;65
+Krokorok;		552;	;				Ground;	Dark;	Intimidate;	Moxie;		Anger Point;	90;			Field;		;			60;82;45;45;45;74
+Krookodile;		553;	;				Ground;	Dark;	Intimidate;	Moxie;		Anger Point;	45;			Field;		;			95;117;80;65;70;92
+Darumaka;		554;	;				Fire;	;		Hustle;		;			Inner Force;	120;		Field;		;			70;90;45;15;45;50
+Darmanitan;		555;	;				Fire;	;		Sheer Force;;			Zen Mode;		60;			Field;		;			105;140;55;30;55;95
+Maractus;		556;	;				Grass;	;		Water Absorb;Chlorophyll;Storm Drain;	255;		Grass;		;			75;86;67;106;67;60
+Dwebble;		557;	;				Bug;	Rock;	Sturdy;		Shell Armor;Weak Armor;		190;		Bug;		Mineral;	50;65;85;35;35;55
+Crustle;		558;	;				Bug;	Rock;	Sturdy;		Shell Armor;Weak Armor;		75;			Bug;		Mineral;	70;105;125;65;75;45
+Scraggy;		559;	;				Dark;	Fighting;Shed Skin;	Moxie;		Intimidate;		180;		Field;		Dragon;		50;75;70;35;70;48
+Scrafty;		560;	;				Dark;	Fighting;Shed Skin;	Moxie;		Intimidate;		90;			Field;		Dragon;		65;90;115;45;115;58
+Sigilyph;		561;	;				Psychic;Flying;	Wonder Skin;Magic Guard;Tinted Lens;	45;			Flying;		;			72;58;80;103;80;97
+Yamask;			562;	;				Ghost;	;		Mummy;		;			;				190;		Mineral;	Amorphous;	38;30;85;55;65;30
+Cofagrigus;		563;	;				Ghost;	;		Mummy;		;			;				90;			Mineral;	Amorphous;	58;50;145;95;105;30
+Tirtouga;		564;	;				Water;	Rock;	Solid Rock;	Sturdy;		Swift Swim;		45;			Water 1;	Water 3;	54;78;103;53;45;22
+Carracosta;		565;	;				Water;	Rock;	Solid Rock;	Sturdy;		Swift Swim;		45;			Water 1;	Water 3;	74;108;133;83;65;32
+Archen;			566;	;				Rock;	Flying;	Defeatist;	;			;				45;			Flying;		Water 3;	55;112;45;74;45;70
+Archeops;		567;	;				Rock;	Flying;	Defeatist;	;			;				45;			Flying;		Water 3;	75;140;65;112;65;110
+Trubbish;		568;	;				Poison;	;		Stench;		Sticky Hold;Aftermath;		190;		Mineral;	;			50;50;62;40;62;65
+Garbodor;		569;	;				Poison;	;		Stench;		Weak Armor;	Aftermath;		60;			Mineral;	;			80;95;82;60;82;75
+Zorua;			570;	;				Dark;	;		Illusion;	;			;				75;			Field;		;			40;65;40;80;40;65
+Zoroark;		571;	;				Dark;	;		Illusion;	;			;				45;			Field;		;			60;105;60;120;60;105
+Minccino;		572;	;				Normal;	;		Cute Charm;	Technician;	Skill Link;		255;		Field;		;			55;50;40;40;40;75
+Cinccino;		573;	;				Normal;	;		Cute Charm;	Technician;	Skill Link;		60;			Field;		;			75;95;60;65;60;115
+Gothita;		574;	;				Psychic;;		Frisk;		Competitive;Shadow Tag;		200;		Human-Like;	;			45;30;50;55;65;45
+Gothorita;		575;	;				Psychic;;		Frisk;		Competitive;Shadow Tag;		100;		Human-Like;	;			60;45;70;75;85;55
+Gothitelle;		576;	;				Psychic;;		Frisk;		Competitive;Shadow Tag;		50;			Human-Like;	;			70;55;95;95;110;65
+Solosis;		577;	;				Psychic;;		Overcoat;	Magic Guard;Regenerator;	200;		Amorphous;	;			45;30;40;105;50;20
+Duosion;		578;	;				Psychic;;		Overcoat;	Magic Guard;Regenerator;	100;		Amorphous;	;			65;40;50;125;60;30
+Reuniclus;		579;	;				Psychic;;		Overcoat;	Magic Guard;Regenerator;	50;			Amorphous;	;			110;65;75;125;85;30
+Ducklett;		580;	;				Water;	Flying;	Keen Eye;	Big Pecks;	Hydration;		190;		Water 1;	Flying;		62;44;50;44;50;55
+Swanna;			581;	;				Water;	Flying;	Keen Eye;	Big Pecks;	Hydration;		45;			Water 1;	Flying;		75;87;63;87;63;98
+Vanillite;		582;	;				Ice;	;		Ice Body;	Snow Cloak;	Weak Armor;		255;		Mineral;	;			36;50;50;65;60;44
+Vanillish;		583;	;				Ice;	;		Ice Body;	Snow Cloak;	Weak Armor;		120;		Mineral;	;			51;65;65;80;75;59
+Vanilluxe;		584;	;				Ice;	;		Ice Body;	Snow Warning;Weak Armor;	45;			Mineral;	;			71;95;85;110;95;79
+Deerling;		585;	;				Normal;	Grass;	Chlorophyll;Sap Sipper;	Serene Grace;	190;		Field;		;			60;60;50;40;50;75
+Sawsbuck;		586;	;				Normal;	Grass;	Chlorophyll;Sap Sipper;	Serene Grace;	75;			Field;		;			80;100;70;60;70;95
+Emolga;			587;	;				Electric;Flying;Static;		;			Motor Drive;	200;		Field;		;			55;75;60;75;60;103
+Karrablast;		588;	;				Bug;	;		Swarm;		Shed Skin;	No Guard;		200;		Bug;		;			50;75;45;40;45;60
+Escavalier;		589;	;				Bug;	Steel;	Swarm;		Shell Armor;Overcoat;		75;			Bug;		;			70;135;105;60;105;20
+Foongus;		590;	;				Grass;	Poison;	Effect Spore;;			Regenerator;	190;		Grass;		;			69;55;45;55;55;15
+Amoonguss;		591;	;				Grass;	Poison;	Effect Spore;;			Regenerator;	75;			Grass;		;			114;85;70;85;80;30
+Frillish;		592;	;				Water;	Ghost;	Water Absorb;Cursed Body;Damp;			190;		Amorphous;	;			55;40;50;65;85;40
+Jellicent;		593;	;				Water;	Ghost;	Water Absorb;Cursed Body;Damp;			60;			Amorphous;	;			100;60;70;85;105;60
+Alomomola;		594;	;				Water;	;		Healer;		Hydration;	Regenerator;	75;			Water 1;	Water 2;	165;75;80;40;45;65
+Joltik;			595;	;				Bug;	Electric;Compound Eyes;Unnerve;	Swarm;			190;		Bug;		;			50;47;50;57;50;65
+Galvantula;		596;	;				Bug;	Electric;Compound Eyes;Unnerve;	Swarm;			75;			Bug;		;			70;77;60;97;60;108
+Ferroseed;		597;	;				Grass;	Steel;	Iron Barbs;	;			;				255;		Grass;		Mineral;	44;50;91;24;86;10
+Ferrothorn;		598;	;				Grass;	Steel;	Iron Barbs;	;			;				90;			Grass;		Mineral;	74;94;131;54;116;20
+Klink;			599;	;				Steel;	;		Plus;		Minus;		Clear Body;		130;		Mineral;	;			40;55;70;45;60;30
+Klang;			600;	;				Steel;	;		Plus;		Minus;		Clear Body;		60;			Mineral;	;			60;80;95;70;85;50
+Klinklang;		601;	;				Steel;	;		Plus;		Minus;		Clear Body;		30;			Mineral;	;			60;100;115;70;85;90
+Tynamo;			602;	;				Electric;;		Levitate;	;			;				190;		Amorphous;	;			35;55;40;45;40;60
+Eelektrik;		603;	;				Electric;;		Levitate;	;			;				60;			Amorphous;	;			65;85;70;75;70;40
+Eelektross;		604;	;				Electric;;		Levitate;	;			;				30;			Amorphous;	;			85;115;80;105;80;50
+Elgyem;			605;	;				Psychic;;		Telepathy;	Synchronize;Analytic;		255;		Human-Like;	;			55;55;55;85;55;30
+Beheeyem;		606;	;				Psychic;;		Telepathy;	Synchronize;Analytic;		90;			Human-Like;	;			75;75;75;125;95;40
+Litwick;		607;	;				Ghost;	Fire;	Flash Fire;	Flame Body;	Infiltrator;	190;		Amorphous;	;			50;30;55;65;55;20
+Lampent;		608;	;				Ghost;	Fire;	Flash Fire;	Flame Body;	Infiltrator;	90;			Amorphous;	;			60;40;60;95;60;55
+Chandelure;		609;	;				Ghost;	Fire;	Flash Fire;	Flame Body;	Infiltrator;	45;			Amorphous;	;			60;55;90;145;90;80
+Axew;			610;	;				Dragon;	;		Rivalry;	Mold Breaker;Unnerve;		75;			Monster;	Dragon;		46;87;60;30;40;57
+Fraxure;		611;	;				Dragon;	;		Rivalry;	Mold Breaker;Unnerve;		60;			Monster;	Dragon;		66;117;70;40;50;67
+Haxorus;		612;	;				Dragon;	;		Rivalry;	Mold Breaker;Unnerve;		45;			Monster;	Dragon;		76;147;90;60;70;97
+Cubchoo;		613;	;				Ice;	;		Snow Cloak;	Slush Rush;	Rattled;		120;		Field;		;			55;70;40;60;40;40
+Beartic;		614;	;				Ice;	;		Snow Cloak;	Slush Rush;	Swift Swim;		60;			Field;		;			95;130;80;70;80;50
+Cryogonal;		615;	;				Ice;	;		Levitate;	;			;				25;			Mineral;	;			80;50;50;95;135;105
+Shelmet;		616;	;				Bug;	;		Hydration;	Shell Armor;Overcoat;		200;		Bug;		;			50;40;85;40;65;25
+Accelgor;		617;	;				Bug;	;		Hydration;	Sticky Hold;Unburden;		75;			Bug;		;			80;70;40;100;60;145
+Stunfisk;		618;	;				Ground;	Electric;Static;	Limber;		Sand Veil;		75;			Water 1;	Amorphous;	109;66;84;81;99;32
+Mienfoo;		619;	;				Fighting;;		Inner Focus;Regenerator;Reckless;		180;		Field;		Human-Like;	45;85;50;55;50;65
+Mienshao;		620;	;				Fighting;;		Inner Focus;Regenerator;Reckless;		45;			Field;		Human-Like;	65;125;60;95;60;105
+Druddigon;		621;	;				Dragon;	;		Rough Skin;	Sheer Force;Mold Breaker;	45;			Dragon;		Monster;	77;120;90;60;90;48
+Golett;			622;	;				Ground;	Ghost;	Iron Fist;	Klutz;		No Guard;		190;		Mineral;	;			59;74;50;35;50;35
+Golurk;			623;	;				Ground;	Ghost;	Iron Fist;	Klutz;		No Guard;		90;			Mineral;	;			89;124;80;55;80;55
+Pawniard;		624;	;				Dark;	Steel;	Defiant;	Inner Focus;Pressure;		120;		Human-Like;	;			45;85;70;40;40;60
+Bisharp;		625;	;				Dark;	Steel;	Defiant;	Inner Focus;Pressure;		45;			Human-Like;	;			65;125;100;60;70;70
+Bouffalant;		626;	;				Normal;	;		Reckless;	Sap Sipper;	Soundproof;		45;			Field;		;			95;110;95;40;95;55
+Rufflet;		627;	;				Normal;	Flying;	Keen Eye;	Sheer Force;Hustle;			190;		Flying;		;			70;83;50;37;50;60
+Braviary;		628;	;				Normal;	Flying;	Keen Eye;	Sheer Force;Defiant;		60;			Flying;		;			100;123;75;57;75;80
+Vullaby;		629;	;				Dark;	Flying;	Big Pecks;	Overcoat;	Weak Armor;		190;		Flying;		;			70;55;75;45;65;60
+Mandibuzz;		630;	;				Dark;	Flying;	Big Pecks;	Overcoat;	Weak Armor;		60;			Flying;		;			110;65;105;55;95;80
+Heatmor;		631;	;				Fire;	;		Gluttony;	Flash Fire;	White Smoke;	90;			Field;		;			85;97;66;105;66;65
+Durant;			632;	;				Bug;	Steel;	Swarm;		Hustle;		Truant;			90;			Bug;		;			58;109;112;48;48;109
+Deino;			633;	;				Dark;	Dragon;	Hustle;		;			;				45;			Dragon;		;			52;65;50;45;50;38
+Zweilous;		634;	;				Dark;	Dragon;	Hustle;		;			;				45;			Dragon;		;			72;85;70;65;70;58
+Hydreigon;		635;	;				Dark;	Dragon;	Levitate;	;			;				45;			Dragon;		;			92;105;90;125;90;98
+Larvesta;		636;	;				Bug;	Fire;	Flame Body;	;			Swarm;			45;			Bug;		;			55;85;55;50;55;60
+Volcarona;		637;	;				Bug;	Fire;	Flame Body;	;			Swarm;			15;			Bug;		;			85;60;65;135;105;100
+Cobalion;		638;	;				Steel;	Fighting;Justified;	;			;				3;			Undiscovered;;			91;90;129;90;72;108
+Terrakion;		639;	;				Rock;	Fighting;Justified;	;			;				3;			Undiscovered;;			91;129;90;72;90;108
+Virizion;		640;	;				Grass;	Fighting;Justified;	;			;				3;			Undiscovered;;			91;90;72;90;129;108
+Tornadus;		641;	;				Flying;	;		Prankster;	;			Defiant;		3;			Undiscovered;;			79;115;70;125;80;111
+Thundurus;		642;	;				Electric;Flying;Prankster;	;			Defiant;		3;			Undiscovered;;			79;115;70;125;80;111
+Reshiram;		643;	;				Dragon;	Fire;	Turboblaze;	;			;				3;			Undiscovered;;			100;120;100;150;120;90
+Zekrom;			644;	;				Dragon;	Electric;Teravolt;	;			;				3;			Undiscovered;;			100;150;120;120;100;90
+Landorus;		645;	;				Ground;	Flying;	Sand Force;	;			Sheer Force;	3;			Undiscovered;;			89;125;90;115;80;101
+Kyurem;			646;	;				Dragon;	Ice;	Pressure;	;			;				3;			Undiscovered;;			125;130;90;130;90;95
+Keldeo;			647;	;				Water;	Fighting;Justified;	;			;				3;			Undiscovered;;			91;72;90;129;90;108
+Meloetta;		648;	;				Normal;	Psychic;Serene Grace;;			;				3;			Undiscovered;;			100;77;77;128;128;90
+Genesect;		649;	;				Bug;	Steel;	Download;	;			;				3;			Undiscovered;;			71;120;95;120;95;99
+Chespin;		650;	;				Grass;	;		Overgrow;	;			Bulletproof;	45;			Field;		;			56;61;65;48;45;38
+Quilladin;		651;	;				Grass;	;		Overgrow;	;			Bulletproof;	45;			Field;		;			61;78;95;56;58;57
+Chesnaught;		652;	;				Grass;	Fighting;Overgrow;	;			Bulletproof;	45;			Field;		;			88;107;122;74;75;64
+Fennekin;		653;	;				Fire;	;		Blaze;		;			Magician;		45;			Field;		;			40;45;40;62;60;60
+Braixen;		654;	;				Fire;	;		Blaze;		;			Magician;		45;			Field;		;			59;59;58;90;70;73
+Delphox;		655;	;				Fire;	Psychic;Blaze;		;			Magician;		45;			Field;		;			75;69;72;114;100;104
+Froakie;		656;	;				Water;	;		Torrent;	;			Protean;		45;			Water 1;	;			41;56;40;62;44;71
+Frogadier;		657;	;				Water;	;		Torrent;	;			Protean;		45;			Water 1;	;			54;63;52;83;56;97
+Greninja;		658;	;				Water;	Dark;	Torrent;	;			Protean;		45;			Water 1;	;			72;95;67;103;71;122
+Bunnelby;		659;	;				Normal;	;		Pickup;		Cheek Pouch;Huge Power;		255;		Field;		;			38;36;38;32;36;57
+Diggersby;		660;	;				Normal;	Ground;	Pickup;		Cheek Pouch;Huge Power;		127;		Field;		;			85;56;77;50;77;78
+Fletchling;		661;	;				Normal;	Flying;	Big Pecks;	;			Gale Wings;		255;		Flying;		;			45;50;43;40;38;62
+Fletchinder;	662;	;				Fire;	Flying;	Flame Body;	;			Gale Wings;		120;		Flying;		;			62;73;55;56;52;84
+Talonflame;		663;	;				Fire;	Flying;	Flame Body;	;			Gale Wings;		45;			Flying;		;			78;81;71;74;69;126
+Scatterbug;		664;	;				Bug;	;		Shield Dust;Compound Eyes;Friend Guard;	255;		Bug;		;			38;35;40;27;25;35
+Spewpa;			665;	;				Bug;	;		Shed Skin;	;			Friend Guard;	120;		Bug;		;			45;22;60;27;30;29
+Vivillon;		666;	;				Bug;	Flying;	Shield Dust;Compound Eyes;Friend Guard;	45;			Bug;		;			80;52;50;90;50;89
+Litleo;			667;	;				Fire;	Normal;	Rovalry;	Unnerve;	Moxie;			220;		Field;		;			62;50;58;73;54;72
+Pyroar;			668;	;				Fire;	Normal;	Rovalry;	Unnerve;	Moxie;			65;			Field;		;			86;68;72;109;66;106
+Flabébé;		669;	;				Fairy;	;		Flower Veil;;			Symbiosis;		225;		Fairy;		;			44;38;39;61;79;42
+Floette;		670;	;				Fairy;	;		Flower Veil;;			Symbiosis;		120;		Fairy;		;			54;45;47;75;98;52
+Florges;		671;	;				Fairy;	;		Flower Veil;;			Symbiosis;		45;			Fairy;		;			78;65;68;112;154;75
+Skiddo;			672;	;				Grass;	;		Sap Sipper;	;			Grass Pelt;		200;		Field;		;			66;65;48;62;57;52
+Gogoat;			673;	;				Grass;	;		Sap Sipper;	;			Grass Pelt;		45;			Field;		;			123;100;62;97;81;68
+Pancham;		674;	;				Fighting;;		Iron Fist;	Mold Breaker;Scrappy;		220;		Field;		Human-Like;	67;82;62;46;48;43
+Pangoro;		675;	;				Fighting;Dark;	Iron Fist;	Mold Breaker;Scrappy;		65;			Field;		Human-Like;	95;124;78;69;71;58
+Furfrou;		676;	;				Normal;	;		Fur Coat;	;			;				160;		Field;		;			75;80;60;65;90;102
+Espurr;			677;	;				Psychic;;		Keen Eye;	Infiltrator;Own Tempo;		190;		Field;		;			62;48;54;63;60;68
+Meowstic;		678;	;				Psychic;;		Keen Eye;	Infiltrator;Prankster;		75;			Field;		;			74;48;76;83;81;104
+Honedge;		679;	;				Steel;	Ghost;	No Guard;	;			;				180;		Mineral;	;			45;80;100;35;37;28
+Doublade;		680;	;				Steel;	Ghost;	No Guard;	;			;				90;			Mineral;	;			59;110;150;45;49;35
+Aegislash;		681;	;				Steel;	Ghost;	Stance Change;;			;				45;			Mineral;	;			60;50;150;50;150;60
+Spritzee;		682;	;				Fairy;	;		Healer;		;			Aroma Veil;		200;		Fairy;		;			78;52;60;63;65;23
+Aromatisse;		683;	;				Fairy;	;		Healer;		;			Aroma Veil;		140;		Fairy;		;			101;72;72;99;89;29
+Swirlix;		684;	;				Fairy;	;		Sweet Veil;	;			Unburden;		200;		Fairy;		;			62;48;66;59;57;49
+Slurpuff;		685;	;				Fairy;	;		Sweet Veil;	;			Unburden;		140;		Fairy;		;			82;80;86;85;75;72
+Inkay;			686;	;				Dark;	Psychic;Contrary;	Suction Cups;Infiltrator;	190;		Water 1;	Water 2;	53;54;53;37;46;45
+Malamar;		687;	;				Dark;	Psychic;Contrary;	Suction Cups;Infiltrator;	80;			Water 1;	Water 2;	86;92;88;68;75;73
+Binacle;		688;	;				Rock;	Water;	Sniper;		Tough Claws;Pickpocket;		120;		Water 3;	;			42;52;67;39;56;50
+Barbaracle;		689;	;				Rock;	Water;	Sniper;		Tough Claws;Pickpocket;		45;			Water 3;	;			72;105;115;54;86;68
+Skrelp;			690;	;				Poison;	Water;	Poison Point;Poison Touch;Adaptability;	225;		Water 1;	Dragon;		50;60;60;60;60;30
+Dragalge;		691;	;				Poison;	Dragon;	Poison Point;Poison Touch;Adaptability;	55;			Water 1;	Dragon;		65;75;90;97;123;44
+Clauncher;		692;	;				Water;	;		Mega Launcher;;			;				225;		Water 1;	Water 3;	50;53;62;58;63;44
+Clawitzer;		693;	;				Water;	;		Mega Launcher;;			;				55;			Water 1;	Water 3;	71;73;88;120;89;59
+Helioptile;		694;	;				Electric;Normal;Dry Skin;	Sand Veil;	Solar Power;	190;		Monster;	Dragon;		44;38;33;61;43;70
+Heliolisk;		695;	;				Electric;Normal;Dry Skin;	Sand Veil;	Solar Power;	75;			Monster;	Dragon;		62;55;52;109;94;109
+Tyrunt;			696;	;				Rock;	Dragon;	Strong Jaw;	;			Sturdy;			45;			Monster;	Dragon;		58;89;77;45;45;48
+Tyrantrum;		697;	;				Rock;	Dragon;	Strong Jaw;	;			Rock Head;		45;			Monster;	Dragon;		82;121;119;69;59;71
+Amaura;			698;	;				Rock;	Ice;	Refrigerate;;			Snow Warning;	45;			Monster;	;			77;59;50;67;63;46
+Aurorus;		699;	;				Rock;	Ice;	Refrigerate;;			Snow Warning;	45;			Monster;	;			123;77;72;99;92;58
+Sylveon;		700;	;				Fairy;	;		Cute Charm;	;			Pixilate;		45;			Field;		;			95;65;65;110;130;60
+Hawlucha;		701;	;				Fighting;Flying;Limber;		Unburden;	Mold Breaker;	100;		Human-Like;	;			78;92;75;74;63;118
+Dedenne;		702;	;				Electric;Fairy;	Cheek Pouch;Pickup;		Plus;			180;		Field;		Fairy;		67;58;57;81;67;101
+Carbink;		703;	;				Rock;	Fairy;	Clear Body;	;			Sturdy;			60;			Fairy;		Mineral;	50;50;150;50;150;50
+Goomy;			704;	;				Dragon;	;		Sap Sipper;	Hydration;	Gooey;			45;			Dragon;		;			45;50;35;55;75;40
+Sliggoo;		705;	;				Dragon;	;		Sap Sipper;	Hydration;	Gooey;			45;			Dragon;		;			68;75;53;83;113;60
+Goodra;			706;	;				Dragon;	;		Sap Sipper;	Hydration;	Gooey;			45;			Dragon;		;			90;100;70;110;150;80
+Klefki;			707;	;				Steel;	Fairy;	Prankster;	;			Magician;		75;			Mineral;	;			57;80;91;80;87;75
+Phantump;		708;	;				Ghost;	Grass;	Natural Cure;Frisk;		Harvest;		120;		Grass;		Amorphous;	43;70;48;50;60;38
+Trevenant;		709;	;				Ghost;	Grass;	Natural Cure;Frisk;		Harvest;		60;			Grass;		Amorphous;	85;110;76;65;82;56
+Pumpkaboo;		710;	;				Ghost;	Grass;	Pickup;		Frisk;		Insomnia;		120;		Amorphous;	;			44;66;70;44;55;56
+Gourgeist;		711;	;				Ghost;	Grass;	Pickup;		Frisk;		Insomnia;		60;			Amorphous;	;			55;85;122;58;75;99
+Bergmite;		712;	;				Ice;	;		Own Tempo;	Ice Body;	Sturdy;			190;		Monster;	;			55;69;85;32;35;28
+Avalugg;		713;	;				Ice;	;		Own Tempo;	Ice Body;	Sturdy;			55;			Monster;	;			95;117;184;44;46;28
+Noibat;			714;	;				Flying;	Dragon;	Frisk;		Infiltrator;Telepathy;		190;		Flying;		;			40;30;35;45;40;55
+Noivern;		715;	;				Flying;	Dragon;	Frisk;		Infiltrator;Telepathy;		45;			Flying;		;			85;70;80;97;80;123
+Xerneas;		716;	;				Fairy;	;		Fairy Aura;	;			;				45;			Undiscovered;;			126;131;95;131;98;99
+Yveltal;		717;	;				Dark;	Flying;	Dark Aura;	;			;				45;			Undiscovered;;			126;131;95;131;98;99
+Zygarde;		718;	;				Dragon;	Ground;	Aura Break;	Power Construct;;			3;			Undiscovered;;			108;100;121;81;95;95
+Diancie;		719;	;				Rock;	Fairy;	Clear Body;	;			;				3;			Undiscovered;;			50;100;150;100;150;50
+Hoopa;			720;	;				Psychic;Ghost;	Magician;	;			;				3;			Undiscovered;;			80;110;60;150;130;70
+Volcanion;		721;	;				Fire;	Water;	Water Absorb;;			;				3;			Undiscovered;;			80;110;120;130;90;70
+Rowlet;			722;	;				Grass;	Flying;	Overgrow;	;			Long Reach;		45;			Flying;		;			68;55;55;50;50;42
+Dartrix;		723;	;				Grass;	Flying;	Overgrow;	;			Long Reach;		45;			Flying;		;			78;75;75;70;70;52
+Decidueye;		724;	;				Grass;	Ghost;	Overgrow;	;			Long Reach;		45;			Flying;		;			78;107;75;100;100;70
+Litten;			725;	;				Fire;	;		Blaze;		;			Intimidate;		45;			Field;		;			45;65;40;60;40;70
+Torracat;		726;	;				Fire;	;		Blaze;		;			Intimidate;		45;			Field;		;			65;85;50;80;50;90
+Incineroar;		727;	;				Fire;	Dark;	Blaze;		;			Intimidate;		45;			Field;		;			95;115;90;80;90;60
+Popplio;		728;	;				Water;	;		Torrent;	;			Liquid Voice;	45;			Water 1;	Field;		50;54;54;66;56;40
+Brionne;		729;	;				Water;	;		Torrent;	;			Liquid Voice;	45;			Water 1;	Field;		60;69;69;91;81;50
+Primarina;		730;	;				Water;	Fairy;	Torrent;	;			Liquid Voice;	45;			Water 1;	Field;		80;74;74;126;116;60
+Pikipek;		731;	;				Normal;	Flying;	Keen Eye;	Skill Link;	Pickup;			255;		Flying;		;			35;75;30;30;30;65
+Trumbeak;		732;	;				Normal;	Flying;	Keen Eye;	Skill Link;	Pickup;			120;		Flying;		;			55;85;50;40;50;75
+Toucannon;		733;	;				Normal;	Flying;	Keen Eye;	Skill Link;	Sheer Force;	45;			Flying;		;			80;120;75;75;75;60
+Yungoos;		734;	;				Normal;	;		Stakeout;	Strong Jaw;	Adaptability;	255;		Field;		;			48;70;30;30;30;45
+Gumshoos;		735;	;				Normal;	;		Stakeout;	Strong Jaw;	Adaptability;	127;		Field;		;			88;110;60;55;60;45
+Grubbin;		736;	;				Bug;	;		Swarm;		;			;				255;		Bug;		;			47;62;45;55;45;46
+Charjabug;		737;	;				Bug;	Electric;Battery;	;			;				120;		Bug;		;			57;82;95;55;75;36
+Vikavolt;		738;	;				Bug;	Electric;Levitate;	;			;				45;			Bug;		;			77;70;90;145;75;43
+Crabrawler;		739;	;				Fighting;;		Hyper Cutter;Iron Fist;	Anger Point;	225;		Water 3;	;			47;82;57;42;47;63
+Crabominable;	740;	;				Fighting;Ice;	Hyper Cutter;Iron Fist;	Anger Point;	60;			Water 3;	;			97;132;77;62;67;43
+Oricorio;		741;	;				Grass;	Flying;	Dancer;		;			;				45;			Flying;		;			75;70;70;98;70;93
+Cutiefly;		742;	;				Bug;	Fairy;	Honey Gather;Shield Dust;Sweet Veil;	190;		Bug;		Fairy;		40;45;40;55;40;84
+Ribombee;		743;	;				Bug;	Fairy;	Honey Gather;Shield Dust;Sweet Veil;	75;			Bug;		Fairy;		60;55;60;95;70;124
+Rockruff;		744;	;				Rock;	;		Keen Eye;	Vital Spirit;Steadfast;		190;		Field;		;			45;65;40;30;40;60
+Lycanroc;		745;	;				Rock;	;		Keen Eye;	Vital Spirit;Steadfast;		90;			Field;		;			75;115;65;55;65;112
+Wishiwashi;		746;	;				Water;	;		Schooling;	;			;				60;			Water 2;	;			45;20;20;25;25;40
+Mareanie;		747;	;				Poison;	Water;	Merciless;	Limber;		Regenerator;	190;		Water 1;	;			50;53;62;43;52;45
+Toxapex;		748;	;				Poison;	Water;	Merciless;	Limber;		Regenerator;	75;			Water 1;	;			50;63;152;53;142;35
+Mudbray;		749;	;				Ground;	;		Own Tempo;	Stamina;	Inner Focus;	190;		Field;		;			70;100;70;45;55;45
+Mudsdale;		750;	;				Ground;	;		Own Tempo;	Stamina;	Inner Focus;	60;			Field;		;			100;125;100;55;85;35
+Dewpider;		751;	;				Water;	Bug;	Water Bubble;;			Water Absorb;	200;		Water 1;	Bug;		38;40;52;40;72;27
+Araquanid;		752;	;				Water;	Bug;	Water Bubble;;			Water Absorb;	100;		Water 1;	Bug;		68;70;92;50;132;42
+Fomantis;		753;	;				Grass;	;		Leaf Guard;	;			Contrary;		190;		Grass;		;			40;55;35;50;35;35
+Lurantis;		754;	;				Grass;	;		Leaf Guard;	;			Contrary;		75;			Grass;		;			70;105;90;80;90;45
+Morelull;		755;	;				Grass;	Fairy;	Illuminate;	Effect Spore;Rain Dish;		190;		Grass;		;			40;35;55;65;75;15
+Shiinotic;		756;	;				Grass;	Fairy;	Illuminate;	Effect Spore;Rain Dish;		75;			Grass;		;			60;45;80;90;100;30
+Salandit;		757;	;				Poison;	Fire;	Corrosion;	;			Oblivious;		120;		Monster;	Dragon;		48;44;40;71;40;77
+Salazzle;		758;	;				Poison;	Fire;	Corrosion;	;			Oblivious;		45;			Monster;	Dragon;		68;64;60;111;60;117
+Stufful;		759;	;				Normal;	Fighting;Fluffy;	Klutz;		Cute Charm;		140;		Field;		;			70;75;50;45;50;50
+Bewear;			760;	;				Normal;	Fighting;Fluffy;	Klutz;		Unnerve;		70;			Field;		;			120;125;80;55;60;60
+Bounsweet;		761;	;				Grass;	;		Leaf Guard;	Oblivious;	Sweet Veil;		235;		Grass;		;			42;30;38;30;38;32
+Steenee;		762;	;				Grass;	;		Leaf Guard;	Oblivious;	Sweet Veil;		120;		Grass;		;			52;40;48;40;48;62
+Tsareena;		763;	;				Grass;	;		Leaf Guard;	Queenly Majesty;Sweet Veil;	45;			Grass;		;			72;120;98;50;98;72
+Comfey;			764;	;				Fairy;	;		Flower Veil;Triage;		Natural Cure;	60;			Grass;		;			51;52;90;82;110;100
+Oranguru;		765;	;				Normal;	Psychic;Inner Focus;Telepathy;	Symbiosis;		45;			Field;		;			90;60;80;90;110;60
+Passimian;		766;	;				Fighting;;		Receiver;	;			Defiant;		45;			Field;		;			100;120;90;40;60;80
+Wimpod;			767;	;				Bug;	Water;	Wimp Out;	;			;				90;			Bug;		Water 3;	25;35;40;20;30;80
+Golisopod;		768;	;				Bug;	Water;	Emergency Exit;;		;				45;			Bug;		Water 3;	75;125;140;60;90;40
+Sandygast;		769;	;				Ghost;	Ground;	Water Compaction;;		Sand Veil;		140;		Amorphous;	;			55;55;80;70;45;15
+Palossand;		770;	;				Ghost;	Ground;	Water Compaction;;		Sand Veil;		60;			Amorphous;	;			85;75;110;100;75;35
+Pyukumuku;		771;	;				Water;	;		Innards Out;;			Unaware;		60;			Water 1;	;			55;60;130;30;130;5
+Type: Null;		772;	;				Normal;	;		Battle Armor;;			;				3;			Undiscovered;;			95;95;95;95;95;59
+Silvally;		773;	;				Normal;	;		Rks System;	;			;				3;			Undiscovered;;			95;95;95;95;95;95
+Minior;			774;	;				Rock;	Flying;	Shields Down;;			;				30;			Mineral;	;			60;60;100;60;100;60
+Komala;			775;	;				Normal;	;		Comatose;	;			;				45;			Field;		;			65;115;65;75;95;65
+Turtonator;		776;	;				Fire;	Dragon;	Shell Armor;;			;				70;			Monster;	Dragon;		60;78;135;91;85;36
+Togedemaru;		777;	;				Electric;Steel;	Iron Barbs;	Lightning Rod;Sturdy;		180;		Field;		Fairy;		65;98;63;40;73;96
+Mimikyu;		778;	;				Ghost;	Fairy;	Disguise;	;			;				45;			Amorphous;	;			55;90;80;50;105;96
+Bruxish;		779;	;				Water;	Psychic;Dazzling;	Strong Jaw;	Wonder Skin;	80;			Water 2;	;			68;105;70;70;70;92
+Drampa;			780;	;				Normal;	Dragon;	Berserk;	Sap Sipper;	Cloud Nine;		70;			Monster;	Dragon;		78;60;85;135;91;36
+Dhelmise;		781;	;				Ghost;	Grass;	Steelworker;;			;				25;			Mineral;	;			70;131;100;86;90;40
+Jangmo-o;		782;	;				Dragon;	;		Bulletproof;Soundproof;	Overcoat;		45;			Dragon;		;			45;55;65;45;45;45
+Hakamo-o;		783;	;				Dragon;	Fighting;Bulletproof;Soundproof;Overcoat;		45;			Dragon;		;			55;75;90;65;70;65
+Kommo-o;		784;	;				Dragon;	Fighting;Bulletproof;Soundproof;Overcoat;		45;			Dragon;		;			75;110;125;100;105;85
+Tapu Koko;		785;	;				Electric;Fairy;	Electric Surge;;		Telepathy;		3;			Undiscovered;;			70;115;85;95;75;130
+Tapu Lele;		786;	;				Psychic;Fairy;	Psychic Surge;;			Telepathy;		3;			Undiscovered;;			70;85;75;130;115;95
+Tapu Bulu;		787;	;				Grass;	Fairy;	Grassy Surge;;			Telepathy;		3;			Undiscovered;;			70;130;115;85;95;75
+Tapu Fini;		788;	;				Water;	Fairy;	Misty Surge;;			Telepathy;		3;			Undiscovered;;			70;75;115;95;130;85
+Cosmog;			789;	;				Psychic;;		Unaware;	;			;				45;			Undiscovered;;			43;29;31;29;31;37
+Cosmoem;		790;	;				Psychic;;		Sturdy;		;			;				45;			Undiscovered;;			43;29;131;29;131;37
+Solgaleo;		791;	;				Psychic;Steel;	Full Metal Body;;		;				45;			Undiscovered;;			137;137;107;113;89;97
+Lunala;			792;	;				Psychic;Ghost;	Shadow Shield;;			;				45;			Undiscovered;;			137;113;89;137;107;97
+Nihilego;		793;	;				Rock;	Poison;	Beast Boost;;			;				45;			Undiscovered;;			109;53;47;127;131;103
+Buzzwole;		794;	;				Bug;	Fighting;Beast Boost;;			;				45;			Undiscovered;;			107;139;139;53;53;79
+Pheromosa;		795;	;				Bug;	Fighting;Beast Boost;;			;				45;			Undiscovered;;			71;137;37;137;37;151
+Xurkitree;		796;	;				Electric;;		Beast Boost;;			;				45;			Undiscovered;;			83;89;71;173;71;83
+Celesteela;		797;	;				Steel;	Flying;	Beast Boost;;			;				45;			Undiscovered;;			97;101;103;107;101;61
+Kartana;		798;	;				Grass;	Steel;	Beast Boost;;			;				45;			Undiscovered;;			59;181;131;59;31;109
+Guzzlord;		799;	;				Dark;	Dragon;	Beast Boost;;			;				45;			Undiscovered;;			223;101;53;97;53;43
+Necrozma;		800;	;				Psychic;;		Prism Armor;;			;				255;		Undiscovered;;			97;107;101;127;89;79
+Magearna;		801;	;				Steel;	Fairy;	Soul-Heart;	;			;				3;			Undiscovered;;			80;95;115;130;115;65
+Marshadow;		802;	;				Fighting;Ghost;	Technician;	;			;				3;			Undiscovered;;			90;125;80;90;90;125
+Poipole;		803;	;				Posion;	;		Beast Boost;;			;				45;			Undiscovered;;			67;73;67;73;67;73
+Naganadel;		804;	;				Posion;	Dragon;	Beast Boost;;			;				45;			Undiscovered;;			73;73;73;127;73;121
+Stakataka;		805;	;				Rock;	Steel;	Beast Boost;;			;				30;			Undiscovered;;			61;131;211;53;101;13
+Blacephalon;	806;	;				Fire;	Ghost;	Beast Boost;;			;				30;			Undiscovered;;			53;127;53;151;79;107
+Zeraora;		807;	;				Electric;;		Volt Absorb;;			;				3;			Undiscovered;;			88;112;75;102;80;143
+Meltan;			808;	;				Steel;	;		Magnet Pull;;			;				3;			Undiscovered;;			46;65;65;55;35;34
+Melmetal;		809;	;				Steel;	;		Iron Fist;	;			;				3;			Undiscovered;;			135;143;143;80;65;34
+Grookey;		810;	;				Grass;	;		Overgrow;	;			Grassy Surge;	45;			Field;		Grass;		50;65;50;40;40;65
+Thwackey;		811;	;				Grass;	;		Overgrow;	;			Grassy Surge;	45;			Field;		Grass;		70;85;70;55;60;80
+Rillaboom;		812;	;				Grass;	;		Overgrow;	;			Grassy Surge;	45;			Field;		Grass;		100;125;90;60;70;85
+Scorbunny;		813;	;				Fire;	;		Blaze;		;			Libero;			45;			Field;		Human-Like;	50;71;40;40;40;69
+Raboot;			814;	;				Fire;	;		Blaze;		;			Libero;			45;			Field;		Human-Like;	65;86;60;55;60;94
+Cinderace;		815;	;				Fire;	;		Blaze;		;			Libero;			45;			Field;		Human-Like;	80;116;75;65;75;119
+Sobble;			816;	;				Water;	;		Torrent;	;			Sniper;			45;			Water 1;	Field;		50;40;40;70;40;70
+Drizzile;		817;	;				Water;	;		Torrent;	;			Sniper;			45;			Water 1;	Field;		65;60;55;95;55;90
+Inteleon;		818;	;				Water;	;		Torrent;	;			Sniper;			45;			Water 1;	Field;		70;85;65;125;65;120
+Skwovet;		819;	;				Normal;	;		Cheek Pouch;;			Gluttony;		255;		Field;		;			70;55;55;35;35;25
+Greedent;		820;	;				Normal;	;		Cheek Pouch;;			Gluttony;		90;			Field;		;			120;95;95;55;75;20
+Rookidee;		821;	;				Flying;	;		Keen Eye;	Unnerve;	Big Pecks;		255;		Flying;		;			38;47;35;33;35;57
+Corvisquire;	822;	;				Flying;	;		Keen Eye;	Unnerve;	Big Pecks;		120;		Flying;		;			68;67;55;43;55;77
+Corviknight;	823;	;				Flying;	Steel;	Keen Eye;	Unnerve;	Big Pecks;		45;			Flying;		;			98;87;105;53;85;67
+Blipbug;		824;	;				Bug;	;		Swarm;		Compound Eyes;Telepathy;	255;		Bug;		;			25;20;20;25;45;45
+Dottler;		825;	;				Bug;	Psychic;Swarm;		Compound Eyes;Telepathy;	120;		Bug;		;			50;35;80;50;90;30
+Orbeetle;		826;	;				Bug;	Psychic;Swarm;		Frisk;		Telepathy;		45;			Bug;		;			60;45;110;80;120;90
+Nickit;			827;	;				Dark;	;		Run Away;	Unburden;	Stakeout;		255;		Field;		;			40;28;28;47;52;50
+Thievul;		828;	;				Dark;	;		Run Away;	Unburden;	Stakeout;		127;		Field;		;			70;58;58;87;92;90
+Gossifleur;		829;	;				Grass;	;		Cotton Down;Regenerator;Effect Spore;	190;		Grass;		;			40;40;60;40;60;10
+Eldegoss;		830;	;				Grass;	;		Cotton Down;Regenerator;Effect Spore;	75;			Grass;		;			60;50;90;80;120;60
+Wooloo;			831;	;				Normal;	;		Fluffy;		Run Away;	Bulletproof;	255;		Field;		;			42;40;55;40;45;48
+Dubwool;		832;	;				Normal;	;		Fluffy;		Steadfast;	Bulletproof;	127;		Field;		;			72;80;100;60;90;88
+Chewtle;		833;	;				Water;	;		Strong Jaw;	Shell Armor;Swift Swim;		255;		Monster;	Water 1;	50;64;50;38;38;44
+Drednaw;		834;	;				Water;	Rock;	Strong Jaw;	Shell Armor;Swift Swim;		75;			Monster;	Water 1;	90;115;90;48;68;74
+Yamper;			835;	;				Electric;;		Ball Fetch;	;			Rattled;		255;		Field;		;			59;45;50;40;50;26
+Boltund;		836;	;				Electric;;		Strong Jaw;	;			Competitive;	45;			Field;		;			69;90;60;90;60;121
+Rolycoly;		837;	;				Rock;	;		Steam Engine;Heatproof;	Flash Fire;		255;		Mineral;	;			30;40;50;40;50;30
+Carkol;			838;	;				Rock;	Fire;	Steam Engine;Flame Body;Flash Fire;		120;		Mineral;	;			80;60;90;60;70;50
+Coalossal;		839;	;				Rock;	Fire;	Steam Engine;Flame Body;Flash Fire;		45;			Mineral;	;			110;80;120;80;90;30
+Applin;			840;	;				Grass;	Dragon;	Ripen;		Gluttony;	Bulletproof;	255;		Grass;		Dragon;		40;40;80;40;40;20
+Flapple;		841;	;				Grass;	Dragon;	Ripen;		Gluttony;	Hustle;			45;			Grass;		Dragon;		70;110;80;95;60;70
+Appletun;		842;	;				Grass;	Dragon;	Ripen;		Gluttony;	Thick Fat;		45;			Grass;		Dragon;		110;85;80;100;80;30
+Silicobra;		843;	;				Ground;	;		Sand Spit;	Shed Skin;	Sand Veil;		255;		Field;		Dragon;		52;57;75;35;50;46
+Sandaconda;		844;	;				Ground;	;		Sand Spit;	Shed Skin;	Sand Veil;		120;		Field;		Dragon;		72;107;125;65;70;71
+Cramorant;		845;	;				Flying;	Water;	Gulp Missile;;			;				45;			Water 1;	Flying;		70;85;55;85;95;85
+Arrokuda;		846;	;				Water;	;		Swift Swim;	;			Propeller Tail;	255;		Water 2;	;			41;63;40;40;30;66
+Barraskewda;	847;	;				Water;	;		Swift Swim;	;			Propeller Tail;	60;			Water 2;	;			61;123;60;60;50;136
+Toxel;			848;	;				Electric;Poison;Rattled;	Static;		Klutz;			75;			Undiscovered;;			40;38;35;54;35;40
+Toxtricity;		849;	;				Electric;Poison;Punk Rock;	Plus / Minus;Technician;	45;			Human-Like;	;			75;98;70;114;70;75
+Sizzlipede;		850;	;				Fire;	Bug;	Flash Fire;	White Smoke;Flame Body;		190;		Bug;		;			50;65;45;50;50;45
+Centiskorch;	851;	;				Fire;	Bug;	Flash Fire;	White Smoke;Flame Body;		75;			Bug;		;			100;115;65;90;90;65
+Clobbopus;		852;	;				Fighting;;		Limber;		;			Technician;		180;		Water 1;	Human-Like;	50;68;60;50;50;32
+Grapploct;		853;	;				Fighting;;		Limber;		;			Technician;		45;			Water 1;	Human-Like;	80;118;90;70;80;42
+Sinistea;		854;	;				Ghost;	;		Weak Armor;	;			Cursed Body;	120;		Mineral;	Amorphous;	40;45;45;74;54;50
+Polteageist;	855;	;				Ghost;	;		Weak Armor;	;			Cursed Body;	60;			Mineral;	Amorphous;	60;65;65;134;114;70
+Hatenna;		856;	;				Psychic;;		Healer;		Anticipation;Magic Bounce;	235;		Fairy;		;			42;30;45;56;53;39
+Hattrem;		857;	;				Psychic;;		Healer;		Anticipation;Magic Bounce;	120;		Fairy;		;			57;40;65;86;73;49
+Hatterene;		858;	;				Psychic;Fairy;	Healer;		Anticipation;Magic Bounce;	45;			Fairy;		;			57;90;95;136;103;29
+Impidimp;		859;	;				Dark;	Fairy;	Prankster;	Frisk;		Pickpocket;		255;		Fairy;		Human-Like;	45;45;30;55;40;50
+Morgrem;		860;	;				Dark;	Fairy;	Prankster;	Frisk;		Pickpocket;		120;		Fairy;		Human-Like;	65;60;45;75;55;70
+Grimmsnarl;		861;	;				Dark;	Fairy;	Prankster;	Frisk;		Pickpocket;		45;			Fairy;		Human-Like;	95;120;65;95;75;60
+Obstagoon;		862;	;				Dark;	Normal;	Reckless;	Guts;		Defiant;		45;			Field;		;			93;90;101;60;81;95
+Perrserker;		863;	;				Steel;	;		Battle Armor;Tough Claws;Steely Spirit;	90;			Field;		;			70;110;100;50;60;50
+Cursola;		864;	;				Ghost;	;		Weak Armor;	;			Perish Body;	30;			Water 1;	Water 3;	60;95;50;145;130;30
+Sirfetch'd;		865;	;				Fighting;;		Steadfast;	;			Scrappy;		45;			Flying;		Field;		62;135;95;68;82;65
+Mr. Rime;		866;	;				Ice;	Psychic;Tangled Feet;Screen Cleaner;Ice Body;	45;			Human-Like;	;			80;85;75;110;100;70
+Runerigus;		867;	;				Ground;	Ghost;	Wandering Spirit;;		;				90;			Mineral;	Amorphous;	58;95;145;50;105;30
+Milcery;		868;	;				Fairy;	;		Sweet Veil;	;			Aroma Veil;		200;		Fairy;		Amorphous;	45;40;40;50;61;34
+Alcremie;		869;	;				Fairy;	;		Sweet Veil;	;			Aroma Veil;		100;		Fairy;		Amorphous;	65;60;75;110;121;64
+Falinks;		870;	;				Fighting;;		Battle Armor;;			Defiant;		45;			Fairy;		Mineral;	65;100;100;70;60;75
+Pincurchin;		871;	;				Electric;;		Lightning Rod;;			Electric Surge;	75;			Water 1;	Amorphous;	48;101;95;91;85;15
+Snom;			872;	;				Ice;	Bug;	Shield Dust;;			Ice Scales;		190;		Bug;		;			30;25;35;45;30;20
+Frosmoth;		873;	;				Ice;	Bug;	Shield Dust;;			Ice Scales;		75;			Bug;		;			70;65;60;125;90;65
+Stonjourner;	874;	;				Rock;	;		Power Spot;	;			;				60;			Mineral;	;			100;125;135;20;20;70
+Eiscue;			875;	;				Ice;	;		Ice Face;	;			;				60;			Water 1;	Field;		75;80;110;65;90;50
+Indeedee;		876;	;				Psychic;Normal;	Inner Focus / Own Tempo;Synchronize;Psychic Surge;30;Fairy;		;			60;65;55;105;95;95
+Morpeko;		877;	;				Electric;Dark;	Hunger Switch;;			;				180;		Field;		Fairy;		58;95;58;70;58;97
+Cufant;			878;	;				Steel;	;		Sheer Force;;			Heavy Metal;	190;		Field;		Mineral;	72;80;49;40;49;40
+Copperajah;		879;	;				Steel;	;		Sheer Force;;			Heavy Metal;	90;			Field;		Mineral;	122;130;69;80;69;30
+Dracozolt;		880;	;				Electric;Dragon;Volt Absorb;Hustle;		Sand Rush;		45;			Undiscovered;;			90;100;90;80;70;75
+Arctozolt;		881;	;				Electric;Ice;	Volt Absorb;Static;		Slush Rush;		45;			Undiscovered;;			90;100;90;90;80;55
+Dracovish;		882;	;				Water;	Dragon;	Water Absorb;Strong Jaw;Sand Rush;		45;			Undiscovered;;			90;90;100;70;80;75
+Arctovish;		883;	;				Water;	Ice;	Water Absorb;Ice Body;	Slush Rush;		45;			Undiscovered;;			90;90;100;80;90;55
+Duraludon;		884;	;				Steel;	Dragon;	Light Metal;Heavy Metal;Stalwart;		45;			Mineral;	Dragon;		70;95;115;120;50;85
+Dreepy;			885;	;				Dragon;	Ghost;	Clear Body;	Infiltrator;Cursed Body;	45;			Amorphous;	Dragon;		28;60;30;40;30;82
+Drakloak;		886;	;				Dragon;	Ghost;	Clear Body;	Infiltrator;Cursed Body;	45;			Amorphous;	Dragon;		68;80;50;60;50;102
+Dragapult;		887;	;				Dragon;	Ghost;	Clear Body;	Infiltrator;Cursed Body;	45;			Amorphous;	Dragon;		88;120;75;10;75;142
+Zacian;			888;	;				Fairy;	;		Intrepid Sword;;		;				10;			Undiscovered;;			92;130;115;80;115;138
+Zamacenta;		889;	;				Fighting;;		Dauntless Shield;;		;				10;			Undiscovered;;			92;130;115;80;115;138
+Eternatus;		890;	;				Poison;	Dragon;	Pressure;	;			;				255;		Undiscovered;;			140;85;95;145;95;130
