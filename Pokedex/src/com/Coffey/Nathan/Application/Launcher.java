@@ -1,20 +1,14 @@
 package com.Coffey.Nathan.Application;
 
-import java.util.Scanner;
 
 import com.Coffey.Nathan.Struct.FillStruct;
 
 import javafx.application.Application;
-import javafx.event.ActionEvent;
-import javafx.event.EventHandler;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Parent;
 import javafx.scene.Scene;
 import javafx.scene.control.Button;
-import javafx.scene.layout.StackPane;
 import javafx.stage.Stage;
-
-
 
 
 public class Launcher extends Application {
@@ -26,7 +20,7 @@ public class Launcher extends Application {
 	
 	@Override
     public void start(Stage primaryStage) throws Exception {
-		window = primaryStage;
+		/*window = primaryStage;
 		
 		window.setTitle("Nathan's Pokedex");//title name
         
@@ -53,15 +47,21 @@ public class Launcher extends Application {
         
         Scene scene = new Scene(layout, 1024, 768);//size of window; width, length
         window.setScene(scene);
-        window.show();
+        window.show();*/
 		
+        Parent root = FXMLLoader.load(getClass().getResource("PokeGUI.fxml"));
+		primaryStage.setTitle("Nathan's Pokedex");
+		primaryStage.setScene(new Scene(root, 640, 400));
+		primaryStage.show();
+        
+        
     }
 	
-	private void closeProgram() {
-		//Boolean exit = ConfirmBox.display("Title", "Are you sure you want to exit?");
-		//if(exit)
-			window.close();
-	}
+//	private void closeProgram() {
+//		//Boolean exit = ConfirmBox.display("Title", "Are you sure you want to exit?");
+//		//if(exit)
+//			window.close();
+//	}
 	
 	public static void main(String[] args) {
 		
@@ -69,6 +69,7 @@ public class Launcher extends Application {
 		
 		data.struct(); //filling data structure
 		
+		System.out.println("Succesfully retreieve data from PokemonData.txt");
 		
 		launch(args);
 		

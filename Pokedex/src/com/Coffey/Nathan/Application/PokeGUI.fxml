@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.image.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.paint.*?>
+<?import javafx.scene.text.*?>
+
+<VBox prefHeight="400.0" prefWidth="640.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.Coffey.Nathan.Application.Controller">
+  <children>
+    <AnchorPane maxHeight="-1.0" maxWidth="-1.0" prefHeight="564.0" prefWidth="801.0" VBox.vgrow="ALWAYS">
+      <children>
+            <ScrollPane layoutX="464.0" layoutY="64.0" prefHeight="307.0" prefWidth="162.0">
+              <content>
+                <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="470.0" prefWidth="157.0">
+                     <children>
+                        <Button layoutX="14.0" layoutY="14.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="128.0" text="Bulbasaur" />
+                        <Button layoutX="14.0" layoutY="39.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="128.0" text="Ivysaur" />
+                        <Button layoutX="14.0" layoutY="64.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="128.0" text="Venusaur" />
+                        <Button layoutX="14.0" layoutY="89.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="128.0" text="Charmander" />
+                        <Button layoutX="14.0" layoutY="114.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="128.0" text="Charmeleon" />
+                        <Button layoutX="14.0" layoutY="139.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="128.0" text="Charizard" />
+                        <Button layoutX="14.0" layoutY="164.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="128.0" text="Squirtle" />
+                     </children>
+                  </AnchorPane>
+              </content>
+            </ScrollPane>
+            <ImageView fitHeight="128.0" fitWidth="128.0" layoutX="68.0" layoutY="52.0" pickOnBounds="true" preserveRatio="true" fx:id="imagePicturePath"/>
+            <TextField editable="false" layoutX="363.0" layoutY="52.0" prefHeight="25.0" prefWidth="75.0" text="Name" fx:id="textboxName"/>
+            <TextField editable="false" layoutX="363.0" layoutY="77.0" prefHeight="25.0" prefWidth="75.0" text="Number" fx:id="textboxNumber"/>
+            <TextField editable="false" layoutX="260.0" layoutY="116.0" prefHeight="25.0" prefWidth="75.0" text="type1" fx:id="textboxType1"/>
+            <TextField editable="false" layoutX="335.0" layoutY="116.0" prefHeight="25.0" prefWidth="75.0" text="type2" fx:id="textboxType2"/>
+            <TextField editable="false" layoutX="132.0" layoutY="206.0" prefHeight="25.0" prefWidth="75.0" text="Ability2" fx:id="textboxAbility2"/>
+            <TextField editable="false" layoutX="57.0" layoutY="206.0" prefHeight="25.0" prefWidth="75.0" text="Ability1" fx:id="textboxAbility1"/>
+            <TextField editable="false" layoutX="386.0" layoutY="205.0" prefHeight="25.0" prefWidth="35.0" text="HP" fx:id="textboxHP"/>
+            <TextField editable="false" layoutX="386.0" layoutY="229.0" prefHeight="25.0" prefWidth="35.0" text="Attack" fx:id="textboxAtk"/>
+            <TextField editable="false" layoutX="386.0" layoutY="279.0" prefHeight="25.0" prefWidth="35.0" text="Defense" fx:id="textboxDef"/>
+            <TextField editable="false" layoutX="386.0" layoutY="329.0" prefHeight="25.0" prefWidth="35.0" text="Speed" fx:id="textboxSpd"/>
+            <TextField editable="false" layoutX="386.0" layoutY="254.0" prefHeight="25.0" prefWidth="35.0" text="SpAttack" fx:id="textboxSpAtk"/>
+            <TextField editable="false" layoutX="386.0" layoutY="304.0" prefHeight="25.0" prefWidth="35.0" text="SpDefense" fx:id="textboxSpDef"/>
+            <TextField editable="false" layoutX="57.0" layoutY="304.0" prefHeight="25.0" prefWidth="75.0" text="EggGroup1" fx:id="textboxEggGroup1"/>
+            <TextField editable="false" layoutX="57.0" layoutY="254.0" prefHeight="25.0" prefWidth="75.0" text="AbilityHA" fx:id="textboxAbilityHA"/>
+            <TextField editable="false" layoutX="132.0" layoutY="304.0" prefHeight="25.0" prefWidth="75.0" text="EggGroup2" fx:id="textboxEggGroup2"/>
+            <TextField editable="false" layoutX="57.0" layoutY="350.0" prefHeight="25.0" prefWidth="35.0" text="Catch Rate" fx:id="textboxCatchRate"/>
+            <Label layoutX="259.0" layoutY="48.0" prefHeight="25.0" prefWidth="50.0" text="Name:" />
+            <Label layoutX="260.0" layoutY="77.0" prefHeight="25.0" prefWidth="50.0" text="Number:" />
+            <Label layoutX="56.0" layoutY="185.0" prefHeight="25.0" prefWidth="50.0" text="Abilities:" />
+            <Label layoutX="57.0" layoutY="231.0" prefHeight="25.0" prefWidth="78.0" text="Hidden Ability:" />
+            <Label alignment="CENTER_RIGHT" layoutX="309.0" layoutY="206.0" prefHeight="25.0" prefWidth="63.0" text="HP" />
+            <Label alignment="CENTER_RIGHT" layoutX="309.0" layoutY="231.0" prefHeight="25.0" prefWidth="63.0" text="Attack" textAlignment="RIGHT" />
+            <Label alignment="CENTER_RIGHT" layoutX="309.0" layoutY="258.0" prefHeight="17.0" prefWidth="63.0" text="Sp.Attack" textAlignment="RIGHT" />
+            <Label alignment="CENTER_RIGHT" layoutX="309.0" layoutY="283.0" prefHeight="17.0" prefWidth="63.0" text="Defense" textAlignment="RIGHT" />
+            <Label alignment="CENTER_RIGHT" layoutX="309.0" layoutY="308.0" prefHeight="17.0" prefWidth="63.0" text="Sp.Defense" textAlignment="RIGHT" />
+            <Label alignment="CENTER_RIGHT" layoutX="309.0" layoutY="333.0" prefHeight="17.0" prefWidth="63.0" text="Speed" textAlignment="RIGHT" />
+            <Label layoutX="318.0" layoutY="180.0" text="Base Stats:" />
+            <Label layoutX="57.0" layoutY="333.0" text="Catch Rate:" />
+            <Label layoutX="57.0" layoutY="283.0" text="Egg Group:" />
+            <TextField fx:id="search" layoutX="464.0" layoutY="23.0" onAction="#handleSearch" prefHeight="25.0" prefWidth="162.0" promptText="Search" />
+      </children>
+    </AnchorPane>
+  </children>
+</VBox>
