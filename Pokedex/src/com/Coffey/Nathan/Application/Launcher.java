@@ -1,9 +1,14 @@
-package com.coffey.nathan;
+package com.Coffey.Nathan.Application;
 
 import java.util.Scanner;
+
+import com.Coffey.Nathan.Struct.FillStruct;
+
 import javafx.application.Application;
 import javafx.event.ActionEvent;
 import javafx.event.EventHandler;
+import javafx.fxml.FXMLLoader;
+import javafx.scene.Parent;
 import javafx.scene.Scene;
 import javafx.scene.control.Button;
 import javafx.scene.layout.StackPane;
@@ -11,9 +16,10 @@ import javafx.stage.Stage;
 
 
 
+
 public class Launcher extends Application {
 	
-	private static FillStruct data;
+	private static FillStruct data = new FillStruct();;
 	
 	Stage window;
 	Button button, button2, exitProgram;
@@ -24,7 +30,7 @@ public class Launcher extends Application {
 		
 		window.setTitle("Nathan's Pokedex");//title name
         
-        button = new Button("Dreepy"); //new button that sets the text
+        button = new Button("Melmetal"); //new button that sets the text
         button.setOnAction(e -> System.out.println(data.findStruct(button.getText())));//set button to handle in "this" class
         
         //button2 = new Button("Blacephalon"); 
@@ -48,6 +54,7 @@ public class Launcher extends Application {
         Scene scene = new Scene(layout, 1024, 768);//size of window; width, length
         window.setScene(scene);
         window.show();
+		
     }
 	
 	private void closeProgram() {
@@ -58,9 +65,10 @@ public class Launcher extends Application {
 	
 	public static void main(String[] args) {
 		
-		data = new FillStruct();
+		//data = new FillStruct();
 		
 		data.struct(); //filling data structure
+		
 		
 		launch(args);
 		

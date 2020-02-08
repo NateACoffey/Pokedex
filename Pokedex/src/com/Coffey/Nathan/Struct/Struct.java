@@ -1,4 +1,4 @@
-package com.coffey.nathan;
+package com.Coffey.Nathan.Struct;
 
 class Struct {
 	

@@ -1,4 +1,4 @@
-package com.coffey.nathan;
+package com.Coffey.Nathan.Struct;
 
 public class Node {
 	Struct struct = new Struct();
