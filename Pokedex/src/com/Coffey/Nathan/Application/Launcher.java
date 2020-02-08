@@ -39,22 +39,27 @@ public class Launcher extends Application {
         
     }
 	
-//	private void closeProgram() {
-//		//Boolean exit = ConfirmBox.display("Title", "Are you sure you want to exit?");
-//		//if(exit)
-//			window.close();
-//	}
+/*	private void closeProgram() {
+		//Boolean exit = ConfirmBox.display("Title", "Are you sure you want to exit?");
+		//if(exit)
+			window.close();
+	}
+*/
+	
+	
 	
 	public static void main(String[] args) {
 		
-		//data = new FillStruct();
-		
 		data.struct(); //filling data structure
 		
-		System.out.println("Succesfully retreieve data from PokemonData.txt");
+		System.out.println("Successfully retrieved data from PokemonData.txt");
 		
 		launch(args);
 		
+		System.out.println("Closing program.");
+		
+		
 	}
-
+	
+	
 }
