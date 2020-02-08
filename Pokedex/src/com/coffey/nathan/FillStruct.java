@@ -11,7 +11,7 @@ public class FillStruct {
 	
 	Node curr = null;
 	
-	public void addStruct(Struct s, int bucket) {
+	private void addStruct(Struct s, int bucket) {
 		Node node = new Node(s);//inputs struct into the node
 		
 		if(hash[bucket] == null) { //checks first node in bucket
@@ -87,7 +87,6 @@ public class FillStruct {
 	public void struct(){
 		
 		
-		int p = 0;
 		
 		File file = new File("PokemonData.txt");
 	
