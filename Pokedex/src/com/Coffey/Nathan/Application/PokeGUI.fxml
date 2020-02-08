@@ -28,22 +28,22 @@
               </content>
             </ScrollPane>
             <ImageView fitHeight="128.0" fitWidth="128.0" layoutX="68.0" layoutY="52.0" pickOnBounds="true" preserveRatio="true" fx:id="imagePicturePath"/>
-            <TextField editable="false" layoutX="363.0" layoutY="52.0" prefHeight="25.0" prefWidth="75.0" text="Name" fx:id="textboxName"/>
-            <TextField editable="false" layoutX="363.0" layoutY="77.0" prefHeight="25.0" prefWidth="75.0" text="Number" fx:id="textboxNumber"/>
-            <TextField editable="false" layoutX="260.0" layoutY="116.0" prefHeight="25.0" prefWidth="75.0" text="type1" fx:id="textboxType1"/>
-            <TextField editable="false" layoutX="335.0" layoutY="116.0" prefHeight="25.0" prefWidth="75.0" text="type2" fx:id="textboxType2"/>
-            <TextField editable="false" layoutX="132.0" layoutY="206.0" prefHeight="25.0" prefWidth="75.0" text="Ability2" fx:id="textboxAbility2"/>
-            <TextField editable="false" layoutX="57.0" layoutY="206.0" prefHeight="25.0" prefWidth="75.0" text="Ability1" fx:id="textboxAbility1"/>
-            <TextField editable="false" layoutX="386.0" layoutY="205.0" prefHeight="25.0" prefWidth="35.0" text="HP" fx:id="textboxHP"/>
-            <TextField editable="false" layoutX="386.0" layoutY="229.0" prefHeight="25.0" prefWidth="35.0" text="Attack" fx:id="textboxAtk"/>
-            <TextField editable="false" layoutX="386.0" layoutY="279.0" prefHeight="25.0" prefWidth="35.0" text="Defense" fx:id="textboxDef"/>
-            <TextField editable="false" layoutX="386.0" layoutY="329.0" prefHeight="25.0" prefWidth="35.0" text="Speed" fx:id="textboxSpd"/>
-            <TextField editable="false" layoutX="386.0" layoutY="254.0" prefHeight="25.0" prefWidth="35.0" text="SpAttack" fx:id="textboxSpAtk"/>
-            <TextField editable="false" layoutX="386.0" layoutY="304.0" prefHeight="25.0" prefWidth="35.0" text="SpDefense" fx:id="textboxSpDef"/>
-            <TextField editable="false" layoutX="57.0" layoutY="304.0" prefHeight="25.0" prefWidth="75.0" text="EggGroup1" fx:id="textboxEggGroup1"/>
-            <TextField editable="false" layoutX="57.0" layoutY="254.0" prefHeight="25.0" prefWidth="75.0" text="AbilityHA" fx:id="textboxAbilityHA"/>
-            <TextField editable="false" layoutX="132.0" layoutY="304.0" prefHeight="25.0" prefWidth="75.0" text="EggGroup2" fx:id="textboxEggGroup2"/>
-            <TextField editable="false" layoutX="57.0" layoutY="350.0" prefHeight="25.0" prefWidth="35.0" text="Catch Rate" fx:id="textboxCatchRate"/>
+            <TextField editable="false" layoutX="363.0" layoutY="52.0" prefHeight="25.0" prefWidth="75.0" fx:id="textboxName"/>
+            <TextField editable="false" layoutX="363.0" layoutY="77.0" prefHeight="25.0" prefWidth="75.0" fx:id="textboxNumber"/>
+            <TextField editable="false" layoutX="260.0" layoutY="116.0" prefHeight="25.0" prefWidth="75.0" fx:id="textboxType1"/>
+            <TextField editable="false" layoutX="335.0" layoutY="116.0" prefHeight="25.0" prefWidth="75.0" fx:id="textboxType2"/>
+            <TextField editable="false" layoutX="132.0" layoutY="206.0" prefHeight="25.0" prefWidth="75.0" fx:id="textboxAbility2"/>
+            <TextField editable="false" layoutX="57.0" layoutY="206.0" prefHeight="25.0" prefWidth="75.0" fx:id="textboxAbility1"/>
+            <TextField editable="false" layoutX="386.0" layoutY="205.0" prefHeight="25.0" prefWidth="35.0" fx:id="textboxHP"/>
+            <TextField editable="false" layoutX="386.0" layoutY="229.0" prefHeight="25.0" prefWidth="35.0" fx:id="textboxAtk"/>
+            <TextField editable="false" layoutX="386.0" layoutY="279.0" prefHeight="25.0" prefWidth="35.0" fx:id="textboxDef"/>
+            <TextField editable="false" layoutX="386.0" layoutY="329.0" prefHeight="25.0" prefWidth="35.0" fx:id="textboxSpd"/>
+            <TextField editable="false" layoutX="386.0" layoutY="254.0" prefHeight="25.0" prefWidth="35.0" fx:id="textboxSpAtk"/>
+            <TextField editable="false" layoutX="386.0" layoutY="304.0" prefHeight="25.0" prefWidth="35.0" fx:id="textboxSpDef"/>
+            <TextField editable="false" layoutX="57.0" layoutY="304.0" prefHeight="25.0" prefWidth="75.0" fx:id="textboxEggGroup1"/>
+            <TextField editable="false" layoutX="57.0" layoutY="254.0" prefHeight="25.0" prefWidth="75.0" fx:id="textboxAbilityHA"/>
+            <TextField editable="false" layoutX="132.0" layoutY="304.0" prefHeight="25.0" prefWidth="75.0" fx:id="textboxEggGroup2"/>
+            <TextField editable="false" layoutX="57.0" layoutY="350.0" prefHeight="25.0" prefWidth="35.0" fx:id="textboxCatchRate"/>
             <Label layoutX="259.0" layoutY="48.0" prefHeight="25.0" prefWidth="50.0" text="Name:" />
             <Label layoutX="260.0" layoutY="77.0" prefHeight="25.0" prefWidth="50.0" text="Number:" />
             <Label layoutX="56.0" layoutY="185.0" prefHeight="25.0" prefWidth="50.0" text="Abilities:" />
