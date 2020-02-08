@@ -33,8 +33,8 @@ public class FillStruct {
 	
 	public Node findStruct(String pokeName) {
 		
-		//makes first character uppercase and the rest lowercase
-		pokeName = pokeName.substring(0, 1).toUpperCase() + pokeName.substring(1).toLowerCase();
+		pokeName = pokeName.toLowerCase();
+		
 		
 		Hash5 h5 = new Hash5();
 		int bucket = h5.hashName(pokeName);
@@ -42,7 +42,7 @@ public class FillStruct {
 		curr = hash[bucket].head;
 		
 		while(curr != null) {
-			if(curr.getName().contentEquals(pokeName)) {
+			if(curr.getName().toLowerCase().contentEquals(pokeName)) {
 				return curr;
 			} else{
 				curr = curr.next;
@@ -108,7 +108,7 @@ public class FillStruct {
 				
 				Hash5 h5 = new Hash5();
 				
-				int buck = h5.hashName(struct.name);
+				int buck = h5.hashName(struct.name.toLowerCase());
 				
 				addStruct(struct, buck);//uses the filled struct to insert it into the array
 				
