@@ -25,16 +25,4 @@ class Struct {
 	int baseSpecialAttack = 0;
 	int baseSpecialDefense = 0;
 	int baseSpeed = 0;
-	
-	
-	public String toString() {
-		return "Name: " + name
-				+ "\nNumber: " + number
-				+ "\nType: " + type1 + "\t" + type2
-				+ "\nAbilities: " + ability1 + "\t" + ability2
-				+ "\nHidden Ability: " + hiddenAbility
-				+ "\nCatch rate: " + catchRate
-				+ " \nEgg groups: " + eggGroup1 + " / " + eggGroup2
-				+ " \nBase stats:\n" + baseHP + "\t" + baseAttack + "\t"+ baseDefense + "\t"+ baseSpecialAttack + "\t"+ baseSpecialDefense + "\t" + baseSpeed;
-	}
 }
