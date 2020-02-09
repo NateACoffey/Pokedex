@@ -54,7 +54,12 @@ public class Controller implements Initializable {
 	
 	
 	private void setTextboxData(String name) {
-		node = findPokemon.findStruct(name);
+		
+		if(!name.equals(""))
+			node = findPokemon.findStruct(name);
+		else
+			node = null;
+		
 		
 		image = null;
 		
@@ -62,7 +67,7 @@ public class Controller implements Initializable {
 			textboxName.setText(node.getName());
 			textboxNumber.setText(String.format("%03d", node.getNumber()));
 			
-			image = new Image("file:Pics/"+ node.getName() +".png");
+			image = new Image("file:Pics/240px-"+ String.format("%03d", node.getNumber()) + node.getName() +".png");
 			imagePath.setImage(image);
 			
 			textboxType1.setText(node.getType1());
@@ -97,7 +102,7 @@ public class Controller implements Initializable {
 	
 	public void buttonSearch(ActionEvent e) {
 		
-		setTextboxData(button.getText());		//TODO: fix text only showing the last button's text
+		setTextboxData(((Button) e.getSource()).getText());
 		
 		search.setText("");
 		

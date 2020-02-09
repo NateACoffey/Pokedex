@@ -50,9 +50,11 @@ public class Launcher extends Application {
 	
 	public static void main(String[] args) {
 		
+		System.out.println("Filling data structure from PokemonData.txt");
+		
 		data.struct(); //filling data structure
 		
-		System.out.println("Successfully retrieved data from PokemonData.txt");
+		System.out.println("--Successfully retrieved data from PokemonData.txt");
 		
 		launch(args);
 		
