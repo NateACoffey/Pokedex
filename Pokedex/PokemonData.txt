@@ -1,5 +1,5 @@
 name;			Number;	Photo.link;		Type 1;	Type 2;	Ability 1;	Ability 2;	Hidden Ability;	Catch Rate;	Egg Group1;	Egg Group2;	Hp;	Atk;	Def;	Spatk;	Spdef;	Speed
-Bulbasaur;		1; 		Bulbasaur.png;	Grass;	Poison;	Overgrow;	;			Chlorophyll;	45;			Monster;	Grass;		45;49;49;65;65;45
+Bulbasaur;		1; 		;				Grass;	Poison;	Overgrow;	;			Chlorophyll;	45;			Monster;	Grass;		45;49;49;65;65;45
 Ivysaur;		2;		;				Grass;	Poison;	Overgrow;	;			Chlorophyll;	45;			Monster;	Grass;		60;62;63;80;80;60
 Venusaur;		3;		;				Grass;	Poison;	Overgrow;	;			Chlorophyll;	45;			Monster;	Grass;		80;82;83;100;100;80
 Charmander;		4;		;				Fire;	;		Blaze;		;			Solar Power;	45;			Monster;	Dragon;		39;52;43;60;50;65
