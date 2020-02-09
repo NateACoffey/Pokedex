@@ -19,8 +19,6 @@ public class Controller implements Initializable {
 	FillStruct findPokemon = new FillStruct();
 	Node node = new Node();
 	
-	public Button button;
-	
 	public TextField search;
 	
 	public TextField textboxName;
