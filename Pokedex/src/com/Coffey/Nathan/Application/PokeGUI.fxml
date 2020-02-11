@@ -913,10 +913,7 @@
               </content>
             </ScrollPane>
             
-            <ImageView fx:id="imagePath" fitHeight="120.0" fitWidth="120.0" layoutX="68.0" layoutY="64.0" pickOnBounds="true" preserveRatio="true">
-               <image>
-                  <Image url="file:Pics/default.png" />
-               </image></ImageView>
+            <ImageView fx:id="imagePath" fitHeight="120.0" fitWidth="120.0" layoutX="68.0" layoutY="64.0" pickOnBounds="true" preserveRatio="true" />
                
             <TextField fx:id="textboxName" editable="false" layoutX="346.0" layoutY="65.0" prefHeight="25.0" prefWidth="95.0" promptText="(none)" />
             <TextField fx:id="textboxNumber" editable="false" layoutX="346.0" layoutY="90.0" prefHeight="25.0" prefWidth="35.0" promptText="---" />
@@ -963,6 +960,9 @@
                   <Button layoutX="378.0" layoutY="11.0" mnemonicParsing="false" onAction="#genScroll" prefHeight="25.0" prefWidth="50.0" text="Gen 8" />
                </children>
             </Pane>
+            <Button layoutX="496.0" layoutY="39.0" mnemonicParsing="false" onAction="#appendText" text="é" />
+            <Button layoutX="519.0" layoutY="39.0" mnemonicParsing="false" onAction="#appendText" text="♂" />
+            <Button layoutX="544.0" layoutY="39.0" mnemonicParsing="false" onAction="#appendText" text="♀" />
       </children>
     </AnchorPane>
   </children>
