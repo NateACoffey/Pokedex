@@ -1,7 +1,7 @@
 package com.Coffey.Nathan.Application;
 
 
-import com.Coffey.Nathan.Struct.FillStruct;
+import com.Coffey.Nathan.Struct.FindStruct;
 import com.Coffey.Nathan.Struct.Node;
 
 import java.io.File;
@@ -18,7 +18,7 @@ import javafx.scene.layout.AnchorPane;
 
 
 public class Controller implements Initializable {
-	FillStruct findPokemon = new FillStruct();
+	FindStruct findPokemon = new FindStruct();
 	Node node = new Node();
 	
 	public ScrollPane scroll;
@@ -70,7 +70,11 @@ public class Controller implements Initializable {
 			textboxName.setText(node.getName());
 			textboxNumber.setText(String.format("%03d", node.getNumber()));
 			
-			image = new Image("file:Pics/240px-"+ String.format("%03d", node.getNumber()) + node.getName() +".png");
+			image = new Image("file:Pics/240px-" 
+									+ String.format("%03d", node.getNumber()) 
+									+ node.getName().replace(" ", "_") 
+										+ ".png");
+			
 			imagePath.setImage(image);
 			
 			textboxType1.setText(node.getType1());

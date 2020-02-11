@@ -1,61 +1,13 @@
 package com.Coffey.Nathan.Struct;
 
-import java.io.File;
-import java.io.FileNotFoundException;
-import java.util.Scanner;
 
-public class FillStruct {
+class FillStruct {
 	
-	private static final int pokeTotal = 890;//---->if changed, need to change Hash5.java % return<----
+	static final int pokeTotal = 890;
 	public static Node[] hash = new Node[pokeTotal];
-	
-	Node curr = null;
-	
-	private void addStruct(Struct s, int bucket) {
-		Node node = new Node(s);//inputs struct into the node
-		
-		if(hash[bucket] == null) { //checks first node in bucket
-			
-			
-			node.head = node;
-			node.tail = node;
-			
-			hash[bucket] = node;
-			
-		}else {
-			
-			hash[bucket].tail.next = node;	//assigns the current node after the tail node
-			hash[bucket].tail = node;		//then moves the tail to the current node
-		}
-		
-		
-	}
-	
-	public Node findStruct(String pokeName) {
-		
-		pokeName = pokeName.toLowerCase();
-		
-		
-		Hash5 h5 = new Hash5();
-		int bucket = h5.hashName(pokeName);
-		
-		curr = (hash[bucket] != null) ? hash[bucket].head : null ;	//verifies the bucket is not null
-		
-		while(curr != null) {
-			if(curr.getName().toLowerCase().contentEquals(pokeName)) {
-				return curr;
-			} else{
-				curr = curr.next;
-			}
-		}
-		
-		curr = null;
-		return null;
-	}
-		
 		
 	
-	public Struct fillStruct(String[] tempArr) {//fills the base struct with values
+	Struct fillStruct(String[] tempArr) {//fills the base struct with values
 		
 		Struct struct = new Struct();
 		
@@ -86,42 +38,5 @@ public class FillStruct {
 		return struct;
 		
 	}
-	
-	public void struct(){
-		
-		
-		
-		File file = new File("PokemonData.txt");
-	
-		try {
-			Scanner scnr = new Scanner(file);
-			
-			scnr.nextLine();
-			
-			while(scnr.hasNext()) {
-				String temp = scnr.nextLine().replace("\t", "");//removes tab spaces
-				String[] tempArr = temp.split(";");
-				
-				Struct struct = new Struct();
-				
-				struct = fillStruct(tempArr);//fills basic struct to be inserted in the full Node structure
-				
-				Hash5 h5 = new Hash5();
-				
-				int buck = h5.hashName(struct.name.toLowerCase());
-				
-				addStruct(struct, buck);//uses the filled struct to insert it into the array
-				
-				
-			}
-			
-			scnr.close();
-			
-		} catch(FileNotFoundException e) {
-			e.printStackTrace();
-		}
-		
-	}
-	
 	
 }

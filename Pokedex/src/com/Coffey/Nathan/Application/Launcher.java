@@ -1,7 +1,7 @@
 package com.Coffey.Nathan.Application;
 
 
-import com.Coffey.Nathan.Struct.FillStruct;
+import com.Coffey.Nathan.Struct.InitializeStruct;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
@@ -13,7 +13,7 @@ import javafx.stage.Stage;
 
 public class Launcher extends Application {
 	
-	private static FillStruct data = new FillStruct();;
+	private static InitializeStruct data = new InitializeStruct();
 	
 	
 	@Override
@@ -33,7 +33,7 @@ public class Launcher extends Application {
 		
 		System.out.println("Filling data structure from PokemonData.txt");
 		
-		data.struct(); //filling data structure
+		data.initializeStruct(); //filling data structure
 		
 		System.out.println("--Successfully retrieved data from PokemonData.txt");
 		
