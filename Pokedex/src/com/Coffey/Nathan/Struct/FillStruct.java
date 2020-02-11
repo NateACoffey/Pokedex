@@ -4,7 +4,7 @@ package com.Coffey.Nathan.Struct;
 class FillStruct {
 	
 	static final int pokeTotal = 890;
-	public static Node[] hash = new Node[pokeTotal];
+	static Node[] hash = new Node[pokeTotal];
 		
 	
 	Struct fillStruct(String[] tempArr) {//fills the base struct with values
