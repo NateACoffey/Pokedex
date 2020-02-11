@@ -45,10 +45,10 @@
 <Button layoutX="14.0" layoutY="640.0" mnemonicParsing="false" onAction="#buttonSearch" prefHeight="25.0" prefWidth="120.0" text="Raichu" />
 <Button layoutX="14.0" layoutY="665.0" mnemonicParsing="false" onAction="#buttonSearch" prefHeight="25.0" prefWidth="120.0" text="Sandshrew" />
 <Button layoutX="14.0" layoutY="690.0" mnemonicParsing="false" onAction="#buttonSearch" prefHeight="25.0" prefWidth="120.0" text="Sandslash" />
-<Button layoutX="14.0" layoutY="715.0" mnemonicParsing="false" onAction="#buttonSearch" prefHeight="25.0" prefWidth="120.0" text="Nidoran?" />
+<Button layoutX="14.0" layoutY="715.0" mnemonicParsing="false" onAction="#buttonSearch" prefHeight="25.0" prefWidth="120.0" text="Nidoran♀" />
 <Button layoutX="14.0" layoutY="740.0" mnemonicParsing="false" onAction="#buttonSearch" prefHeight="25.0" prefWidth="120.0" text="Nidorina" />
 <Button layoutX="14.0" layoutY="765.0" mnemonicParsing="false" onAction="#buttonSearch" prefHeight="25.0" prefWidth="120.0" text="Nidoqueen" />
-<Button layoutX="14.0" layoutY="790.0" mnemonicParsing="false" onAction="#buttonSearch" prefHeight="25.0" prefWidth="120.0" text="Nidoran?" />
+<Button layoutX="14.0" layoutY="790.0" mnemonicParsing="false" onAction="#buttonSearch" prefHeight="25.0" prefWidth="120.0" text="Nidoran♂" />
 <Button layoutX="14.0" layoutY="815.0" mnemonicParsing="false" onAction="#buttonSearch" prefHeight="25.0" prefWidth="120.0" text="Nidorino" />
 <Button layoutX="14.0" layoutY="840.0" mnemonicParsing="false" onAction="#buttonSearch" prefHeight="25.0" prefWidth="120.0" text="Nidoking" />
 <Button layoutX="14.0" layoutY="865.0" mnemonicParsing="false" onAction="#buttonSearch" prefHeight="25.0" prefWidth="120.0" text="Clefairy" />
@@ -99,7 +99,7 @@
 <Button layoutX="14.0" layoutY="1990.0" mnemonicParsing="false" onAction="#buttonSearch" prefHeight="25.0" prefWidth="120.0" text="Slowbro" />
 <Button layoutX="14.0" layoutY="2015.0" mnemonicParsing="false" onAction="#buttonSearch" prefHeight="25.0" prefWidth="120.0" text="Magnemite" />
 <Button layoutX="14.0" layoutY="2040.0" mnemonicParsing="false" onAction="#buttonSearch" prefHeight="25.0" prefWidth="120.0" text="Magneton" />
-<Button layoutX="14.0" layoutY="2065.0" mnemonicParsing="false" onAction="#buttonSearch" prefHeight="25.0" prefWidth="120.0" text="Farfetch�d" />
+<Button layoutX="14.0" layoutY="2065.0" mnemonicParsing="false" onAction="#buttonSearch" prefHeight="25.0" prefWidth="120.0" text="Farfetch'd" />
 <Button layoutX="14.0" layoutY="2090.0" mnemonicParsing="false" onAction="#buttonSearch" prefHeight="25.0" prefWidth="120.0" text="Doduo" />
 <Button layoutX="14.0" layoutY="2115.0" mnemonicParsing="false" onAction="#buttonSearch" prefHeight="25.0" prefWidth="120.0" text="Dodrio" />
 <Button layoutX="14.0" layoutY="2140.0" mnemonicParsing="false" onAction="#buttonSearch" prefHeight="25.0" prefWidth="120.0" text="Seel" />
@@ -685,7 +685,7 @@
 <Button layoutX="14.0" layoutY="16640.0" mnemonicParsing="false" onAction="#buttonSearch" prefHeight="25.0" prefWidth="120.0" text="Vivillon" />
 <Button layoutX="14.0" layoutY="16665.0" mnemonicParsing="false" onAction="#buttonSearch" prefHeight="25.0" prefWidth="120.0" text="Litleo" />
 <Button layoutX="14.0" layoutY="16690.0" mnemonicParsing="false" onAction="#buttonSearch" prefHeight="25.0" prefWidth="120.0" text="Pyroar" />
-<Button layoutX="14.0" layoutY="16715.0" mnemonicParsing="false" onAction="#buttonSearch" prefHeight="25.0" prefWidth="120.0" text="Flab�b�" />
+<Button layoutX="14.0" layoutY="16715.0" mnemonicParsing="false" onAction="#buttonSearch" prefHeight="25.0" prefWidth="120.0" text="Flabébé" />
 <Button layoutX="14.0" layoutY="16740.0" mnemonicParsing="false" onAction="#buttonSearch" prefHeight="25.0" prefWidth="120.0" text="Floette" />
 <Button layoutX="14.0" layoutY="16765.0" mnemonicParsing="false" onAction="#buttonSearch" prefHeight="25.0" prefWidth="120.0" text="Florges" />
 <Button layoutX="14.0" layoutY="16790.0" mnemonicParsing="false" onAction="#buttonSearch" prefHeight="25.0" prefWidth="120.0" text="Skiddo" />
@@ -913,15 +913,15 @@
               </content>
             </ScrollPane>
             
-            <ImageView fx:id="imagePath" fitHeight="128.0" fitWidth="128.0" layoutX="68.0" layoutY="52.0" pickOnBounds="true" preserveRatio="true">
+            <ImageView fx:id="imagePath" fitHeight="120.0" fitWidth="120.0" layoutX="68.0" layoutY="64.0" pickOnBounds="true" preserveRatio="true">
                <image>
                   <Image url="file:Pics/default.png" />
                </image></ImageView>
                
-            <TextField fx:id="textboxName" editable="false" layoutX="343.0" layoutY="52.0" prefHeight="25.0" prefWidth="95.0" promptText="(none)" />
-            <TextField fx:id="textboxNumber" editable="false" layoutX="343.0" layoutY="77.0" prefHeight="25.0" prefWidth="35.0" promptText="---" />
-            <TextField fx:id="textboxType1" editable="false" layoutX="260.0" layoutY="116.0" prefHeight="25.0" prefWidth="75.0" promptText="(none)" />
-            <TextField fx:id="textboxType2" editable="false" layoutX="335.0" layoutY="116.0" prefHeight="25.0" prefWidth="75.0" promptText="(none)" />
+            <TextField fx:id="textboxName" editable="false" layoutX="346.0" layoutY="65.0" prefHeight="25.0" prefWidth="95.0" promptText="(none)" />
+            <TextField fx:id="textboxNumber" editable="false" layoutX="346.0" layoutY="90.0" prefHeight="25.0" prefWidth="35.0" promptText="---" />
+            <TextField fx:id="textboxType1" editable="false" layoutX="261.0" layoutY="129.0" prefHeight="25.0" prefWidth="75.0" promptText="(none)" />
+            <TextField fx:id="textboxType2" editable="false" layoutX="335.0" layoutY="129.0" prefHeight="25.0" prefWidth="75.0" promptText="(none)" />
             <TextField fx:id="textboxAbility2" editable="false" layoutX="178.0" layoutY="205.0" prefHeight="25.0" prefWidth="120.0" promptText="(none)" />
             <TextField fx:id="textboxAbility1" editable="false" layoutX="56.0" layoutY="206.0" prefHeight="25.0" prefWidth="120.0" promptText="(none)" />
             <TextField fx:id="textboxHP" editable="false" layoutX="386.0" layoutY="205.0" prefHeight="25.0" prefWidth="35.0" promptText="--" />
@@ -935,8 +935,8 @@
             <TextField fx:id="textboxEggGroup2" editable="false" layoutX="178.0" layoutY="304.0" prefHeight="25.0" prefWidth="120.0" promptText="(none)" />
             <TextField fx:id="textboxCatchRate" editable="false" layoutX="57.0" layoutY="350.0" prefHeight="25.0" prefWidth="35.0" promptText="--" />
             
-            <Label layoutX="259.0" layoutY="48.0" prefHeight="25.0" prefWidth="50.0" text="Name:" />
-            <Label layoutX="260.0" layoutY="77.0" prefHeight="25.0" prefWidth="50.0" text="Number:" />
+            <Label layoutX="259.0" layoutY="65.0" prefHeight="25.0" prefWidth="50.0" text="Name:" />
+            <Label layoutX="259.0" layoutY="90.0" prefHeight="25.0" prefWidth="50.0" text="Number:" />
             <Label layoutX="56.0" layoutY="185.0" prefHeight="25.0" prefWidth="50.0" text="Abilities:" />
             <Label layoutX="56.0" layoutY="231.0" prefHeight="25.0" prefWidth="78.0" text="Hidden Ability:" />
             <Label alignment="CENTER_RIGHT" layoutX="309.0" layoutY="206.0" prefHeight="25.0" prefWidth="63.0" text="HP" />
