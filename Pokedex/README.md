@@ -28,7 +28,7 @@ I have Buttons and a TextField with ActionEvents that will grab data from the da
 
 ## Purpose of project
 
-### This project was started to test my abilities in Java.
+This project was started to test my abilities in Java.
 
 * I use basic fundamentals of programming like loops, conditional statements, an array, reading files, and manipulating strings.
 * A hashing data structure to store the Pokémon's data.
