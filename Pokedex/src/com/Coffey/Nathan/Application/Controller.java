@@ -134,8 +134,6 @@ public class Controller implements Initializable {
 		
 		search.setText("");
 		
-		search.requestFocus();
-		search.selectEnd();
 	}
 	
 	public void genScroll(ActionEvent e) {
