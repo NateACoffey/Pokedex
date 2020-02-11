@@ -110,9 +110,21 @@ public class Controller implements Initializable {
 		}
 	}
 	
+	public void appendText(ActionEvent e) {
+		
+		//appends search box with symbols
+		search.appendText(((Button) e.getSource()).getText());
+		
+		search.requestFocus();
+		search.selectEnd();
+		
+	}
+	
 	public void textSearch(ActionEvent e) {
 		
 		setTextboxData(search.getText());
+		
+		search.selectAll();
 		
 	}
 	
@@ -122,6 +134,8 @@ public class Controller implements Initializable {
 		
 		search.setText("");
 		
+		search.requestFocus();
+		search.selectEnd();
 	}
 	
 	public void genScroll(ActionEvent e) {
@@ -158,7 +172,8 @@ public class Controller implements Initializable {
 				
 		}
 		
-		
+		search.requestFocus();
+		search.selectEnd();
 	}
 	
 	@Override
