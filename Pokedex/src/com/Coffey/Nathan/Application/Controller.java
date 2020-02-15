@@ -72,7 +72,7 @@ public class Controller implements Initializable {
 			
 			image = new Image("file:Pics/240px-" 
 									+ String.format("%03d", node.getNumber()) 
-									+ node.getName().replace(" ", "_") 
+									+ node.getName().replaceAll("[ :]", "_") 
 										+ ".png");
 			
 			imagePath.setImage(image);
