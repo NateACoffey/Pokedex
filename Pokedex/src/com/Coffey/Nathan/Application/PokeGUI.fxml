@@ -851,7 +851,7 @@
 <Button layoutX="14.0" layoutY="20790.0" mnemonicParsing="false" onAction="#buttonSearch" prefHeight="25.0" prefWidth="120.0" text="Dubwool" />
 <Button layoutX="14.0" layoutY="20815.0" mnemonicParsing="false" onAction="#buttonSearch" prefHeight="25.0" prefWidth="120.0" text="Chewtle" />
 <Button layoutX="14.0" layoutY="20840.0" mnemonicParsing="false" onAction="#buttonSearch" prefHeight="25.0" prefWidth="120.0" text="Drednaw" />
-<Button layoutX="14.0" layoutY="20865.0" mnemonicParsing="false" onAction="#buttonSearch" prefHeight="25.0" prefWidth="120.0" text="Yampur" />
+<Button layoutX="14.0" layoutY="20865.0" mnemonicParsing="false" onAction="#buttonSearch" prefHeight="25.0" prefWidth="120.0" text="Yamper" />
 <Button layoutX="14.0" layoutY="20890.0" mnemonicParsing="false" onAction="#buttonSearch" prefHeight="25.0" prefWidth="120.0" text="Boltund" />
 <Button layoutX="14.0" layoutY="20915.0" mnemonicParsing="false" onAction="#buttonSearch" prefHeight="25.0" prefWidth="120.0" text="Rolycoly" />
 <Button layoutX="14.0" layoutY="20940.0" mnemonicParsing="false" onAction="#buttonSearch" prefHeight="25.0" prefWidth="120.0" text="Carkol" />
