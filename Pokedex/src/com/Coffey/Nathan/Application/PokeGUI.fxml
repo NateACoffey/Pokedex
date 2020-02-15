@@ -905,7 +905,7 @@
 <Button layoutX="14.0" layoutY="22140.0" mnemonicParsing="false" onAction="#buttonSearch" prefHeight="25.0" prefWidth="120.0" text="Drakloak" />
 <Button layoutX="14.0" layoutY="22165.0" mnemonicParsing="false" onAction="#buttonSearch" prefHeight="25.0" prefWidth="120.0" text="Dragapult" />
 <Button layoutX="14.0" layoutY="22190.0" mnemonicParsing="false" onAction="#buttonSearch" prefHeight="25.0" prefWidth="120.0" text="Zacian" />
-<Button layoutX="14.0" layoutY="22215.0" mnemonicParsing="false" onAction="#buttonSearch" prefHeight="25.0" prefWidth="120.0" text="Zacian" />
+<Button layoutX="14.0" layoutY="22215.0" mnemonicParsing="false" onAction="#buttonSearch" prefHeight="25.0" prefWidth="120.0" text="Zamazenta" />
 <Button layoutX="14.0" layoutY="22240.0" mnemonicParsing="false" onAction="#buttonSearch" prefHeight="25.0" prefWidth="120.0" text="Eternatus" />
                        
                      </children>

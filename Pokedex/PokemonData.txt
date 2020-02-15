@@ -887,5 +887,5 @@ Dreepy;			885;	;				Dragon;	Ghost;	Clear Body;	Infiltrator;Cursed Body;	45;			Am
 Drakloak;		886;	;				Dragon;	Ghost;	Clear Body;	Infiltrator;Cursed Body;	45;			Amorphous;	Dragon;		68;80;50;60;50;102
 Dragapult;		887;	;				Dragon;	Ghost;	Clear Body;	Infiltrator;Cursed Body;	45;			Amorphous;	Dragon;		88;120;75;10;75;142
 Zacian;			888;	;				Fairy;	;		Intrepid Sword;;		;				10;			Undiscovered;;			92;130;115;80;115;138
-Zamacenta;		889;	;				Fighting;;		Dauntless Shield;;		;				10;			Undiscovered;;			92;130;115;80;115;138
+Zamazenta;		889;	;				Fighting;;		Dauntless Shield;;		;				10;			Undiscovered;;			92;130;115;80;115;138
 Eternatus;		890;	;				Poison;	Dragon;	Pressure;	;			;				255;		Undiscovered;;			140;85;95;145;95;130
