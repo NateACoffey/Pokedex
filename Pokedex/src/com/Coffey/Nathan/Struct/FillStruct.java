@@ -3,7 +3,7 @@ package com.Coffey.Nathan.Struct;
 
 class FillStruct {
 	
-	static final int pokeTotal = 890;
+	static final int pokeTotal = 898;
 	static Node[] hash = new Node[pokeTotal];
 		
 	
